@@ -1,0 +1,92 @@
+[
+    {
+        "url": "/tv/the_mysteries_of_laura/s02",
+        "summary": "A New York City detective juggles her busy job with her hectic home life as the mom of twin boys. Based on the Spanish series \"Los misterios de Laura.\"",
+        "premiered": "NBC",
+        "network": "Drama",
+        "episodesUrl": [
+            "/tv/the_mysteries_of_laura/s02/e01",
+            "/tv/the_mysteries_of_laura/s02/e02",
+            "/tv/the_mysteries_of_laura/s02/e03",
+            "/tv/the_mysteries_of_laura/s02/e04",
+            "/tv/the_mysteries_of_laura/s02/e05",
+            "/tv/the_mysteries_of_laura/s02/e06",
+            "/tv/the_mysteries_of_laura/s02/e07",
+            "/tv/the_mysteries_of_laura/s02/e08",
+            "/tv/the_mysteries_of_laura/s02/e09",
+            "/tv/the_mysteries_of_laura/s02/e10"
+        ]
+    },
+    {
+        "url": "/tv/the_mysteries_of_laura/s01",
+        "summary": "The premiere season of this police drama, which was adapted from the Spanish series \"Los misterios de Laura,\" focuses on Laura Diamond (Debra Messing), a New York City homicide detective who perseveres through the daily challenges of solving murders, dealing with her boss and soon-to-be ex-husband, Jake Broderick (Josh Lucas), and keeping her rambunctious twin sons under control as a single mother. Messing reunites with Eric McCormack, her longtime \"Will & Grace\" costar, when he guest stars as her ex-boyfriend.",
+        "premiered": "NBC",
+        "network": "Drama",
+        "episodesUrl": [
+            "/tv/the_mysteries_of_laura/s01/e01",
+            "/tv/the_mysteries_of_laura/s01/e02",
+            "/tv/the_mysteries_of_laura/s01/e03",
+            "/tv/the_mysteries_of_laura/s01/e04",
+            "/tv/the_mysteries_of_laura/s01/e05",
+            "/tv/the_mysteries_of_laura/s01/e06",
+            "/tv/the_mysteries_of_laura/s01/e07",
+            "/tv/the_mysteries_of_laura/s01/e08",
+            "/tv/the_mysteries_of_laura/s01/e09",
+            "/tv/the_mysteries_of_laura/s01/e10"
+        ]
+    },
+    {
+        "url": "/tv/the_detour/s03",
+        "summary": "Misadventures plague a family when they embark on a vacation in this comedy.",
+        "premiered": "TBS",
+        "network": "Comedy",
+        "episodesUrl": [
+            "/tv/the_detour/s03/e01",
+            "/tv/the_detour/s03/e02",
+            "/tv/the_detour/s03/e03",
+            "/tv/the_detour/s03/e04",
+            "/tv/the_detour/s03/e05",
+            "/tv/the_detour/s03/e06",
+            "/tv/the_detour/s03/e07",
+            "/tv/the_detour/s03/e08",
+            "/tv/the_detour/s03/e09",
+            "/tv/the_detour/s03/e10"
+        ]
+    },
+    {
+        "url": "/tv/the_detour/s02",
+        "summary": "Misadventures plague a family when they embark on a vacation in this comedy.",
+        "premiered": "TBS",
+        "network": "Comedy",
+        "episodesUrl": [
+            "/tv/the_detour/s02/e01",
+            "/tv/the_detour/s02/e02",
+            "/tv/the_detour/s02/e04",
+            "/tv/the_detour/s02/e05",
+            "/tv/the_detour/s02/e06",
+            "/tv/the_detour/s02/e07",
+            "/tv/the_detour/s02/e08",
+            "/tv/the_detour/s02/e09",
+            "/tv/the_detour/s02/e10",
+            "/tv/the_detour/s02/e11"
+        ]
+    },
+    {
+        "url": "/tv/the_detour/s01",
+        "summary": "Misadventures plague a family when they embark on a vacation in this comedy.",
+        "premiered": "TBS",
+        "network": "Comedy",
+        "episodesUrl": [
+            "/tv/the_detour/s01/e01",
+            "/tv/the_detour/s01/e02",
+            "/tv/the_detour/s01/e03",
+            "/tv/the_detour/s01/e04",
+            "/tv/the_detour/s01/e05",
+            "/tv/the_detour/s01/e06",
+            "/tv/the_detour/s01/e07",
+            "/tv/the_detour/s01/e08",
+            "/tv/the_detour/s01/e09",
+            "/tv/the_detour/s01/e10"
+        ]
+    }
+]

@@ -1,0 +1,917 @@
+[
+    {
+        "url": "/tv/the-wrong-mans/s02/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/julia-raeside/",
+                "criticName": "Julia Raeside",
+                "criticOrganization": "Guardian",
+                "criticReviewDate": "December 29, 2014",
+                "criticPost": "I'm not ashamed to say I stood and clapped at the end, on my own in a quiet room.",
+                "postUrl": "http://www.theguardian.com/tv-and-radio/2014/dec/23/wrong-mans-review-audacious-ambitious-got-everything-right",
+                "criticScore": "",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/the-wrong-mans/s01/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/christopher-stevens/",
+                "criticName": "Christopher Stevens",
+                "criticOrganization": "Daily Mail (UK)",
+                "criticReviewDate": "November 6, 2017",
+                "criticPost": "If the plot had been at all predictable, this melange of styles could have been self-indulgent. But the story kept surprising us.",
+                "postUrl": "http://www.dailymail.co.uk/tvshowbiz/article-2431018/The-Wrong-Mans-review-Hitchcock-Tarantino-James-Cordens-master-spoof.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/eric-hegedus/",
+                "criticName": "Eric Hegedus",
+                "criticOrganization": "New York Post",
+                "criticReviewDate": "August 12, 2014",
+                "criticPost": "The results are harrowing, hilarious and genre-busting.",
+                "postUrl": "http://nypost.com/2013/11/10/hulus-the-wrong-mans-better-than-network-brethren/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/cory-barker/",
+                "criticName": "Cory Barker",
+                "criticOrganization": "TV.com",
+                "criticReviewDate": "August 12, 2014",
+                "criticPost": "Baynton and Corden play off one another very well, giving The Wrong Mans a nice comedic center that's surrounded by nutty plot developments and occasional, surprisingly dark subject matter.",
+                "postUrl": "http://www.tv.com/news/streaming-shows-report-are-amazons-alpha-house-and-betas-and-hulus-the-wrong-mans-worth-your-time-138543809160/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/sadie-gennis/",
+                "criticName": "Sadie Gennis",
+                "criticOrganization": "TV Guide",
+                "criticReviewDate": "August 12, 2014",
+                "criticPost": "There are times when the series' many twists can be hard to keep track of, but the show's whip-fast pacing is also one of its greatest assets.",
+                "postUrl": "http://www.tvguide.com/news/hulu-wrong-mans-1073213.aspx",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/gabriel-tate/",
+                "criticName": "Gabriel Tate",
+                "criticOrganization": "Time Out",
+                "criticReviewDate": "August 12, 2014",
+                "criticPost": "It's never dull and frequently very funny.",
+                "postUrl": "http://www.timeout.com",
+                "criticScore": "3/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/andrea-mullaney/",
+                "criticName": "Andrea Mullaney",
+                "criticOrganization": "Scotsman",
+                "criticReviewDate": "August 12, 2014",
+                "criticPost": "Just as the weather turns rotten, here's The Wrong Mans, a bit of fun with a smart enough script and some actual jokes.",
+                "postUrl": "http://www.scotsman.com/what-s-on/tv-radio/tv-preview-the-wrong-mans-the-it-crowd-1-3105557",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/robert-lloyd/",
+                "criticName": "Robert Lloyd",
+                "criticOrganization": "Los Angeles Times",
+                "criticReviewDate": "August 12, 2014",
+                "criticPost": "The goings-on feel fresh in the way that kids at play make spy or space stories their own, even as they repeat what TV and the movies have taught them.",
+                "postUrl": "http://www.latimes.com/entertainment/tv/showtracker/la-et-st-review-the-wrong-mans-on-hulu-20131111-story.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/alison-willmore/",
+                "criticName": "Alison Willmore",
+                "criticOrganization": "indieWire",
+                "criticReviewDate": "August 12, 2014",
+                "criticPost": "It may not have the sharpness of a Wright effort, but the show is deeply committed to its world-colliding premise, and trots out a host of serious actors.",
+                "postUrl": "http://www.indiewire.com/article/television/the-wrong-mans-review-hulu",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/ellen-e-jones/",
+                "criticName": "Ellen E Jones",
+                "criticOrganization": "Independent (UK)",
+                "criticReviewDate": "August 12, 2014",
+                "criticPost": "It certainly looks as good as a Hollywood thriller. It's only a shame that the combination of ordinary blokes and extraordinary setting won't feel original to anyone who's seen Shaun of the Dead or any other Simon Pegg/Nick Frost collaboration.",
+                "postUrl": "http://www.independent.co.uk/arts-entertainment/tv/reviews/last-nights-viewing--london-irish-channel-4-the-wrong-mans-bbc2-8837359.html",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/sam-wollaston/",
+                "criticName": "Sam Wollaston",
+                "criticOrganization": "Guardian",
+                "criticReviewDate": "August 12, 2014",
+                "criticPost": "A comedy thriller that's too silly to be thrilling and not funny enough to be funny.",
+                "postUrl": "http://www.theguardian.com/tv-and-radio/2013/oct/02/the-wrong-mans-tv-review",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/joanne-ostrow/",
+                "criticName": "Joanne Ostrow",
+                "criticOrganization": "Denver Post",
+                "criticReviewDate": "August 12, 2014",
+                "criticPost": "A geeky office worker picks up a ringing telephone at the scene of a car crash and sets in motion a crazy-funny mystery.",
+                "postUrl": "http://blogs.denverpost.com/ostrow/tag/the-wrong-mans/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/todd-vanderwerff/",
+                "criticName": "Todd VanDerWerff",
+                "criticOrganization": "AV Club",
+                "criticReviewDate": "August 12, 2014",
+                "criticPost": "The Wrong Mans, Hulu's latest original series, is almost certainly the first Hitchcockian thriller sitcom that doubles as a critique of the global security state.",
+                "postUrl": "http://www.avclub.com/review/the-wrong-mans-105409",
+                "criticScore": "B+",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/tom-conroy/",
+                "criticName": "Tom Conroy",
+                "criticOrganization": "Media Life",
+                "criticReviewDate": "December 13, 2013",
+                "criticPost": "The series' absurdly complex plot and genre clich�s are clearly tongue-in-cheek, but we still find ourselves rooting for the heroes and getting caught up in the suspense. Light and witty, the series is the perfect time filler.",
+                "postUrl": "http://www.medialifemagazine.com/wrong-mans-just-right-touch/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/melissa-maerz/",
+                "criticName": "Melissa Maerz",
+                "criticOrganization": "Entertainment Weekly",
+                "criticReviewDate": "November 21, 2013",
+                "criticPost": "Just as adept with suspense as slapstick humor, it's both a piss-take of action dramas and a strong action drama in its own right.",
+                "postUrl": "http://www.ew.com/ew/article/0,,20758469,00.html",
+                "criticScore": "B+",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/kari-croop/",
+                "criticName": "Kari Croop",
+                "criticOrganization": "Common Sense Media",
+                "criticReviewDate": "November 21, 2013",
+                "criticPost": "Average Joes get pulled into violence, accidental espionage.",
+                "postUrl": "http://www.commonsensemedia.org/tv-reviews/the-wrong-mans",
+                "criticScore": "4/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/erik-adams/",
+                "criticName": "Erik Adams",
+                "criticOrganization": "AV Club",
+                "criticReviewDate": "November 13, 2013",
+                "criticPost": "Zoom: Off to the conspiracy-thriller races.",
+                "postUrl": "http://www.avclub.com/articles/the-wrong-mansdead-mans,105445/",
+                "criticScore": "B",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/sabienna-bowman/",
+                "criticName": "Sabienna Bowman",
+                "criticOrganization": "TV Equals",
+                "criticReviewDate": "November 12, 2013",
+                "criticPost": "A comedy with a cinematic heart and two talented actors/writers at its core. We couldn't ask for more, aside from maybe a breathtaking train scene (oh wait, it has one of those too).",
+                "postUrl": "http://www.tvequals.com/2013/11/11/advance-review-why-hulus-the-wrong-mans-is-the-best-new-comedy-of-the-year/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/brian-lowry/",
+                "criticName": "Brian Lowry",
+                "criticOrganization": "Variety",
+                "criticReviewDate": "November 11, 2013",
+                "criticPost": "Corden and Baynton bring considerable charm to their broadly drawn roles, and have the natural rapport necessary for any odd couple pairing.",
+                "postUrl": "http://variety.com/2013/digital/reviews/the-wrong-mans-review-on-hulu-1200808761/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/alan-sepinwall/",
+                "criticName": "Alan Sepinwall",
+                "criticOrganization": "HitFix",
+                "criticReviewDate": "November 11, 2013",
+                "criticPost": "There are real stakes - Sam and Phil witness a number of violent deaths - a coherent mystery that makes sense by the end, and a propulsive narrative style that pushes our misfit heroes from one problem to the next to the next.",
+                "postUrl": "http://www.hitfix.com/whats-alan-watching/review-hulus-the-wrong-mans-a-comic-thriller-with-laughs-and-suspense",
+                "criticScore": "B+",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/mike-hale/",
+                "criticName": "Mike Hale",
+                "criticOrganization": "New York Times",
+                "criticReviewDate": "November 11, 2013",
+                "criticPost": "Give James Corden the right material, and he can make anything funny. He demonstrates this repeatedly in The Wrong Mans, his new spy-comedy series for the BBC and Hulu.",
+                "postUrl": "http://www.nytimes.com/2013/11/11/arts/television/the-wrong-mans-a-new-series-for-the-bbc-and-hulu.html?ref=television&_r=0",
+                "criticScore": "",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/dont_trust_the_b_in_apartment_23/s02/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/wenlei-ma/",
+                "criticName": "Wenlei Ma",
+                "criticOrganization": "News.com.au",
+                "criticReviewDate": "December 14, 2016",
+                "criticPost": "A (sort of) oldie but an oft-ignored goodie. Krysten Ritter (Jessica Jones) is at her acerbically funny best as the titular b**** in apartment 23.",
+                "postUrl": "http://www.news.com.au/technology/home-entertainment/tv/what-you-should-binge-over-the-summer-break/news-story/4e45ba08302718dbf3963ed88a940091",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/verne-gay/",
+                "criticName": "Verne Gay",
+                "criticOrganization": "Newsday",
+                "criticReviewDate": "October 23, 2012",
+                "criticPost": "Still funny and still an acquired taste.",
+                "postUrl": "http://www.newsday.com/entertainment/tv/don-t-trust-the-b-in-apartment-23-review-1.4133500",
+                "criticScore": "B+",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/maureen-ryan/",
+                "criticName": "Maureen Ryan",
+                "criticOrganization": "Huffington Post",
+                "criticReviewDate": "October 23, 2012",
+                "criticPost": "This show only occasionally works, and I increasingly think it would have been a better bet as an animated show.",
+                "postUrl": "http://www.huffingtonpost.com/maureen-ryan/happy-endings-review_b_1974846.html?utm_hp_ref=maureen-ryan",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/alan-sepinwall/",
+                "criticName": "Alan Sepinwall",
+                "criticOrganization": "HitFix",
+                "criticReviewDate": "October 23, 2012",
+                "criticPost": "It's the same uneven show [as it was in season 1], full of ideas that seem funny in concept but only occasionally get there in execution.",
+                "postUrl": "http://www.hitfix.com/whats-alan-watching/review-abcs-dont-trust-the-b-in-apt-23-returns-for-season-2",
+                "criticScore": "C+",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/curt-wagner/",
+                "criticName": "Curt Wagner",
+                "criticOrganization": "RedEye",
+                "criticReviewDate": "October 23, 2012",
+                "criticPost": "It's a fun episode; Van Der Beek's good-sported spoofing of his past is still the best thing about the show.",
+                "postUrl": "http://www.redeyechicago.com/entertainment/tv/redeye-happy-endings-dont-trust-the-b-in-apartment-23-premieres-tv-20121022,0,7179789.story",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/june-thomas/",
+                "criticName": "June Thomas",
+                "criticOrganization": "Slate",
+                "criticReviewDate": "October 23, 2012",
+                "criticPost": "The deliciously depraved sitcom, which returns for its second season tonight, reminds viewers that these days a working stiff can't catch a break.",
+                "postUrl": "http://www.slate.com/articles/arts/television/2012/10/don_t_trust_the_bitch_in_apartment_23_reviewed.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/brian-tallerico/",
+                "criticName": "Brian Tallerico",
+                "criticOrganization": "HollywoodChicago.com",
+                "criticReviewDate": "October 23, 2012",
+                "criticPost": "I'm still not convinced this show can maintain its high degree of snark every single week but it's off to a more promising start than it was a year ago.",
+                "postUrl": "http://www.hollywoodchicago.com/news/20385/tv-review-happy-endings-dont-trust-the-b-in-apt-23-return-to-crowded-night?page=0%2C1",
+                "criticScore": "3.5/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/emily-guendelsberger/",
+                "criticName": "Emily Guendelsberger",
+                "criticOrganization": "AV Club",
+                "criticReviewDate": "October 23, 2012",
+                "criticPost": "I'm still so impressed with how much Krysten Ritter can do with just her eyes.",
+                "postUrl": "http://www.avclub.com/articles/a-reunion,87782/",
+                "criticScore": "A-",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/willa-paskin/",
+                "criticName": "Willa Paskin",
+                "criticOrganization": "Salon.com",
+                "criticReviewDate": "October 23, 2012",
+                "criticPost": "It has a delightful bad attitude, a serrated insouciance.",
+                "postUrl": "http://www.salon.com/2012/10/24/the_b_in_apt_23_goes_niche/",
+                "criticScore": "",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/dont_trust_the_b_in_apartment_23/s01/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/carl-dexter/",
+                "criticName": "Carl Dexter",
+                "criticOrganization": "Paste Magazine",
+                "criticReviewDate": "August 24, 2017",
+                "criticPost": "[Ritter's] a breezy blast as pure, unrestrained id, and she's surrounded by a fine cast.",
+                "postUrl": "https://www.pastemagazine.com/articles/2017/08/10-underrated-sitcoms-on-netflix.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/verne-gay/",
+                "criticName": "Verne Gay",
+                "criticOrganization": "Newsday",
+                "criticReviewDate": "April 11, 2012",
+                "criticPost": "Raunchy and at times genuinely funny, Apartment 23 is jam-packed with promise - and inconsistencies.",
+                "postUrl": "http://www.newsday.com/entertainment/tv/don-t-trust-the-b-in-apartment-23-could-clean-up-1.3650821",
+                "criticScore": "B+",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/david-eckstein/",
+                "criticName": "David Eckstein",
+                "criticOrganization": "Zap2it.com",
+                "criticReviewDate": "April 11, 2012",
+                "criticPost": "The show offers dark, absurdest comedy that's refreshing, different, weird and totally worth watching.",
+                "postUrl": "http://blog.zap2it.com/frominsidethebox/2012/04/dont-trust-the-b-----in-apt-23-review-weirdly-funny.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/mary-mcnamara/",
+                "criticName": "Mary McNamara",
+                "criticOrganization": "Los Angeles Times",
+                "criticReviewDate": "April 11, 2012",
+                "criticPost": "One of the funniest of the new batch of female-centric comedies, with a fine supporting cast.",
+                "postUrl": "http://www.latimes.com/entertainment/news/tv/la-et-apartment-23-20120411,0,6162683.story",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/tim-goodman/",
+                "criticName": "Tim Goodman",
+                "criticOrganization": "Hollywood Reporter",
+                "criticReviewDate": "April 11, 2012",
+                "criticPost": "Strong ensemble, wit and James Van Der Beek as BFF make this one to watch.",
+                "postUrl": "http://www.hollywoodreporter.com/review/dont-trust-b-apartment-23-krysten-ritter-james-van-der-beek-310286",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/ellen-gray/",
+                "criticName": "Ellen Gray",
+                "criticOrganization": "Philadelphia Daily News",
+                "criticReviewDate": "April 11, 2012",
+                "criticPost": "One of the funnier network shows of the season.",
+                "postUrl": "http://articles.philly.com/2012-04-11/news/31325394_1_broke-girls-abc-cbs",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/matt-roush/",
+                "criticName": "Matt Roush",
+                "criticOrganization": "TV Guide",
+                "criticReviewDate": "April 11, 2012",
+                "criticPost": "Something happening in and around Apartment 23 ought to make you laugh.",
+                "postUrl": "http://www.tvguide.com/News/Review-Apt-23-1045900.aspx",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/sarah-rodman/",
+                "criticName": "Sarah Rodman",
+                "criticOrganization": "Boston Globe",
+                "criticReviewDate": "April 11, 2012",
+                "criticPost": "Unlike some of the more uneven odd-couple series that have premiered in recent years, Apartment 23 could turn into a trustworthy address for laughs.",
+                "postUrl": "http://www.boston.com/ae/tv/articles/2012/04/11/review_of_new_abc_comedy_dont_trust_the_b_____in_apartment_23apartment_a_home_for_laughs/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/david-hiltbrand/",
+                "criticName": "David Hiltbrand",
+                "criticOrganization": "Philadelphia Inquirer",
+                "criticReviewDate": "April 11, 2012",
+                "criticPost": "This tart and tangy comedy earns its attitude.",
+                "postUrl": "http://articles.philly.com/2012-04-10/news/31319087_1_van-der-beek-chloe",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/rob-owen/",
+                "criticName": "Rob Owen",
+                "criticOrganization": "Pittsburgh Post-Gazette",
+                "criticReviewDate": "April 11, 2012",
+                "criticPost": "Some viewers will take offense at the title and the show's ribald humor, but the program holds appeal for fans of comedy that depends on pop-culture knowledge.",
+                "postUrl": "http://www.post-gazette.com/stories/ae/tv-radio/crude-comedy-630493/?p=0",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/lori-rackl/",
+                "criticName": "Lori Rackl",
+                "criticOrganization": "Chicago Sun-Times",
+                "criticReviewDate": "April 11, 2012",
+                "criticPost": "A deliciously nasty comedy that takes a well-worn formula and whips it to life with clever writing and an engaging cast.",
+                "postUrl": "http://www.suntimes.com/entertainment/television/11821470-421/you-can-trust-the-b-to-deliver-laughs.html",
+                "criticScore": "3/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/robert-bianco/",
+                "criticName": "Robert Bianco",
+                "criticOrganization": "USA Today",
+                "criticReviewDate": "April 11, 2012",
+                "criticPost": "While the show generally maneuvers well, it occasionally stumbles.",
+                "postUrl": "http://www.usatoday.com/life/television/reviews/story/2012-04-10/dont-trust-the-b-in-apt-23/54159570/1",
+                "criticScore": "3/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/ed-bark/",
+                "criticName": "Ed Bark",
+                "criticOrganization": "Uncle Barky",
+                "criticReviewDate": "April 11, 2012",
+                "criticPost": "This bitch has got some pop.",
+                "postUrl": "http://unclebarky.com/reviews_files/51a7b2ca14099ac810b9852ec2e8b332-1299.html",
+                "criticScore": "B",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/linda-stasi/",
+                "criticName": "Linda Stasi",
+                "criticOrganization": "New York Post",
+                "criticReviewDate": "April 11, 2012",
+                "criticPost": "The girls are perfect and the addition of James Van Der Beek playing himself is just hilarious.",
+                "postUrl": "http://www.nypost.com/p/entertainment/tv/witchy_way_out_S4NEqOwnBKT7METHhjcM9M",
+                "criticScore": "3/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/phillip-maciak/",
+                "criticName": "Phillip Maciak",
+                "criticOrganization": "Slant Magazine",
+                "criticReviewDate": "April 11, 2012",
+                "criticPost": "Funny enough to overlook its spurious reason for existence and unpredictable enough to keep things from stagnating",
+                "postUrl": "http://www.slantmagazine.com/tv/review/dont-trust-the-b-in-apartment-23-season-one/323",
+                "criticScore": "3/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/david-wiegand/",
+                "criticName": "David Wiegand",
+                "criticOrganization": "San Francisco Chronicle",
+                "criticReviewDate": "April 11, 2012",
+                "criticPost": "You can trust that this B- is pretty d- funny.",
+                "postUrl": "http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2012/04/09/DDH61NUOVH.DTL",
+                "criticScore": "3/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/matt-zoller-seitz/",
+                "criticName": "Matt Zoller Seitz",
+                "criticOrganization": "New York Magazine/Vulture",
+                "criticReviewDate": "April 11, 2012",
+                "criticPost": "It's intriguing for how it balances sweetness and sleaze.",
+                "postUrl": "http://www.vulture.com/2012/04/dont-trust-the-b-in-apartment-23-review.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/maureen-ryan/",
+                "criticName": "Maureen Ryan",
+                "criticOrganization": "Huffington Post",
+                "criticReviewDate": "April 11, 2012",
+                "criticPost": "Gets a reasonable amount of comedy out of this sturdy odd-couple setup.",
+                "postUrl": "http://www.huffingtonpost.com/maureen-ryan/dont-trust-the-b-apt-23-review_b_1413283.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/brian-lowry/",
+                "criticName": "Brian Lowry",
+                "criticOrganization": "Variety",
+                "criticReviewDate": "April 11, 2012",
+                "criticPost": "That isn't to say the show lacks charm, only that its irreverence and madcap energy disguises a conventional mismatched buddy comedy.",
+                "postUrl": "http://www.variety.com/review/VE1117947356",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/alan-sepinwall/",
+                "criticName": "Alan Sepinwall",
+                "criticOrganization": "HitFix",
+                "criticReviewDate": "April 11, 2012",
+                "criticPost": "I found that, no matter what stage the friendship was in, I didn't laugh out loud all that much at any of the episodes, though I was pleased overall by the leads and surreal worldview.",
+                "postUrl": "http://www.hitfix.com/blogs/whats-alan-watching/posts/review-abcs-dont-trust-the-b-in-apt-23",
+                "criticScore": "B-",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/spartacus/s03/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/rob-owen/",
+                "criticName": "Rob Owen",
+                "criticOrganization": "Pittsburgh Post-Gazette",
+                "criticReviewDate": "April 3, 2018",
+                "criticPost": "The new Romans are no replacement for the original Romans of the series.",
+                "postUrl": "http://www.post-gazette.com/ae/tv-radio/2013/01/25/Tuned-In-Ending-Spartacus-is-smart-decision/stories/201301250133",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/michael-starr/",
+                "criticName": "Michael Starr",
+                "criticOrganization": "New York Post",
+                "criticReviewDate": "April 3, 2018",
+                "criticPost": "It's all a muddled mess of computer-generated battlefield scenes.",
+                "postUrl": "https://nypost.com/2013/01/25/gory-spartacus-heads-for-final-showdown/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/matt-roush/",
+                "criticName": "Matt Roush",
+                "criticOrganization": "TV Guide",
+                "criticReviewDate": "April 12, 2013",
+                "criticPost": "The series finale justifies this last season's subtitle, War of the Damned, with a truly epic clash of historic titans.",
+                "postUrl": "http://www.tvguide.com/News/Weekend-Playlist-Spartacus-1063963.aspx",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/mark-a-perigard/",
+                "criticName": "Mark A. Perigard",
+                "criticOrganization": "Boston Herald",
+                "criticReviewDate": "April 11, 2013",
+                "criticPost": "The battle scenes make 300 seem like a Nickelodeon cartoon.",
+                "postUrl": "http://bostonherald.com/entertainment/television/television_reviews/2013/04/spartacus_finale_is_damned_good",
+                "criticScore": "A-",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/linda-stasi/",
+                "criticName": "Linda Stasi",
+                "criticOrganization": "New York Post",
+                "criticReviewDate": "April 9, 2013",
+                "criticPost": "Beautifully filmed, engagingly good and filled with the most gorgeous men on TV.",
+                "postUrl": "http://www.nypost.com/p/entertainment/tv/is_this_really_the_end_of_spartacus_QJeU8nK5EEclHiKxq9Vn9M",
+                "criticScore": "4/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/aaron-riccio/",
+                "criticName": "Aaron Riccio",
+                "criticOrganization": "Slant Magazine",
+                "criticReviewDate": "February 5, 2013",
+                "criticPost": "It becomes clear why this final season is labeled War of the Damned, and all but guarantees that while [the] fighting will lead to a bitter end, it will lead viewers to the most savory of conclusions.",
+                "postUrl": "http://www.slantmagazine.com/tv/review/spartacus-war-of-the-damned/389",
+                "criticScore": "3.5/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/brian-lowry/",
+                "criticName": "Brian Lowry",
+                "criticOrganization": "Variety",
+                "criticReviewDate": "January 25, 2013",
+                "criticPost": "It's hard not to admire its improved quality and heightened sense of purpose.",
+                "postUrl": "http://www.variety.com/review/VE1117949050/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/ryan-mcgee/",
+                "criticName": "Ryan McGee",
+                "criticOrganization": "AV Club",
+                "criticReviewDate": "January 25, 2013",
+                "criticPost": "Thus is the genius of Spartacus as a whole, to take what it would dub \"grand spectacle\" and reduce it to a two-person scene in which two hardened individuals lay themselves emotionally bare.",
+                "postUrl": "http://www.avclub.com/articles/enemies-of-rome,91376/",
+                "criticScore": "A-",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/chris-carabott/",
+                "criticName": "Chris Carabott",
+                "criticOrganization": "IGN Movies",
+                "criticReviewDate": "January 25, 2013",
+                "criticPost": "Ah, Spartacus! How much we've missed you.",
+                "postUrl": "http://www.ign.com/articles/2013/01/25/spartacus-war-of-the-damned-enemies-of-rome-review",
+                "criticScore": "8.3/10",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/neil-genzlinger/",
+                "criticName": "Neil Genzlinger",
+                "criticOrganization": "New York Times",
+                "criticReviewDate": "January 24, 2013",
+                "criticPost": "Here at the Bureau for Solving Problems That May or May Not Be Problems, we have been on high alert all week because of the impending premiere of yet another installment of perhaps the most vile series on television, Spartacus.",
+                "postUrl": "http://www.nytimes.com/2013/01/25/arts/television/distinguishing-sportacus-on-luckytown-from-spartacus.html?ref=television",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/david-hinckley/",
+                "criticName": "David Hinckley",
+                "criticOrganization": "New York Daily News",
+                "criticReviewDate": "January 24, 2013",
+                "criticPost": "It's cartoon violence, but it still creates enough blood spurt and spatter that we half expect to find we've stumbled into a crossover episode with \"Dexter.\"",
+                "postUrl": "http://www.nydailynews.com/entertainment/tv-movies/movie-review-spartacus-war-damned-article-1.1245887",
+                "criticScore": "1/5",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/ed-bark/",
+                "criticName": "Ed Bark",
+                "criticOrganization": "Uncle Barky",
+                "criticReviewDate": "January 23, 2013",
+                "criticPost": "Spartacus in fact is what it is - a broadly drawn, visceral feast of blood, guts, lust and lower-rung language. War of the Damned doesn't spare any of it en route to its no doubt hellish conclusion.",
+                "postUrl": "http://www.unclebarky.com/reviews_files/63ccea29578e2f1161ddbff65ce73eb4-1501.html",
+                "criticScore": "C+",
+                "criticFresh": false
+            }
+        ]
+    },
+    {
+        "url": "/tv/spartacus/s02/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/chris-carabott/",
+                "criticName": "Chris Carabott",
+                "criticOrganization": "IGN Movies",
+                "criticReviewDate": "April 24, 2017",
+                "criticPost": "Judging by the premiere, I get the sense this season will be every bit as good as the previous two.",
+                "postUrl": "http://www.ign.com/articles/2012/01/23/spartacus-vengeance-fugitivus-review",
+                "criticScore": "8/10",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/aaron-riccio/",
+                "criticName": "Aaron Riccio",
+                "criticOrganization": "Slant Magazine",
+                "criticReviewDate": "January 27, 2012",
+                "criticPost": "Well written and acted, almost perfectly paced, and entirely unlike anything else on television, Spartacus isn't just bloody good, it's bloody excellent.",
+                "postUrl": "http://www.slantmagazine.com/tv/review/spartacus-season-two/312",
+                "criticScore": "4/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/verne-gay/",
+                "criticName": "Verne Gay",
+                "criticOrganization": "Newsday",
+                "criticReviewDate": "January 27, 2012",
+                "criticPost": "Everything fans loved about the first season is here. Everyone is not.",
+                "postUrl": "http://www.newsday.com/entertainment/tv/liam-mcintyre-in-for-whitfield-in-spartacus-1.3476557",
+                "criticScore": "B-",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/matt-zoller-seitz/",
+                "criticName": "Matt Zoller Seitz",
+                "criticOrganization": "New York Magazine/Vulture",
+                "criticReviewDate": "January 27, 2012",
+                "criticPost": "For the most part, the reincarnation works",
+                "postUrl": "http://www.vulture.com/2012/01/tv-review-the-sexy-gory-low-rent-spectacle-of-spartacus-vengeance.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/rob-owen/",
+                "criticName": "Rob Owen",
+                "criticOrganization": "Pittsburgh Post-Gazette",
+                "criticReviewDate": "January 27, 2012",
+                "criticPost": "The show keeps you on your toes.",
+                "postUrl": "http://www.post-gazette.com/stories/ae/tv-radio/tuned-in-spartacus-returns-with-a-replacement-for-andy-whitfield-and-a-seeming-cast-of-thousands-218664/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/matt-roush/",
+                "criticName": "Matt Roush",
+                "criticOrganization": "TV Guide",
+                "criticReviewDate": "January 27, 2012",
+                "criticPost": "With overripe dialogue that sounds like Shakespeare ground through a blender of baroque profanity, punctuated by action sequences of almost comical brutality amid orgies of debauchery, Spartacus is back with a vengeance.",
+                "postUrl": "http://www.tvguide.com/News/Weekend-TV-Review-1042263.aspx",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/mike-hale/",
+                "criticName": "Mike Hale",
+                "criticOrganization": "New York Times",
+                "criticReviewDate": "January 27, 2012",
+                "criticPost": "The producers appear to have jacked up the violence and depravity even further.",
+                "postUrl": "http://tv.nytimes.com/2012/01/27/arts/television/spartacus-vengeance-returns-to-starz-channel.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/david-wiegand/",
+                "criticName": "David Wiegand",
+                "criticOrganization": "San Francisco Chronicle",
+                "criticReviewDate": "January 27, 2012",
+                "criticPost": "No matter the casting changes, Spartacus remains good, dirty fun.",
+                "postUrl": "http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2012/01/26/DDEF1MT8TJ.DTL",
+                "criticScore": "2.5/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/david-hinckley/",
+                "criticName": "David Hinckley",
+                "criticOrganization": "New York Daily News",
+                "criticReviewDate": "January 27, 2012",
+                "criticPost": "Spartacus just doesn't feel like it's going to have a long, happy life",
+                "postUrl": "http://www.nydailynews.com/entertainment/television/spartacus-star-liam-mcintyre-a-surprise-return-main-draw-bloody-good-action-article-1.1012352",
+                "criticScore": "2/5",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/brian-lowry/",
+                "criticName": "Brian Lowry",
+                "criticOrganization": "Variety",
+                "criticReviewDate": "January 27, 2012",
+                "criticPost": "Andinsofar as the show contributes to loosening standards and deadening the senses, that bloody victory over the cultural scolds might just be Spartacus most enduring form of revenge.",
+                "postUrl": "http://www.variety.com/review/VE1117946871?refCatId=32",
+                "criticScore": "",
+                "criticFresh": false
+            }
+        ]
+    },
+    {
+        "url": "/tv/spartacus/s01/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/barry-garron/",
+                "criticName": "Barry Garron",
+                "criticOrganization": "Associated Press",
+                "criticReviewDate": "August 30, 2017",
+                "criticPost": "With such thin stories each week, it's small wonder that sex and violence are used to take up the slack.",
+                "postUrl": "http://www.hollywoodreporter.com/review/spartacus-blood-and-sand-tv-29115",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/ken-tucker/",
+                "criticName": "Ken Tucker",
+                "criticOrganization": "Entertainment Weekly",
+                "criticReviewDate": "January 22, 2010",
+                "criticPost": "This might prove to be the not-at-all-guilty pleasure of the season.",
+                "postUrl": "http://www.ew.com/ew/article/0,,20337914,00.html",
+                "criticScore": "B+",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/maureen-ryan/",
+                "criticName": "Maureen Ryan",
+                "criticOrganization": "Chicago Tribune",
+                "criticReviewDate": "January 22, 2010",
+                "criticPost": "The poetic and evocative dialogue works, amazingly enough (it's almost Shakespearean at times), and as the world of Spartacus is fleshed out (in more ways than one), the show develops momentum and the intrigues become more interesting.",
+                "postUrl": "http://featuresblogs.chicagotribune.com/entertainment_tv/2010/01/spartacus-blood-sand-starz-lucy-lawless-gladiators.html",
+                "criticScore": "3/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/hanh-nguyen/",
+                "criticName": "Hanh Nguyen",
+                "criticOrganization": "Zap2it.com",
+                "criticReviewDate": "January 22, 2010",
+                "criticPost": "Spartacus is a rousing, addictive show that doesn't tax with too much moral complexity.",
+                "postUrl": "http://blog.zap2it.com/frominsidethebox/2010/01/spartacus-blood-and-sand-review-bloody-sexy-gladiator-drama.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/robert-lloyd/",
+                "criticName": "Robert Lloyd",
+                "criticOrganization": "Los Angeles Times",
+                "criticReviewDate": "January 22, 2010",
+                "criticPost": "If the show's concerns do not rise far above the level of pulp -- and there is nothing wrong with that -- it does what it does with a sure hand.",
+                "postUrl": "http://articles.latimes.com/2010/jan/22/entertainment/la-et-spartacus22-2010jan22",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/linda-stasi/",
+                "criticName": "Linda Stasi",
+                "criticOrganization": "New York Post",
+                "criticReviewDate": "January 22, 2010",
+                "criticPost": "If this isn't your cup of blood, give it a shot anyway.",
+                "postUrl": "http://www.nypost.com/p/entertainment/tv/bloody_good_excuse_for_nudity_spartacus_XTfd8YFHC0X3aosdknDsSP",
+                "criticScore": "2.5/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/hank-stuever/",
+                "criticName": "Hank Stuever",
+                "criticOrganization": "Washington Post",
+                "criticReviewDate": "January 22, 2010",
+                "criticPost": "Oh, this Spartacus. It's deliciously, marvelously bad, and I was helpless in its grip.",
+                "postUrl": "http://www.washingtonpost.com/wp-dyn/content/article/2010/01/21/AR2010012104590.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/rob-owen/",
+                "criticName": "Rob Owen",
+                "criticOrganization": "Pittsburgh Post-Gazette",
+                "criticReviewDate": "January 22, 2010",
+                "criticPost": "Although some characters share the same names as those in the 1960 Kirk Douglas movie of the same name, this vivid, revealing remake is not for the faint of heart.",
+                "postUrl": "http://www.post-gazette.com/stories/ae/tv-radio/graphic-spartacus-blood-and-sand-offers-more-of-the-former-229789/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/verne-gay/",
+                "criticName": "Verne Gay",
+                "criticOrganization": "Newsday",
+                "criticReviewDate": "January 22, 2010",
+                "criticPost": "If Stanley Kubrick were still alive - he directed the 1960 Kirk Douglas classic of the same name - he wouldn't know whether to laugh or weep.",
+                "postUrl": "http://www.newsday.com/entertainment/tv/spartacus-is-a-roman-orgy-of-blood-and-sex-1.1715048",
+                "criticScore": "C+",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/cary-darling/",
+                "criticName": "Cary Darling",
+                "criticOrganization": "TV Guide",
+                "criticReviewDate": "January 22, 2010",
+                "criticPost": "The problem is that this Spartacus is so over the top that it begs to be considered as total camp.",
+                "postUrl": "http://www.dallasnews.com/entertainment/television/headlines/20100122-Television-review-Spartacus-4215.ece",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/robert-bianco/",
+                "criticName": "Robert Bianco",
+                "criticOrganization": "USA Today",
+                "criticReviewDate": "January 22, 2010",
+                "criticPost": "A heady mix of 300-style graphic violence and Debbie Does Rome soft-core porn, Spartacus: Blood and Sand is proof of TV's ever-expanding boundaries and ever-plummeting tastes.",
+                "postUrl": "http://usatoday30.usatoday.com/life/television/reviews/2010-01-22-spartacus22_ST_N.htm",
+                "criticScore": "2/4",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/david-hinckley/",
+                "criticName": "David Hinckley",
+                "criticOrganization": "New York Daily News",
+                "criticReviewDate": "January 22, 2010",
+                "criticPost": "The trappings up front are so over the top that to say you watch Spartacus to see a contemporary reworking of a cinema classic is like saying you go to Hooters for the food.",
+                "postUrl": "http://www.nydailynews.com/entertainment/tv-movies/starz-spartacus-blood-sand-starring-andy-whitfield-orgy-sex-violence-swearing-article-1.459934",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/brian-lowry/",
+                "criticName": "Brian Lowry",
+                "criticOrganization": "Variety",
+                "criticReviewDate": "January 22, 2010",
+                "criticPost": "Indeed, when the smoke clears from this blood-splattered battle, the survivors will likely stand and sheepishly plead, \"I'm not 'Spartacus!' Please, don't confuse me with 'Spartacus!'\"",
+                "postUrl": "http://www.variety.com/review/VE1117941898?refCatId=32",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/matthew-gilbert/",
+                "criticName": "Matthew Gilbert",
+                "criticOrganization": "Boston Globe",
+                "criticReviewDate": "January 22, 2010",
+                "criticPost": "It was written either by master satirists hoping to inspire viewer drinking games each time blood drops sail in slo-mo or by teen boys.",
+                "postUrl": "http://www.boston.com/ae/tv/articles/2010/01/22/somethings_rotten_in_rome_in_bloody_spartacus/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/alan-sepinwall/",
+                "criticName": "Alan Sepinwall",
+                "criticOrganization": "Newark Star-Ledger",
+                "criticReviewDate": "January 22, 2010",
+                "criticPost": "Not even my affection for honorary TCA member Lucy Lawless is going to keep me around.",
+                "postUrl": "http://www.nj.com/entertainment/tv/index.ssf/2010/01/caprica_spartacus_blood_sand_n.html",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/tim-goodman/",
+                "criticName": "Tim Goodman",
+                "criticOrganization": "San Francisco Chronicle",
+                "criticReviewDate": "January 22, 2010",
+                "criticPost": "Imagine watching a boring porn movie with swords, sandals, CGI, buckets and buckets of blood, and excessive slow-motion \"action\" scenes, all while Satan pulls your soul out of your backside. That's Spartacus: Blood and Sand.",
+                "postUrl": "http://www.sfgate.com/news/article/Syfy-s-Battlestar-prequel-stylish-compelling-3203234.php",
+                "criticScore": "0/4",
+                "criticFresh": false
+            }
+        ]
+    }
+]

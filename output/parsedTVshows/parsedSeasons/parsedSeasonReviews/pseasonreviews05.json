@@ -1,0 +1,397 @@
+[
+    {
+        "url": "/tv/the_circus_inside_the_greatest_political_show_on_earth/s01/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/melissa-camacho/",
+                "criticName": "Melissa Camacho",
+                "criticOrganization": "Common Sense Media",
+                "criticReviewDate": "May 30, 2017",
+                "criticPost": "Solid docu probes 2016 election, tries to be unbiased.",
+                "postUrl": "https://www.commonsensemedia.org/tv-reviews/the-circus",
+                "criticScore": "3/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/inkoo-kang/",
+                "criticName": "Inkoo Kang",
+                "criticOrganization": "MTV",
+                "criticReviewDate": "September 12, 2016",
+                "criticPost": "Whatever terrible revolution we're watching, it definitely isn't being televised with analysis and curiosity here.",
+                "postUrl": "http://www.mtv.com/news/2930957/the-circus-showtime-review/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/liz-raftery/",
+                "criticName": "Liz Raftery",
+                "criticOrganization": "TV.com",
+                "criticReviewDate": "July 11, 2016",
+                "criticPost": "Unlike coverage on Fox News or MSNBC, The Circus offers truly objective analysis of the campaigns. It also shows a more human side of the candidates, painting a clear picture of how grueling life is on the campaign trail.",
+                "postUrl": "http://www.tv.com/news/why-showtimes-the-circus-really-is-the-greatest-political-show-on-earth-11338440837440223486/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/joshua-alston/",
+                "criticName": "Joshua Alston",
+                "criticOrganization": "AV Club",
+                "criticReviewDate": "March 8, 2016",
+                "criticPost": "The Circus is an elegant, intimate, frequently funny look at a process that lives up to the show's title, but like most political coverage these days, leaves a brutal hangover.",
+                "postUrl": "http://www.avclub.com/review/showtimes-circus-takes-warts-and-all-look-very-war-233372",
+                "criticScore": "B+",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/james-poniewozik/",
+                "criticName": "James Poniewozik",
+                "criticOrganization": "New York Times",
+                "criticReviewDate": "March 3, 2016",
+                "criticPost": "The Circus is a kind of reassuring sanity break for politics nerds. There may be treacherous currents roiling this election, unknowable changes to come. But for one sharp half-hour every week, it's all just a show.",
+                "postUrl": "http://www.nytimes.com/2016/03/03/arts/television/circus-showtime-review.html?ref=television",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/rob-owen/",
+                "criticName": "Rob Owen",
+                "criticOrganization": "Pittsburgh Post-Gazette",
+                "criticReviewDate": "March 1, 2016",
+                "criticPost": "The election season show I'm most enjoying is Showtime's The Circus: Inside the Greatest Political Show on Earth.",
+                "postUrl": "http://communityvoices.post-gazette.com/arts-entertainment-living/tuned-in/item/39898-showtime-s-excellent-entertaining-the-circus-follows-presidential-campaign-trail",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/brian-lowry/",
+                "criticName": "Brian Lowry",
+                "criticOrganization": "Variety",
+                "criticReviewDate": "February 26, 2016",
+                "criticPost": "If anything The Circus represents merely another example of exalting the process of politics - the long bus trips, time spent time away from home and strategizing - without offering much that's new or compelling in terms of substance.",
+                "postUrl": "http://variety.com/2016/tv/reviews/the-circus-review-bloomberg-politics-showtime-2016-presidential-race-1201681515/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/dorothy-rabinowitz/",
+                "criticName": "Dorothy Rabinowitz",
+                "criticOrganization": "Wall Street Journal",
+                "criticReviewDate": "February 26, 2016",
+                "criticPost": "We're still only at the beginning stages. All the more reason to treasure an enterprise that preserves the small details as The Circus does.",
+                "postUrl": "http://www.wsj.com/articles/the-circus-inside-the-greatest-political-show-on-earth-review-winning-is-what-matters-1456439178",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/john-doyle/",
+                "criticName": "John Doyle",
+                "criticOrganization": "Globe and Mail",
+                "criticReviewDate": "February 26, 2016",
+                "criticPost": "It's by far the most cleverly shaped and enlightening coverage of U.S. politics right now.",
+                "postUrl": "http://www.theglobeandmail.com/arts/television/john-doyle-the-real-circus-of-us-politics-is-seen-on-the-circus/article28672907/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/frank-scheck/",
+                "criticName": "Frank Scheck",
+                "criticOrganization": "Hollywood Reporter",
+                "criticReviewDate": "February 26, 2016",
+                "criticPost": "Halperin and Heilemann, authors of the best-sellers Game Change and Double Down, certainly know their stuff, even if they inject themselves a little too enthusiastically into the proceedings.",
+                "postUrl": "http://www.hollywoodreporter.com/review/circus-inside-greatest-political-show-856684",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/steve-almond/",
+                "criticName": "Steve Almond",
+                "criticOrganization": "Salon.com",
+                "criticReviewDate": "February 26, 2016",
+                "criticPost": "Watching the show made me ache for the kind of candid, outraged political reportage that simply doesn't exist anymore.",
+                "postUrl": "http://www.salon.com/2016/01/24/fear_and_loafing_on_the_campaign_trail_showtimes_the_circus_cops_out_with_cynical_pundit_porn/",
+                "criticScore": "",
+                "criticFresh": false
+            }
+        ]
+    },
+    {
+        "url": "/tv/sabrina_the_teenage_witch/s05/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/christel-loar/",
+                "criticName": "Christel Loar",
+                "criticOrganization": "PopMatters",
+                "criticReviewDate": "January 12, 2018",
+                "criticPost": "Sabrina The Teenage Witch undoubtedly made some very loyal friends her freshman year.",
+                "postUrl": "https://www.popmatters.com/69927-sabrina-the-teenage-witch-the-fifth-season-2496065187.html",
+                "criticScore": "7/10",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/sabrina_the_teenage_witch/s02/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/thomas-hine/",
+                "criticName": "Thomas Hine",
+                "criticOrganization": "New York Times",
+                "criticReviewDate": "January 12, 2018",
+                "criticPost": "Throughout the current season, ''Sabrina the Teen-Age Witch'' is dealing indirectly and generally approvingly with legal and bureaucratic limits on teen-agers' freedom.",
+                "postUrl": "http://www.nytimes.com/1997/10/26/arts/television-tv-s-teen-agers-an-insecure-world-weary-lot.html",
+                "criticScore": "",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/sabrina_the_teenage_witch/s01/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/alan-pergament/",
+                "criticName": "Alan Pergament",
+                "criticOrganization": "Buffalo News",
+                "criticReviewDate": "April 16, 2018",
+                "criticPost": "Set in the teen-age world, Sabrina is ripe for myriad story lines about peer pressure, wanting to be normal and maybe even how to make acne disappear.",
+                "postUrl": "http://buffalonews.com/1996/09/27/once-a-thief-is-chock-full-of-violence-sweet-sabrina-is-bewitching/",
+                "criticScore": "3.5/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/jeremy-gerard/",
+                "criticName": "Jeremy Gerard",
+                "criticOrganization": "Variety",
+                "criticReviewDate": "January 12, 2018",
+                "criticPost": "None of it is what you'd call inspired, though some of it is amusing. Hart is already quite comfortable on the small screen, and there's a nice relationship developing with a classmate who goes her own way and who isn't blond, played by Michelle Beaudoin.",
+                "postUrl": "http://variety.com/1996/tv/reviews/sabrina-the-teenage-witch-1200446685/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/steve-johnson/",
+                "criticName": "Steve Johnson",
+                "criticOrganization": "Chicago Tribune",
+                "criticReviewDate": "January 12, 2018",
+                "criticPost": "Whether the show can match \"Clarissa's\" hold on teen imaginations won't be known until a preview tape arrives, but Hart is a proven talent.",
+                "postUrl": "http://articles.chicagotribune.com/1996-09-08/news/9609080056_1_new-season-bill-cosby-spin-city/3",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/melissa-camacho/",
+                "criticName": "Melissa Camacho",
+                "criticOrganization": "Common Sense Media",
+                "criticReviewDate": "January 12, 2018",
+                "criticPost": "Sabrina, the Teenage Witch reminds us that while magic can be helpful, life is about being mature enough to face the consequences of our actions, not waving a wand or reciting a spell.",
+                "postUrl": "https://www.commonsensemedia.org/tv-reviews/sabrina-the-teenage-witch",
+                "criticScore": "3/5",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/trial_error/s01/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/pattie-pegler/",
+                "criticName": "Pattie Pegler",
+                "criticOrganization": "Stuff.co.nz",
+                "criticReviewDate": "April 19, 2017",
+                "criticPost": "Ah, look, it's okay. Not for now, but later. Perhaps for the flu season when you're lying on the couch, half-conscious, dosing up on Lemsip. Then it'll be suitably soothing and untaxing.",
+                "postUrl": "http://www.stuff.co.nz/entertainment/tv-radio/90652748/tv-review-chance-trial-and-error--should-you-risk-watching-them",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/joyce-slaton/",
+                "criticName": "Joyce Slaton",
+                "criticOrganization": "Common Sense Media",
+                "criticReviewDate": "March 21, 2017",
+                "criticPost": "Clich�d courtroom comedy is funnier than it should be.",
+                "postUrl": "https://www.commonsensemedia.org/tv-reviews/trial-error",
+                "criticScore": "3/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/rob-lowman/",
+                "criticName": "Rob Lowman",
+                "criticOrganization": "Los Angeles Daily News",
+                "criticReviewDate": "March 20, 2017",
+                "criticPost": "It's great to see Lithgow, who won a Golden Globe earlier this year for playing Winston Churchill in Netflix's series The Crown, but there's not much challenge here for him and too few laughs.",
+                "postUrl": "http://www.dailynews.com/arts-and-entertainment/20170312/nbcs-trial-amp-error-guilty-of-being-more-odd-than-funny",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/jesse-schedeen/",
+                "criticName": "Jesse Schedeen",
+                "criticOrganization": "IGN Movies",
+                "criticReviewDate": "March 16, 2017",
+                "criticPost": "Lithgow's performance coupled with the serialized murder mystery element both serve to add a little flavor to an enjoyable but otherwise formulaic comedy.",
+                "postUrl": "http://www.ign.com/articles/2017/03/14/trial-error-pilot-a-wrench-in-the-case-review",
+                "criticScore": "7.8/10",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/roger-catlin/",
+                "criticName": "Roger Catlin",
+                "criticOrganization": "rogercatlin.com",
+                "criticReviewDate": "March 15, 2017",
+                "criticPost": "John Lithgow is swell as the defendant in the murder of his wife, piling up suspicion as he maintains his clueless innocence. But it's the ensemble that brings life to the show.",
+                "postUrl": "http://rogercatlin.com/2017/03/14/tuesday-tv-amusing-trial-error/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/will-harris/",
+                "criticName": "Will Harris",
+                "criticOrganization": "AV Club",
+                "criticReviewDate": "March 15, 2017",
+                "criticPost": "Once you get into fiction, all bets are off, which is why it's so easy to laugh at Trial & Error without feeling guilty about it. Also helpful: the fact that it's really funny.",
+                "postUrl": "http://www.avclub.com/tvclub/trial-error-skates-merrily-through-its-first-two-e-252096",
+                "criticScore": "A-",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/gail-pennington/",
+                "criticName": "Gail Pennington",
+                "criticOrganization": "St. Louis Post-Dispatch",
+                "criticReviewDate": "March 14, 2017",
+                "criticPost": "If you like your comedy dark and twisted, Trial & Error could be just your cup of cyanide-laced coffee.",
+                "postUrl": "http://www.stltoday.com/entertainment/television/gail-pennington/tv-review-trial-error-is-more-hit-than-miss/article_d5e9dc6a-69ae-5971-b715-f933a1b3c3b3.html",
+                "criticScore": "2.5/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/ellen-gray/",
+                "criticName": "Ellen Gray",
+                "criticOrganization": "Philadelphia Inquirer",
+                "criticReviewDate": "March 14, 2017",
+                "criticPost": "It's Lithgow, as the hopelessly self-centered, sneakily endearing suspect, who steals every scene he's in.",
+                "postUrl": "http://www.philly.com/philly/columnists/ellen_gray/NBC-Trial--Error-John-Lithgow-true-crime-comedy-This-Is-Us-finale.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/ken-tucker/",
+                "criticName": "Ken Tucker",
+                "criticOrganization": "Yahoo! TV",
+                "criticReviewDate": "March 14, 2017",
+                "criticPost": "Lithgow is superb every time he's on camera, but Trial & Error has its own trial-and-error growing pains to go through before it either settles into something you want to watch every week or a novelty that doesn't sustain itself.",
+                "postUrl": "https://www.yahoo.com/tv/trial-and-error-review-john-lithgow-152543761.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/dan-fienberg/",
+                "criticName": "Dan Fienberg",
+                "criticOrganization": "Hollywood Reporter",
+                "criticReviewDate": "March 14, 2017",
+                "criticPost": "Waiting for Trial & Error to be more than just a loose assemblage of oddball character beats joined together by some hand-held camera work, self-conscious talking heads and occasional glibness about murder wasn't a painful way to spend a few hours.",
+                "postUrl": "http://www.hollywoodreporter.com/review/trial-error-review-985726",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/mark-a-perigard/",
+                "criticName": "Mark A. Perigard",
+                "criticOrganization": "Boston Herald",
+                "criticReviewDate": "March 14, 2017",
+                "criticPost": "In its casting, Trial & Error gets everything right.",
+                "postUrl": "http://www.bostonherald.com/entertainment/television/2017/03/john_lithgow_s_trial_error_merits_favorable_verdict",
+                "criticScore": "B",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/erik-adams/",
+                "criticName": "Erik Adams",
+                "criticOrganization": "AV Club",
+                "criticReviewDate": "March 14, 2017",
+                "criticPost": "Under normal circumstances, this wouldn't be funny. But there's a lot talented people hard at work on this show making sure that Trial & Error is presenting nothing that resembles \"normal circumstances.\"",
+                "postUrl": "http://www.avclub.com/review/john-lithgow-and-inspired-lunacy-make-good-case-tr-252007",
+                "criticScore": "B+",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/mick-joest/",
+                "criticName": "Mick Joest",
+                "criticOrganization": "CinemaBlend",
+                "criticReviewDate": "March 14, 2017",
+                "criticPost": "While it initially stumbles a couple of times, Trial & Error is guilty of a hilarious and thought-provoking start.",
+                "postUrl": "http://www.cinemablend.com/television/1633859/trial--error-review-nbcs-new-comedy-isnt-the-perfect-crime-but-its-promising",
+                "criticScore": "3/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/mark-dawidziak/",
+                "criticName": "Mark Dawidziak",
+                "criticOrganization": "Cleveland Plain Dealer",
+                "criticReviewDate": "March 14, 2017",
+                "criticPost": "While comedies can find and define themselves over the course of a season, this one has a long way to go if it wishes to secure a continuance on the NBC schedule.",
+                "postUrl": "http://www.cleveland.com/tv-blog/index.ssf/2017/03/trial_error_is_uneven_nbc_vehicle_for_john_lithgow.html#incart_river_index",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/neil-genzlinger/",
+                "criticName": "Neil Genzlinger",
+                "criticOrganization": "New York Times",
+                "criticReviewDate": "March 14, 2017",
+                "criticPost": "It's a comedy that, if you can adjust to its deliberate dumbness, grows on you.",
+                "postUrl": "https://www.nytimes.com/2017/03/13/arts/television/review-trial-error-features-a-confederacy-of-dunces.html?rref=collection%2Fbyline%2Fneil-genzlinger",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/jen-chaney/",
+                "criticName": "Jen Chaney",
+                "criticOrganization": "New York Magazine/Vulture",
+                "criticReviewDate": "March 14, 2017",
+                "criticPost": "Trial & Error can be amusing at times. But too often, it feels like everyone involved in this series might tear a ligament in their effort to achieve what is supposed to be effortless wackiness.",
+                "postUrl": "http://www.vulture.com/2017/03/trial-and-error-tries-very-hard-to-be-funny.html",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/verne-gay/",
+                "criticName": "Verne Gay",
+                "criticOrganization": "Newsday",
+                "criticReviewDate": "March 14, 2017",
+                "criticPost": "A featherweight entertainment with a good cast, some charm, and not nearly enough laughs.",
+                "postUrl": "http://www.newsday.com/entertainment/tv/trial-error-review-poor-attempt-at-crime-mockumentary-1.13244315",
+                "criticScore": "C+",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/matt-roush/",
+                "criticName": "Matt Roush",
+                "criticOrganization": "TV Insider",
+                "criticReviewDate": "March 14, 2017",
+                "criticPost": "This deeply silly sitcom may be guilty of overplaying its hand to score cheap laughs... But with the glorious John Lithgow at its center... it's wise to recuse oneself from delivering a verdict too quickly.",
+                "postUrl": "https://www.tvinsider.com/128796/review-trial-and-error-john-lithgow/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/brian-lowry/",
+                "criticName": "Brian Lowry",
+                "criticOrganization": "CNN.com",
+                "criticReviewDate": "March 13, 2017",
+                "criticPost": "High art it's not, but as breezy, reasonably clever comedies go, this NBC show earns a favorable verdict.",
+                "postUrl": "http://www.cnn.com/2017/03/13/entertainment/trial--error-review/index.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/robert-lloyd/",
+                "criticName": "Robert Lloyd",
+                "criticOrganization": "Los Angeles Times",
+                "criticReviewDate": "March 13, 2017",
+                "criticPost": "Notwithstanding that there's a suspicious death at the center of it and its headliner may be a murderer, the show is sweet and fanciful, with only the merest concern with how things work in the world.",
+                "postUrl": "http://www.latimes.com/entertainment/tv/la-et-st-trial-and-error-review-20170314-story.html",
+                "criticScore": "",
+                "criticFresh": true
+            }
+        ]
+    }
+]

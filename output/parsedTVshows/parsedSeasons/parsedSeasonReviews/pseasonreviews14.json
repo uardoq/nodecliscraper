@@ -1,0 +1,2602 @@
+[
+    {
+        "url": "/tv/murder_in_the_first/s02/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/lesley-m-smith/",
+                "criticName": "Lesley M. Smith",
+                "criticOrganization": "PopMatters",
+                "criticReviewDate": "June 9, 2015",
+                "criticPost": "However much corruption and amorality Murder in the First uncovers, however many times it executes the sentimental heart-tug, it promises, in this second season, only a mild intellectual puzzle stretched over far too many episodes.",
+                "postUrl": "http://www.popmatters.com/review/194215-murder-in-the-first-only-a-mild-intellectual-puzzle/",
+                "criticScore": "5/10",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/brian-lowry/",
+                "criticName": "Brian Lowry",
+                "criticOrganization": "Variety",
+                "criticReviewDate": "June 5, 2015",
+                "criticPost": "If the second run of this utility player mirrors the performance of the first, English and Mulligan should be prepared to patrol the streets of San Francisco a while longer.",
+                "postUrl": "http://variety.com/2015/tv/reviews/murder-in-the-first-season-2-review-steven-bochco-drama-on-tnt-1201511593/",
+                "criticScore": "",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/murder_in_the_first/s01/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/noel-kirkpatrick/",
+                "criticName": "Noel Kirkpatrick",
+                "criticOrganization": "TV.com",
+                "criticReviewDate": "June 12, 2014",
+                "criticPost": "The show is merely solid-albeit wholly unambitious-and when there are so many more exciting shows on the horizon, solid and unambitious don't really cut it.",
+                "postUrl": "http://www.tv.com/news/murder-in-the-first-review-tnt-season-1-episode-1-140218626401/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/roger-catlin/",
+                "criticName": "Roger Catlin",
+                "criticOrganization": "rogercatlin.com",
+                "criticReviewDate": "June 12, 2014",
+                "criticPost": "Recent serialized yarns have surpassed this, which has the feel of a crime-of-the-week procedural but doesn't have the payoff at each episode's end.",
+                "postUrl": "http://rogercatlin.com/2014/06/09/monday-tv-new-murder-in-the-first-hillary/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/mark-trammell/",
+                "criticName": "Mark Trammell",
+                "criticOrganization": "TV Equals",
+                "criticReviewDate": "June 12, 2014",
+                "criticPost": "If the pilot is any indication, it should be perfect summer-worthy viewing and a good match with Major Crimes. I'm in.",
+                "postUrl": "http://www.tvequals.com/2014/06/10/murder-first-season-1-review-pilot/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/tom-conroy/",
+                "criticName": "Tom Conroy",
+                "criticOrganization": "Media Life",
+                "criticReviewDate": "June 12, 2014",
+                "criticPost": "If Bochco can re-create the twisty legal action that was a hallmark of [L.A. Law], Murder in the First will be worth the 10 hours.",
+                "postUrl": "http://www.medialifemagazine.com/murder-first-bochcos-return/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/mary-mcnamara/",
+                "criticName": "Mary McNamara",
+                "criticOrganization": "Los Angeles Times",
+                "criticReviewDate": "June 12, 2014",
+                "criticPost": "TNT may be selling the single-case-per-season timeline of its new detective drama, but amid television's recent age of Aquarius, Murder in the First stands out mostly for its simplicity.",
+                "postUrl": "http://www.latimes.com/entertainment/tv/la-et-st-murder-in-first-20140609-column.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/brian-tallerico/",
+                "criticName": "Brian Tallerico",
+                "criticOrganization": "RogerEbert.com",
+                "criticReviewDate": "June 11, 2014",
+                "criticPost": "Diggs and Robertson ground the show in interesting characters at its core, allowing scene stealers like Schiff and Cromwell to do what they do so well.",
+                "postUrl": "http://www.rogerebert.com/demanders/comfort-food-tv-usa-and-tnt-prepare-for-another-wave-of-summer-hits",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/carla-day/",
+                "criticName": "Carla Day",
+                "criticOrganization": "TV Fanatic",
+                "criticReviewDate": "June 10, 2014",
+                "criticPost": "Overall, the premiere was entertaining. The multiple murders and people involved have set up for a season-long mystery that I'm looking forward to seeing solved.",
+                "postUrl": "http://www.tvfanatic.com/2014/06/murder-in-the-first-review-pilot/",
+                "criticScore": "4/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/joyce-slaton/",
+                "criticName": "Joyce Slaton",
+                "criticOrganization": "Common Sense Media",
+                "criticReviewDate": "June 9, 2014",
+                "criticPost": "The action here is both meaty and mostly realistic, if the twists and turns in the main characters' personal lives are a bit soapy.",
+                "postUrl": "https://www.commonsensemedia.org/tv-reviews/murder-in-the-first",
+                "criticScore": "3/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/mark-dawidziak/",
+                "criticName": "Mark Dawidziak",
+                "criticOrganization": "Cleveland Plain Dealer",
+                "criticReviewDate": "June 9, 2014",
+                "criticPost": "Murder in the First is an immediately engaging crime drama boasting a deep cast and crisp direction. It's the ideal newcomer to team with Major Crimes.",
+                "postUrl": "http://www.cleveland.com/tv-blog/index.ssf/2014/06/murder_in_the_first_puts_steven_bochco_back_on_the_crime_beat.html#incart_river",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/mark-a-perigard/",
+                "criticName": "Mark A. Perigard",
+                "criticOrganization": "Boston Herald",
+                "criticReviewDate": "June 9, 2014",
+                "criticPost": "Every one in the cast is thoroughly adequate, and Murder has low ambitions and satisfies them easily.",
+                "postUrl": "http://bostonherald.com/entertainment/television/television_reviews/2014/06/tnt_s_new_crime_drama_murder_faces_own_trials",
+                "criticScore": "B-",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/todd-vanderwerff/",
+                "criticName": "Todd VanDerWerff",
+                "criticOrganization": "AV Club",
+                "criticReviewDate": "June 9, 2014",
+                "criticPost": "What was bracing in the '90s has become painfully generic now, when television is loaded down with more case-of-the-season shows than it knows what to do with.",
+                "postUrl": "http://www.avclub.com/channels/film/",
+                "criticScore": "C-",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/rob-owen/",
+                "criticName": "Rob Owen",
+                "criticOrganization": "Pittsburgh Post-Gazette",
+                "criticReviewDate": "June 9, 2014",
+                "criticPost": "The premiere episode of Murder in the First is somewhat dull, particularly anytime the plot strays from the case to the home lives of the detectives.",
+                "postUrl": "http://www.post-gazette.com/ae/tv-radio/2014/06/09/Nothing-new-in-TNT-s-Murder/stories/201406090021",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/ellen-gray/",
+                "criticName": "Ellen Gray",
+                "criticOrganization": "Philadelphia Daily News",
+                "criticReviewDate": "June 9, 2014",
+                "criticPost": "Little about Murder in the First feels fresh, much less first.",
+                "postUrl": "http://www.philly.com/philly/columnists/ellen_gray/20140609__Murder_in_the_First__on_TNT___Chasing_Life__on_ABC_Family.html",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/matthew-gilbert/",
+                "criticName": "Matthew Gilbert",
+                "criticOrganization": "Boston Globe",
+                "criticReviewDate": "June 9, 2014",
+                "criticPost": "The characters may be shallow, but that doesn't keep the show from giving the easy pleasures of reading a quickie mystery novel.",
+                "postUrl": "https://www.bostonglobe.com/arts/television/2014/06/08/there-are-worse-offenses-than-murder-first/k4tmEQgndNyEojR1ekhzXP/story.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/alan-sepinwall/",
+                "criticName": "Alan Sepinwall",
+                "criticOrganization": "HitFix",
+                "criticReviewDate": "June 9, 2014",
+                "criticPost": "The show is pretty good, though. It doesn't have the artistic pretensions of many of the other series of its type but that means it also doesn't have to live up to an overly inflated self-image.",
+                "postUrl": "http://www.hitfix.com/whats-alan-watching/review-steven-bochco-goes-retro-with-tnts-murder-in-the-first",
+                "criticScore": "B",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/david-hinckley/",
+                "criticName": "David Hinckley",
+                "criticOrganization": "New York Daily News",
+                "criticReviewDate": "June 9, 2014",
+                "criticPost": "Like most of the best cable shows, Murder in the First strips the production and the cast down to the essentials, then executes them well.",
+                "postUrl": "http://www.nydailynews.com/entertainment/tv/murder-tv-review-article-1.1819944",
+                "criticScore": "4/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/david-wiegand/",
+                "criticName": "David Wiegand",
+                "criticOrganization": "San Francisco Chronicle",
+                "criticReviewDate": "June 9, 2014",
+                "criticPost": "The show is generally well written, expertly directed (Thomas Schlamme of West Wing directs the pilot) and most of the performances are solid.",
+                "postUrl": "http://www.sfgate.com/tv/article/Murder-in-the-First-review-TNT-cop-drama-makes-5537927.php",
+                "criticScore": "3/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/sabienna-bowman/",
+                "criticName": "Sabienna Bowman",
+                "criticOrganization": "TV Equals",
+                "criticReviewDate": "June 9, 2014",
+                "criticPost": "Murder in the First starts out slow and steady with the tension building with each episode, but the characters will grab you from the start.",
+                "postUrl": "http://www.tvequals.com/2014/06/09/tnts-murder-first-tvs-next-great-police-drama/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/john-anderson/",
+                "criticName": "John Anderson",
+                "criticOrganization": "Wall Street Journal",
+                "criticReviewDate": "June 6, 2014",
+                "criticPost": "Among the things one notices about the new Murder in the First is that it's not in his customary New York or Los Angeles but San Francisco and, unlike that city, is as flat as a pancake.",
+                "postUrl": "http://online.wsj.com/articles/television-review-orange-is-the-new-black-murder-in-the-first-and-power-1402015934",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/verne-gay/",
+                "criticName": "Verne Gay",
+                "criticOrganization": "Newsday",
+                "criticReviewDate": "June 6, 2014",
+                "criticPost": "Good, cleanly told newcomer that can be a bit pokey.",
+                "postUrl": "http://www.newsday.com/entertainment/tv/murder-in-the-first-review-taye-diggs-is-good-new-police-drama-a-bit-pokey-1.8359161",
+                "criticScore": "B",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/crash/s01/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/eric-goldman/",
+                "criticName": "Eric Goldman",
+                "criticOrganization": "IGN Movies",
+                "criticReviewDate": "October 17, 2008",
+                "criticPost": "The cast does the best they can with the material, but considering how unbelievable the writing is, there's little they can do to lessen the feeling that we're watching a soap opera with nice production values, plus nudity and swearing.",
+                "postUrl": "http://www.ign.com/articles/2008/10/17/crash-pilot-review",
+                "criticScore": "6/10",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/ed-bark/",
+                "criticName": "Ed Bark",
+                "criticOrganization": "Uncle Barky",
+                "criticReviewDate": "October 17, 2008",
+                "criticPost": "On the whole, I'd rather watch my car overheat in rush hour traffic.",
+                "postUrl": "http://unclebarky.com/reviews_files/5e482e8935231bd5f45bb8672cb5b572-519.html",
+                "criticScore": "D",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/ginia-bellafante/",
+                "criticName": "Ginia Bellafante",
+                "criticOrganization": "New York Times",
+                "criticReviewDate": "October 17, 2008",
+                "criticPost": "Crash has a noirish appeal, and ambitions to tell a big story.",
+                "postUrl": "http://www.nytimes.com/2008/10/17/arts/television/17cras.html?ref=television",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/robert-abele/",
+                "criticName": "Robert Abele",
+                "criticOrganization": "L.A. Weekly",
+                "criticReviewDate": "October 17, 2008",
+                "criticPost": "The acting doesn't exactly induce gaper's block.",
+                "postUrl": "http://www.laweekly.com/2008-10-16/film-tv/tv-reviews-crash-and-my-own-worst-enemy-when-worlds-collide/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/matt-roush/",
+                "criticName": "Matt Roush",
+                "criticOrganization": "TV Guide",
+                "criticReviewDate": "October 17, 2008",
+                "criticPost": "Leaves you wondering if the whole setup might not simply work better as a movie.",
+                "postUrl": "http://www.tvguide.com/Roush/Roush-Review-Crash-26536.aspx",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/maureen-ryan/",
+                "criticName": "Maureen Ryan",
+                "criticOrganization": "Chicago Tribune",
+                "criticReviewDate": "October 17, 2008",
+                "criticPost": "The show clearly wants to say something complicated about race and class in Los Angeles, but a number of the situations and characters on the show feel like situations and people we've seen before.",
+                "postUrl": "http://featuresblogs.chicagotribune.com/entertainment_tv/2008/10/crash-collides.html",
+                "criticScore": "2/4",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/cynthia-fuchs/",
+                "criticName": "Cynthia Fuchs",
+                "criticOrganization": "PopMatters",
+                "criticReviewDate": "October 17, 2008",
+                "criticPost": "At once schematic and preachy, it never indicates the stakes - either for its \"diverse\" players or for you.",
+                "postUrl": "http://www.popmatters.com/pm/review/crash/",
+                "criticScore": "4/10",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/john-leonard/",
+                "criticName": "John Leonard",
+                "criticOrganization": "New York Magazine/Vulture",
+                "criticReviewDate": "October 17, 2008",
+                "criticPost": "It's possible that Crash will end up saying something interesting about racism, cops, housewives, or Los Angeles. But I doubt it.",
+                "postUrl": "http://nymag.com/arts/tv/reviews/51549/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/alan-sepinwall/",
+                "criticName": "Alan Sepinwall",
+                "criticOrganization": "Newark Star-Ledger",
+                "criticReviewDate": "October 17, 2008",
+                "criticPost": "Unless Crash the show improves rapidly, it'll just provide more fuel for the people angered that the movie beat out Brokeback Mountain and Munich for the big prize.",
+                "postUrl": "http://www.nj.com/entertainment/tv/index.ssf/2008/10/sepinwall_on_tv_crash_review.html#more",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/rob-owen/",
+                "criticName": "Rob Owen",
+                "criticOrganization": "Pittsburgh Post-Gazette",
+                "criticReviewDate": "October 17, 2008",
+                "criticPost": "Crash, based upon the Oscar-winning movie, won't prompt much rubbernecking.",
+                "postUrl": "http://www.post-gazette.com/stories/ae/uncategorized/tv-review-its-a-crash-of-unsavory-characters-414859/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/matthew-gilbert/",
+                "criticName": "Matthew Gilbert",
+                "criticOrganization": "Boston Globe",
+                "criticReviewDate": "October 17, 2008",
+                "criticPost": "Crash, based on the Oscar-winning movie, is a show that's madly in love with its own daring and importance.",
+                "postUrl": "http://www.boston.com/ae/tv/articles/2008/10/17/as_a_series_crash_flails_to_be_daring/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/heather-havrilesky/",
+                "criticName": "Heather Havrilesky",
+                "criticOrganization": "Salon.com",
+                "criticReviewDate": "October 17, 2008",
+                "criticPost": "The new drama Crash struggles mightily to appear slick and sophisticated and special, but the whole elaborate mess is just as leaden and obvious as the Oscar-winning movie upon which it's based.",
+                "postUrl": "http://www.salon.com/2008/10/19/crusoe/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/tim-goodman/",
+                "criticName": "Tim Goodman",
+                "criticOrganization": "San Francisco Chronicle",
+                "criticReviewDate": "October 17, 2008",
+                "criticPost": "Once you've seen the movie, why else would you want to be hit in the head with a sledgehammer?",
+                "postUrl": "http://www.sfgate.com/news/article/TV-review-Crash-wrecks-the-small-screen-3190174.php",
+                "criticScore": "1/4",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/brian-lowry/",
+                "criticName": "Brian Lowry",
+                "criticOrganization": "Variety",
+                "criticReviewDate": "October 17, 2008",
+                "criticPost": "Given the uneven ride, high gas prices are about the only incentive to stay home and, er, bump into it.",
+                "postUrl": "http://www.variety.com/review/VE1117938664?refCatId=32",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/joanne-ostrow/",
+                "criticName": "Joanne Ostrow",
+                "criticOrganization": "Denver Post",
+                "criticReviewDate": "October 12, 2008",
+                "criticPost": "With six separate storylines following characters not in the movie, Crash could become a complicated serial.",
+                "postUrl": "http://www.denverpost.com/television/ci_10682286",
+                "criticScore": "",
+                "criticFresh": false
+            }
+        ]
+    },
+    {
+        "url": "/tv/crashing/s02/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/roger-catlin/",
+                "criticName": "Roger Catlin",
+                "criticOrganization": "rogercatlin.com",
+                "criticReviewDate": "January 16, 2018",
+                "criticPost": "... Pete Holmes has successfully created a likable standup comic (which is tough enough to create) whose struggle is something we root for.",
+                "postUrl": "http://rogercatlin.com/2018/01/14/sunday-tv-queens-past-and-current/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/john-doyle/",
+                "criticName": "John Doyle",
+                "criticOrganization": "Globe and Mail",
+                "criticReviewDate": "January 12, 2018",
+                "criticPost": "It stands as an example of a series that the premium cable environment allows to breathe and grow and develop.",
+                "postUrl": "https://www.theglobeandmail.com///arts/television/crashing-powerful-portraits-of-faith-and-humour/article37591816/?cmpid=rss1",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/josh-sorokach/",
+                "criticName": "Josh Sorokach",
+                "criticOrganization": "Decider",
+                "criticReviewDate": "January 11, 2018",
+                "criticPost": "Crashing works because there's just something so inherently cozy about watching a person trying to piece together the A through L so they can eventually get to Z.",
+                "postUrl": "https://decider.com/2018/01/11/crashing-season-two-jokes-spirituality-cringe-comedy/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/ben-travers/",
+                "criticName": "Ben Travers",
+                "criticOrganization": "indieWire",
+                "criticReviewDate": "January 10, 2018",
+                "criticPost": "For anyone already hooked on Crashing, Season 2 should keep them coming back, and new or unfamiliar viewers will find their patience through Season 1 adequately rewarded.",
+                "postUrl": "http://www.indiewire.com/2018/01/crashing-season-2-review-pete-holmes-1201915398/",
+                "criticScore": "B-",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/crashing/s01/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/audra-schroeder/",
+                "criticName": "Audra Schroeder",
+                "criticOrganization": "The Daily Dot",
+                "criticReviewDate": "September 8, 2017",
+                "criticPost": "[Pete] Holmes fills his character with warmth and understanding; you want to root for him. However, for a series about comedy it feels like it actually needs more of it.",
+                "postUrl": "https://www.dailydot.com/upstream/crashing-hbo-review/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/lili-loofbourow/",
+                "criticName": "Lili Loofbourow",
+                "criticOrganization": "The Week",
+                "criticReviewDate": "August 28, 2017",
+                "criticPost": "What does Crashing bring to that overflowing table of meta-commentary about the stand-up life? Well, Pete Holmes.",
+                "postUrl": "http://theweek.com/articles/680210/judd-apatow-pete-holmes-sunny-corrective-louie",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/chase-burns/",
+                "criticName": "Chase Burns",
+                "criticOrganization": "The Stranger (Seattle, WA)",
+                "criticReviewDate": "August 24, 2017",
+                "criticPost": "Watch Crashing if you're feeling lonely but don't feel like leaving your house. And then make your friends come over and rewatch it all with you.",
+                "postUrl": "http://www.thestranger.com/slog/2017/03/30/25049964/stream-queen-over-girls-try-british-sitcoms-fleabag-chewing-gum-lovesick-and-crashing-instead",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/chris-ball/",
+                "criticName": "Chris Ball",
+                "criticOrganization": "Cleveland Plain Dealer",
+                "criticReviewDate": "August 18, 2017",
+                "criticPost": "\"Crashing\" bore might be a good summary for this comedy in which little ever happens.",
+                "postUrl": "http://www.cleveland.com/movies/index.ssf/2017/08/1944_a_nominee_at_ciff_now_on.html#incart_river_index",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/joyce-slaton/",
+                "criticName": "Joyce Slaton",
+                "criticOrganization": "Common Sense Media",
+                "criticReviewDate": "February 28, 2017",
+                "criticPost": "Painful laughs in this honest, scathing couchsurfer comedy.",
+                "postUrl": "https://www.commonsensemedia.org/tv-reviews/crashing",
+                "criticScore": "4/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/graeme-blundell/",
+                "criticName": "Graeme Blundell",
+                "criticOrganization": "The Australian",
+                "criticReviewDate": "February 24, 2017",
+                "criticPost": "Crashing deserves an audience. It is clever, witty and genuinely funny, working from the idea that the stand-up comedian is a kind of pastor to his unruly flock.",
+                "postUrl": "http://www.theaustralian.com.au/arts/review/crashing-pete-holmes-plays-himself-the-innocent-abroad/news-story/aee6a171522bd6ec954fa44a3b3c2ec5",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/rob-lowman/",
+                "criticName": "Rob Lowman",
+                "criticOrganization": "Los Angeles Daily News",
+                "criticReviewDate": "February 22, 2017",
+                "criticPost": "None of this draws a chuckle.",
+                "postUrl": "http://www.dailynews.com/arts-and-entertainment/20170222/crashing-offers-an-unfunny-look-at-stand-up-comedy",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/gail-pennington/",
+                "criticName": "Gail Pennington",
+                "criticOrganization": "St. Louis Post-Dispatch",
+                "criticReviewDate": "February 21, 2017",
+                "criticPost": "Crashing works because Holmes is so sweet (there's really no other word for it) that we root for him every step of the way.",
+                "postUrl": "http://www.stltoday.com/entertainment/television/gail-pennington/hbo-s-crashing-is-a-hopeful-look-at-a-struggling/article_50ccde9c-c50b-5d71-b74b-e85a54291914.html",
+                "criticScore": "3/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/kevin-yeoman/",
+                "criticName": "Kevin Yeoman",
+                "criticOrganization": "ScreenRant",
+                "criticReviewDate": "February 21, 2017",
+                "criticPost": "Because it has a genuine interest in exploring what is funny and why comedians are compelled to do what they do, Crashing overcomes its rampant similarities to the stand-up-centric shows that have come before.",
+                "postUrl": "http://screenrant.com/crashing-series-premiere-review-pete-holmes/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/dan-fienberg/",
+                "criticName": "Dan Fienberg",
+                "criticOrganization": "Hollywood Reporter",
+                "criticReviewDate": "February 21, 2017",
+                "criticPost": "Crashing grows with its hero, starting off as more likable than funny, but steadily getting more laughs as it goes along.",
+                "postUrl": "http://www.hollywoodreporter.com/review/crashing-review-977484",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/andrea-reiher/",
+                "criticName": "Andrea Reiher",
+                "criticOrganization": "AV Club",
+                "criticReviewDate": "February 21, 2017",
+                "criticPost": "Much like Holmes on stage, Crashing is working on finding itself. The premiere is solid and certainly has some strong humor at the expense of down-on-his-luck Holmes, but subsequent episodes get stronger and stronger.",
+                "postUrl": "http://www.avclub.com/tvclub/pete-holmes-crashing-every-sense-word-250563",
+                "criticScore": "B+",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/roger-catlin/",
+                "criticName": "Roger Catlin",
+                "criticOrganization": "Salon.com",
+                "criticReviewDate": "February 21, 2017",
+                "criticPost": "It all makes for a perfect showcase for the star.",
+                "postUrl": "http://rogercatlin.com/2017/02/19/pete-holmes-introduces-himself-again/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/melanie-mcfarland/",
+                "criticName": "Melanie McFarland",
+                "criticOrganization": "Salon.com",
+                "criticReviewDate": "February 21, 2017",
+                "criticPost": "Pete has yet to figure out that the art of winning an audience is perfected through enthusiastically failing again and again. Crashing shows that Holmes has already mastered that lesson and has moved on to quietly, honestly killing it.",
+                "postUrl": "http://www.salon.com/2017/02/21/with-crashing-pete-holmes-makes-a-good-comedy-about-a-decent-man-whos-a-bad-comic/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/graham-techler/",
+                "criticName": "Graham Techler",
+                "criticOrganization": "Paste Magazine",
+                "criticReviewDate": "February 21, 2017",
+                "criticPost": "On top of it all, Holmes proves himself to be a strong actor and an immensely likable leading man.",
+                "postUrl": "https://www.pastemagazine.com/articles/2017/02/crashing-is-a-painful-hilarious-comedy-origin-stor.html",
+                "criticScore": "9/10",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/ed-bark/",
+                "criticName": "Ed Bark",
+                "criticOrganization": "Uncle Barky",
+                "criticReviewDate": "February 21, 2017",
+                "criticPost": "Crashing has enough mostly gentle amusements to keep it on track.",
+                "postUrl": "http://www.unclebarky.com/reviews.html",
+                "criticScore": "B+",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/joseph-falcone/",
+                "criticName": "Joseph Falcone",
+                "criticOrganization": "We Got This Covered",
+                "criticReviewDate": "February 18, 2017",
+                "criticPost": "Crashing is damn funny and very likeable, make no mistake about it, but it probably won't leave a lasting impression.",
+                "postUrl": "http://wegotthiscovered.com/tv/crashing-season-1-review/",
+                "criticScore": "7/10",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/neil-genzlinger/",
+                "criticName": "Neil Genzlinger",
+                "criticOrganization": "New York Times",
+                "criticReviewDate": "February 17, 2017",
+                "criticPost": "Crashing feels like just another sad-clown story centered on a white male comic.",
+                "postUrl": "https://www.nytimes.com/2017/02/17/arts/television/review-crashing-hbo-judd-apatow.html?rref=collection%2Fbyline%2Fneil-genzlinger",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/sophie-gilbert/",
+                "criticName": "Sophie Gilbert",
+                "criticOrganization": "The Atlantic",
+                "criticReviewDate": "February 17, 2017",
+                "criticPost": "At its best, though, Crashing is a kind of corrective, and an honest one at that. Comedy need not be only the refuge of the cynic. It also has room for figures like Holmes, for whom the craft is less a burden than a blast.",
+                "postUrl": "https://www.theatlantic.com/entertainment/archive/2017/02/hbo-crashing-pete-holmes-review/517110/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/nick-harley/",
+                "criticName": "Nick Harley",
+                "criticOrganization": "Den of Geek",
+                "criticReviewDate": "February 17, 2017",
+                "criticPost": "Crashing, Holmes' new half-hour comedy series, is exactly the material I expected from Holmes; a good-natured, funny, but not quite laugh-out-loud funny, inessential entry into the \"comedy shows about comedy\" genre.",
+                "postUrl": "http://www.denofgeek.com/us/tv/crashing/262288/crashing-premiere-review",
+                "criticScore": "3/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/matt-fowler/",
+                "criticName": "Matt Fowler",
+                "criticOrganization": "IGN Movies",
+                "criticReviewDate": "February 17, 2017",
+                "criticPost": "The show works as a sort of trial by fire comedy about a guy who just might need to experience a bit of pain in order to become a better comedian.",
+                "postUrl": "http://www.ign.com/articles/2017/02/17/crashing-artie-lange-review",
+                "criticScore": "7/10",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/fargo/s03/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/andrew-billen/",
+                "criticName": "Andrew Billen",
+                "criticOrganization": "Times (UK)",
+                "criticReviewDate": "December 28, 2017",
+                "criticPost": "Fargo's creator, Noah Hawley, took us on many diversions this season: into the past, into the woods, into action movie territory. Yet it was the comedy of character we will remember.",
+                "postUrl": "https://www.thetimes.co.uk/article/tv-review-fargo-the-south-bank-show-lxl6cklsz",
+                "criticScore": "4/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/kevin-fitzpatrick/",
+                "criticName": "Kevin Fitzpatrick",
+                "criticOrganization": "ScreenCrush",
+                "criticReviewDate": "December 27, 2017",
+                "criticPost": "That might be why Fargo's spark feels a trifle faded; we've seen so many of these characters and elements in different configurations before.",
+                "postUrl": "http://screencrush.com/fargo-season-3-review/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/kayla-cobb/",
+                "criticName": "Kayla Cobb",
+                "criticOrganization": "Decider",
+                "criticReviewDate": "December 20, 2017",
+                "criticPost": "This season was just as strong if not stronger than any other season, but it rarely gave you the answers. It asked you to think.",
+                "postUrl": "https://decider.com/2017/06/22/fargo-season-3-was-incredible/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/jac-kern/",
+                "criticName": "Jac Kern",
+                "criticOrganization": "Cincinnati CityBeat",
+                "criticReviewDate": "September 12, 2017",
+                "criticPost": "In this third season, two characters rise to the top as protagonists worth cheering on: Minnesotan police chief Gloria Burgle and Nikki Swango, a street-smart ex-con.",
+                "postUrl": "http://www.citybeat.com/movies-tv/tv/article/20865483/rooting-for-the-women-of-fargo",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/lili-loofbourow/",
+                "criticName": "Lili Loofbourow",
+                "criticOrganization": "The Week",
+                "criticReviewDate": "August 28, 2017",
+                "criticPost": "It's as if Fargo is riffing on its resemblance to itself; as if the echoes between seasons and with the film are filtering into the plot, and building resonance out of the mix-ups.",
+                "postUrl": "http://theweek.com/articles/693088/fargos-third-season-gory-pleasure",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/alison-herman/",
+                "criticName": "Alison Herman",
+                "criticOrganization": "The Ringer",
+                "criticReviewDate": "August 15, 2017",
+                "criticPost": "Season 3 seemed like it had finally, decisively broken from its predecessors on both TV and in film - particularly when Mary Elizabeth Winstead's scammer emerged as the season's complicated, gray-area-dwelling hero.",
+                "postUrl": "https://www.theringer.com/2017/6/21/16047004/fargo-fx-season-3-finale-47cc7acc16ea",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/pat-stacey/",
+                "criticName": "Pat Stacey",
+                "criticOrganization": "The Herald (Ireland)",
+                "criticReviewDate": "August 7, 2017",
+                "criticPost": "This was a superb season and, earlier reservations swept aside, probably the Fargo I'd be most inclined to watch again.",
+                "postUrl": "http://www.independent.ie/entertainment/television/tv-reviews/fargo-review-i-was-desperately-hoping-to-be-proved-wrong-i-was-gloriously-gratifyingly-wrong-35996204.html",
+                "criticScore": "5/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/brian-donaldson/",
+                "criticName": "Brian Donaldson",
+                "criticOrganization": "The List",
+                "criticReviewDate": "July 17, 2017",
+                "criticPost": "It's all perfectly enjoyable in that peculiar Fargo way where you know that something kooky will inevitably be followed by something monstrous. You can also tick off a few more boxes.",
+                "postUrl": "https://www.list.co.uk/article/91569-tv-review-fargo-season-3-channel-4/",
+                "criticScore": "3/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/matt-fowler/",
+                "criticName": "Matt Fowler",
+                "criticOrganization": "IGN Movies",
+                "criticReviewDate": "June 28, 2017",
+                "criticPost": "It took a while to build up steam, but once the hammer dropped midway through, some fantastic and surreal elements kicked in, characters began to feel genuine instead of flat, and some devastating sequences delivered a superb story.",
+                "postUrl": "http://www.ign.com/articles/2017/06/28/fargo-season-3-review",
+                "criticScore": "9/10",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/catherine-nixey/",
+                "criticName": "Catherine Nixey",
+                "criticOrganization": "Times (UK)",
+                "criticReviewDate": "June 19, 2017",
+                "criticPost": "Overall, it feels less like an engaging story and more a series of grotesques. I'm sure it's genius. I just don't want to watch it.",
+                "postUrl": "https://www.thetimes.co.uk/article/tv-review-fargo-the-great-fire-f37jn270k",
+                "criticScore": "2/5",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/euan-ferguson/",
+                "criticName": "Euan Ferguson",
+                "criticOrganization": "Guardian",
+                "criticReviewDate": "June 12, 2017",
+                "criticPost": "Despite a too-slow opening episode, it's now settled to a taut thrum of wit, blood, intrigue and what Nikki likes to call \"unfathomable pinheadery\"",
+                "postUrl": "https://www.theguardian.com/tv-and-radio/2017/jun/11/the-week-in-tv-fargo-orange-is-the-new-black-broken-ackley-bridge-arena-american-epic",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/john-boland/",
+                "criticName": "John Boland",
+                "criticOrganization": "Irish Independent",
+                "criticReviewDate": "June 5, 2017",
+                "criticPost": "I'll certainly be along for the ride.",
+                "postUrl": "http://www.independent.ie/entertainment/television/tv-reviews/television-fargo-and-handmaids-tale-trump-new-season-of-house-of-cards-35779922.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/chitra-ramaswamy/",
+                "criticName": "Chitra Ramaswamy",
+                "criticOrganization": "Guardian",
+                "criticReviewDate": "June 1, 2017",
+                "criticPost": "What really makes this season is Ewan McGregor. Twice.",
+                "postUrl": "https://www.theguardian.com/tv-and-radio/2017/jun/01/fargo-review-ewan-mcgregor-third-season",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/michael-hogan/",
+                "criticName": "Michael Hogan",
+                "criticOrganization": "Daily Telegraph (UK)",
+                "criticReviewDate": "June 1, 2017",
+                "criticPost": "With its sly wit and visual flair, the third series of Fargo is already shaping up to be the best yet. Darn tootin'? You betcha.",
+                "postUrl": "http://www.telegraph.co.uk/tv/2017/05/31/fargo-series-3-episode-1-slick-strangely-beautiful-just-gets/",
+                "criticScore": "5/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/pat-jackson/",
+                "criticName": "Pat Jackson",
+                "criticOrganization": "TV Equals",
+                "criticReviewDate": "May 15, 2017",
+                "criticPost": "For me, the beauty of this show is the fact it is about ordinary people, doing ordinary things, who get drawn into extraordinary situations through a series of wrong but understandable decisions.",
+                "postUrl": "http://www.tvequals.com/2017/05/15/five-reasons-you-should-be-watching-fargo-season-three/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/graeme-blundell/",
+                "criticName": "Graeme Blundell",
+                "criticOrganization": "The Australian",
+                "criticReviewDate": "May 12, 2017",
+                "criticPost": "This is simply the classiest piece of TV drama around. It's instantly entertaining, even if you've never seen any of it before and have never heard of the Coen brothers or that movie called Fargo.",
+                "postUrl": "http://www.theaustralian.com.au/arts/review/fargos-third-season-with-ewan-mcgregor-turns-minnesota-nice-nasty/news-story/3dd2732ad691481b27e909a67b7d382f",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/mark-trammell/",
+                "criticName": "Mark Trammell",
+                "criticOrganization": "TV Equals",
+                "criticReviewDate": "May 5, 2017",
+                "criticPost": "All in all, a fine start to the season so far, with plenty of surprises to come, no doubt, if past seasons are any indication.",
+                "postUrl": "http://www.tvequals.com/2017/05/04/fargo-season-3-double-vision/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/robert-rorke/",
+                "criticName": "Robert Rorke",
+                "criticOrganization": "New York Post",
+                "criticReviewDate": "April 20, 2017",
+                "criticPost": "The statuesque Winstead proves why she is a favorite of indie film directors and television producers - Nikki Swango could be her breakout role.",
+                "postUrl": "http://nypost.com/2017/04/18/ewan-mcgregors-subtle-twin-roles-drive-latest-trip-to-fargo/",
+                "criticScore": "3/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/lenika-cruz/",
+                "criticName": "Lenika Cruz",
+                "criticOrganization": "The Atlantic",
+                "criticReviewDate": "April 20, 2017",
+                "criticPost": "So far, very Fargo-ian.",
+                "postUrl": "https://www.theatlantic.com/entertainment/archive/2017/04/fargo-season-3/523368/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/david-bianculli/",
+                "criticName": "David Bianculli",
+                "criticOrganization": "NPR",
+                "criticReviewDate": "April 20, 2017",
+                "criticPost": "The acting here is as good as the writing, and the visuals - built, as with season one, around the isolated snow and ice of the Midwest - are like paintings that move.",
+                "postUrl": "http://www.npr.org/2017/04/19/524546828/fargo-and-bill-nye-make-promising-returns-to-the-small-screen",
+                "criticScore": "",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/fargo/s02/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/melinda-houston/",
+                "criticName": "Melinda Houston",
+                "criticOrganization": "Sydney Morning Herald",
+                "criticReviewDate": "June 14, 2017",
+                "criticPost": "Fargo 2.0 promises to be every bit as fun, surprising and thought-provoking as the original.",
+                "postUrl": "http://www.smh.com.au/entertainment/tv-guide/television-previews-week-beginning-october-18-20151007-gk3e76.html",
+                "criticScore": "3.5/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/pattie-pegler/",
+                "criticName": "Pattie Pegler",
+                "criticOrganization": "Stuff.co.nz",
+                "criticReviewDate": "April 26, 2017",
+                "criticPost": "It's weird and wonderful and elegantly done. Expect lots of snow, blood and great dark humour.",
+                "postUrl": "http://www.stuff.co.nz/entertainment/tv-radio/72498271/tv-review-homeland--fargo",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/michael-idato/",
+                "criticName": "Michael Idato",
+                "criticOrganization": "Sydney Morning Herald",
+                "criticReviewDate": "October 4, 2016",
+                "criticPost": "The fingerprints of writer Noah Hawley and director Randall Einhorn​, who worked on the first season, are all over this, and that could explain the smoother transition from season one to season two.",
+                "postUrl": "http://www.smh.com.au/entertainment/tv-and-radio/tv-review-amy-schumer-and-fargo--a-fresh-take-on-the-familiar-20151012-gk7k5e.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/pilot-viruet/",
+                "criticName": "Pilot Viruet",
+                "criticOrganization": "Flavorwire",
+                "criticReviewDate": "June 8, 2016",
+                "criticPost": "What is most surprising about Season 2 is that it's somehow even better.",
+                "postUrl": "http://flavorwire.com/542267/somehow-fargo-is-even-bigger-better-and-more-ambitious-in-season-2",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/jedd-beaudoin/",
+                "criticName": "Jedd Beaudoin",
+                "criticOrganization": "PopMatters",
+                "criticReviewDate": "June 6, 2016",
+                "criticPost": "It's the rarest of feats that the second season of a brilliant television show outdoes the first, but Noah Hawley's Fargo has done just that.",
+                "postUrl": "http://www.popmatters.com/review/fargo-season-2-packs-rare-sophomore-punch/",
+                "criticScore": "9/10",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/sam-wollaston/",
+                "criticName": "Sam Wollaston",
+                "criticOrganization": "Guardian",
+                "criticReviewDate": "October 23, 2015",
+                "criticPost": "Excruciating, shocking and hilarious, it sends mixed messages to the stomach muscles; I'm tensing and squirming and properly belly-laughing, all at the same time.",
+                "postUrl": "http://www.theguardian.com/tv-and-radio/2015/oct/20/fargo-review-black-humour-white-landscapes-its-brilliant-and-beautiful",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/chuck-barney/",
+                "criticName": "Chuck Barney",
+                "criticOrganization": "Contra Costa Times",
+                "criticReviewDate": "October 16, 2015",
+                "criticPost": "Fargo 2.0 wins you over with its terrific performances and a plot that keeps churning and twisting as it reveals curious new angles.",
+                "postUrl": "http://www.mercurynews.com/entertainment/ci_28924583/fargo-season-2-delivers-more-ice-frosted-mayhem",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/jean-bentley/",
+                "criticName": "Jean Bentley",
+                "criticOrganization": "E! Online",
+                "criticReviewDate": "October 16, 2015",
+                "criticPost": "Congratulations, Fargo team! It's still incredible. No True Detective disappointment here.",
+                "postUrl": "http://www.eonline.com/news/705774/everybody-exhale-because-the-fargo-season-2-premiere-was-amazing-no-true-detective-curse-here",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/chris-bumbray/",
+                "criticName": "Chris Bumbray",
+                "criticOrganization": "JoBlo's Movie Emporium",
+                "criticReviewDate": "October 16, 2015",
+                "criticPost": "Clearly, season one was no fluke. Once again, Fargo is just about the best thing on TV - and that includes streaming.",
+                "postUrl": "http://www.joblo.com/movie-news/tv-review-fargo-season-2-episode-1-113-02",
+                "criticScore": "10/10",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/neil-miller/",
+                "criticName": "Neil Miller",
+                "criticOrganization": "Film School Rejects",
+                "criticReviewDate": "October 14, 2015",
+                "criticPost": "If for no other reason, you should watch it because it is a completely unique experience.",
+                "postUrl": "http://filmschoolrejects.com/features/fargo-returns-tonight-for-a-wild-and-violent-second-season.php",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/david-wiegand/",
+                "criticName": "David Wiegand",
+                "criticOrganization": "San Francisco Chronicle",
+                "criticReviewDate": "October 14, 2015",
+                "criticPost": "Fargo, the TV show, has more than developed its own identity and is fully capable of standing on its own.",
+                "postUrl": "http://www.sfgate.com/tv/article/Life-sneaks-up-on-you-in-Fargo-6524361.php",
+                "criticScore": "3/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/rob-owen/",
+                "criticName": "Rob Owen",
+                "criticOrganization": "Pittsburgh Post-Gazette",
+                "criticReviewDate": "October 14, 2015",
+                "criticPost": "Through the first four episodes, Fargo remains a terrific thriller laced with black humor. Viewers will see where some aspects of the story are heading, but they won't necessarily guess how the show will move its characters from point A to point B.",
+                "postUrl": "http://www.post-gazette.com/ae/tv-radio/2015/10/11/No-sophomore-slump-for-smart-engaging-Fargo/stories/201510110007",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/matthew-gilbert/",
+                "criticName": "Matthew Gilbert",
+                "criticOrganization": "Boston Globe",
+                "criticReviewDate": "October 14, 2015",
+                "criticPost": "It's drolly funny, it's effectively creepy, it's tightly plotted, it's loaded with beautifully defined characters, and, somehow, with its Midwestern accents and scuzzy diners, it's all peculiarly and specifically American.",
+                "postUrl": "https://www.bostonglobe.com/arts/television/2015/10/10/fargo-returns-with-superb-second-season/gH143R6ser81lABER0UoxJ/story.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/brooke-cain/",
+                "criticName": "Brooke Cain",
+                "criticOrganization": "News & Observer (Raleigh, NC)",
+                "criticReviewDate": "October 14, 2015",
+                "criticPost": "At one point in the first episode, one of the Kansas City operatives (played by Brad Garrett) somewhat dismissively describes Floyd this way: \"She's tough but, you know, a girl.\" Yes, well, we'd be foolish to underestimate her. Or this show.",
+                "postUrl": "http://www.newsobserver.com/entertainment/tv/warm-tv-blog/article38754408.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/roger-catlin/",
+                "criticName": "Roger Catlin",
+                "criticOrganization": "rogercatlin.com",
+                "criticReviewDate": "October 13, 2015",
+                "criticPost": "Following a splendid first season, the anthology-like Fargo starts a second season even more assured, surprising, funny, out there, brutal and addictive.",
+                "postUrl": "http://rogercatlin.com/2015/10/12/freakin-great-fargo-and-its-music/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/todd-vanderwerff/",
+                "criticName": "Todd VanDerWerff",
+                "criticOrganization": "Vox",
+                "criticReviewDate": "October 13, 2015",
+                "criticPost": "It works. Give or take The Leftovers, this is the best show of the fall.",
+                "postUrl": "http://www.vox.com/2015/10/13/9512365/fargo-season-2-premiere-recap",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/neil-genzlinger/",
+                "criticName": "Neil Genzlinger",
+                "criticOrganization": "New York Times",
+                "criticReviewDate": "October 13, 2015",
+                "criticPost": "Violence, deadpan humor and observational oddity mix on this show in a way that no other current series quite matches - not Bates Motel, not Salem, not even that other FX curiosity, American Horror Story.",
+                "postUrl": "http://www.nytimes.com/2015/10/12/arts/television/review-fargo-returns-with-a-triple-murder-at-a-waffle-hut.html?ref=television",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/rebecca-murray/",
+                "criticName": "Rebecca Murray",
+                "criticOrganization": "Showbiz Junkies",
+                "criticReviewDate": "October 13, 2015",
+                "criticPost": "Season two's first episode delivered smartly written, fascinating characters and set up a compelling story of murder and rival mobs.",
+                "postUrl": "http://www.showbizjunkies.com/tv/fargo-season-2-review/",
+                "criticScore": "A-",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/ken-tucker/",
+                "criticName": "Ken Tucker",
+                "criticOrganization": "Yahoo! TV",
+                "criticReviewDate": "October 12, 2015",
+                "criticPost": "The show is packed with plot, yet creator-writer Noah Hawley is so confident in his storytelling, the show feels leisurely -- there's always time to tuck in a small laugh-line or a neat little character detail.",
+                "postUrl": "https://www.yahoo.com/tv/fargo-season-2-review-135323541.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/verne-gay/",
+                "criticName": "Verne Gay",
+                "criticOrganization": "Newsday",
+                "criticReviewDate": "October 12, 2015",
+                "criticPost": "Baked into every word, every gesture, is an implicit recognition of that brutal Fargo credo: People can be cruel, stupid, mean and unintentionally funny, even the nice ones.",
+                "postUrl": "http://www.newsday.com/entertainment/tv/fargo-review-a-winner-of-a-prequel-1.10942939",
+                "criticScore": "A",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/fargo/s01/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/ben-shillito/",
+                "criticName": "Ben Shillito",
+                "criticOrganization": "HeyUGuys",
+                "criticReviewDate": "December 19, 2017",
+                "criticPost": "Let it all boil and stay in on Sundays for the next two months. It'll be worth it. Treat yourself to a little bit of Minnesota nice.",
+                "postUrl": "https://www.heyuguys.com/fargo-s1-e01-review/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/william-thomas/",
+                "criticName": "William Thomas",
+                "criticOrganization": "Empire Magazine",
+                "criticReviewDate": "November 3, 2017",
+                "criticPost": "It may start like Coens fan-fiction, but Fargo showrunner Noah Hawley quickly proves he has moves of his own.",
+                "postUrl": "https://www.empireonline.com/tv/fargo/",
+                "criticScore": "4/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/euan-ferguson/",
+                "criticName": "Euan Ferguson",
+                "criticOrganization": "Observer (UK)",
+                "criticReviewDate": "April 28, 2014",
+                "criticPost": "It's a perfect joy, and it's a good while since I set my digibox thing to \"record whole series\", but this promises phenomenally much.",
+                "postUrl": "http://www.theguardian.com/tv-and-radio/2014/apr/26/fargo-jamaica-inn-tommy-cooper-not-like-that-derek-review",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/christopher-orr/",
+                "criticName": "Christopher Orr",
+                "criticOrganization": "The Atlantic",
+                "criticReviewDate": "April 28, 2014",
+                "criticPost": "The show may (inevitably) lack the somber beauty of the Coens' meticulous compositions, but it nonetheless makes for good-looking, borderline-cinematic television.",
+                "postUrl": "http://www.theatlantic.com/entertainment/archive/2014/04/fx-brings-em-fargo-em-back-to-life/360569/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/ellen-e-jones/",
+                "criticName": "Ellen E Jones",
+                "criticOrganization": "Independent (UK)",
+                "criticReviewDate": "April 21, 2014",
+                "criticPost": "The new Fargo... seemed to be brimming with characters and stories all its own.",
+                "postUrl": "http://www.independent.co.uk/arts-entertainment/tv/reviews/fargo-tv-review-martin-freemans-casting-is-a-stroke-of-genius-9272328.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/sam-wollaston/",
+                "criticName": "Sam Wollaston",
+                "criticOrganization": "Guardian",
+                "criticReviewDate": "April 21, 2014",
+                "criticPost": "What could have been a disaster, enraging Fargo aficionados, is a respectful homage, and should quench a thirst they had half forgotten they have.",
+                "postUrl": "http://www.theguardian.com/tv-and-radio/2014/apr/20/fargo-tv-review-disaster-or-homage",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/mary-mcnamara/",
+                "criticName": "Mary McNamara",
+                "criticOrganization": "Los Angeles Times",
+                "criticReviewDate": "April 17, 2014",
+                "criticPost": "Neither prequel, sequel or remake, this Fargo is instead a tonal accompaniment, a little more than kin, a little less than kind and a whole new breed of television.",
+                "postUrl": "http://www.latimes.com/entertainment/tv/showtracker/la-et-st-fargo-review-20140415,0,3087116.story#axzz2zAp6LbX7",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/david-bianculli/",
+                "criticName": "David Bianculli",
+                "criticOrganization": "NPR",
+                "criticReviewDate": "April 17, 2014",
+                "criticPost": "This new Fargo is a worthy companion piece to the film.",
+                "postUrl": "http://www.npr.org/2014/04/15/303385734/fx-s-fargo-is-neither-remake-nor-sequel",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/eric-deggans/",
+                "criticName": "Eric Deggans",
+                "criticOrganization": "NPR",
+                "criticReviewDate": "April 17, 2014",
+                "criticPost": "A whole new constellation of characters is set against this familiar backdrop, playing out new tales of sordid activity in Bemidji, Minn., where the Minnesota nice is often punctured by bursts of violence and pain.",
+                "postUrl": "http://www.npr.org/2014/04/15/303353809/why-fargo-for-tv-works-with-cold-efficiency-and-bad-teacher-doesnt",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/david-zurawik/",
+                "criticName": "David Zurawik",
+                "criticOrganization": "Baltimore Sun",
+                "criticReviewDate": "April 17, 2014",
+                "criticPost": "It's easy to lose yourself as I did in this world of endless snow, hopelessly flat lands, coffee shops, down jackets, small town facades, brutality, blood, drugs and slaughter.",
+                "postUrl": "http://www.baltimoresun.com/entertainment/tv/z-on-tv-blog/bal-fargo-fx-review-billy-bob-thornton20140414,0,1335492.story",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/sonia-saraiya/",
+                "criticName": "Sonia Saraiya",
+                "criticOrganization": "AV Club",
+                "criticReviewDate": "April 17, 2014",
+                "criticPost": "Fargo can't help but live in the shadow of Fargo-but it seems quite happy there, messing around with similar ideas and characters while adding a tongue-in-cheek twist to the proceedings.",
+                "postUrl": "http://www.avclub.com/review/fargo-elaborate-gorgeous-fan-service-203325",
+                "criticScore": "B+",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/christopher-campbell/",
+                "criticName": "Christopher Campbell",
+                "criticOrganization": "Film School Rejects",
+                "criticReviewDate": "April 16, 2014",
+                "criticPost": "What I find to be best about Fargo... is how well it builds the world in which it's set rather convincingly and rather quickly.",
+                "postUrl": "http://filmschoolrejects.com/features/fargo-tv-series-review.php",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/david-wiegand/",
+                "criticName": "David Wiegand",
+                "criticOrganization": "San Francisco Chronicle",
+                "criticReviewDate": "April 16, 2014",
+                "criticPost": "You should overlook the shortcomings and enjoy the series on its own otherwise considerable merits, chief among them, of course, Billy Bob Thornton.",
+                "postUrl": "http://www.sfgate.com/tv/article/Fargo-review-Show-tethered-to-film-yet-has-5394312.php",
+                "criticScore": "3/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/neil-drumming/",
+                "criticName": "Neil Drumming",
+                "criticOrganization": "Salon.com",
+                "criticReviewDate": "April 16, 2014",
+                "criticPost": "It's the kind of thing we've seen before in many a Coen brothers film, yet it never fails to disturb. If the slow roll-out is any indication, there are far more interesting developments to come.",
+                "postUrl": "http://www.salon.com/2014/04/15/fxs_fargo_is_a_knock_off_thats_almost_as_good_as_the_original/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/ross-langager/",
+                "criticName": "Ross Langager",
+                "criticOrganization": "PopMatters",
+                "criticReviewDate": "April 16, 2014",
+                "criticPost": "This Fargo is too often tedious, a bit of a surprise considering the talent assembled here.",
+                "postUrl": "http://www.popmatters.com/review/180822-fargo-martin-freeman-and-billy-bob-thornton-in-snow/",
+                "criticScore": "5/10",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/rob-owen/",
+                "criticName": "Rob Owen",
+                "criticOrganization": "Pittsburgh Post-Gazette",
+                "criticReviewDate": "April 16, 2014",
+                "criticPost": "Others may praise the verbose slog that was True Detective or the uninvolving history of Turn, but for sheer entertainment value and constant surprise, no new program is better than this 10-part limited series adaptation of the Coen brothers' 1996 film.",
+                "postUrl": "http://www.post-gazette.com/ae/tv-radio/2014/04/15/Fargo-on-FX-is-full-of-chipper-humor/stories/201404150057",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/ellen-gray/",
+                "criticName": "Ellen Gray",
+                "criticOrganization": "Philadelphia Daily News",
+                "criticReviewDate": "April 16, 2014",
+                "criticPost": "Something wickedly delicious this way comes.",
+                "postUrl": "http://www.philly.com/philly/columnists/ellen_gray/20140415_Cold_blood__You_betcha_.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/david-hiltbrand/",
+                "criticName": "David Hiltbrand",
+                "criticOrganization": "Philadelphia Inquirer",
+                "criticReviewDate": "April 16, 2014",
+                "criticPost": "Fargo the series cannot recapture that fission, but it is enjoyable, funny, and, something TV rarely is, weird.",
+                "postUrl": "http://www.philly.com/philly/entertainment/20140415__Fargo__on_TV_both_like_and_unlike_the_movie.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/allyson-johnson/",
+                "criticName": "Allyson Johnson",
+                "criticOrganization": "The Young Folks",
+                "criticReviewDate": "April 16, 2014",
+                "criticPost": "Big in scope, morbid hilarity and intrigue, Fargo's series premiere episode \"The Crocodile's Dilemma\" excellently sets up the rest of the season.",
+                "postUrl": "http://www.theyoungfolks.com/review/tv-review-fargo-1x01-the-crocodiles-dilemma/31011",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/matt-roush/",
+                "criticName": "Matt Roush",
+                "criticOrganization": "TV Guide",
+                "criticReviewDate": "April 15, 2014",
+                "criticPost": "I'm almost halfway through and still have no idea where the next hour will take me. What delicious anticipation. Fargo may not be your dream destination, but I bet you'll want to go to there.",
+                "postUrl": "http://www.tvguide.com/News/Tuesday-TV-Fargo-1080501.aspx",
+                "criticScore": "",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/scream/s02/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/price-peterson/",
+                "criticName": "Price Peterson",
+                "criticOrganization": "Entertainment Weekly",
+                "criticReviewDate": "August 29, 2017",
+                "criticPost": "There was a refreshing dose of confidence present in \"I Know What You Did Last Summer\" that was largely absent last season.",
+                "postUrl": "http://ew.com/recap/scream-season-2-premiere/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/bri-lockhart-16153/",
+                "criticName": "Bri Lockhart",
+                "criticOrganization": "The Young Folks",
+                "criticReviewDate": "June 6, 2016",
+                "criticPost": "Scream certainly brought it for the first episode of the season.",
+                "postUrl": "http://theyoungfolks.com/review/tv-review-scream-2x01-i-know-what-you-did-last-summer/79891",
+                "criticScore": "8/10",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/molly-freeman/",
+                "criticName": "Molly Freeman",
+                "criticOrganization": "ScreenRant",
+                "criticReviewDate": "May 31, 2016",
+                "criticPost": "Though it remains to be seen whether this season will wrap up the mystery of the new killer in a way that's much more thrilling than in season 1, Scream season 2 certainly seems to have avoided many of the tropes of most horror sequels.",
+                "postUrl": "http://screenrant.com/scream-season-2-premiere-reviews-spoilers/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/mark-trammell/",
+                "criticName": "Mark Trammell",
+                "criticOrganization": "TV Equals",
+                "criticReviewDate": "May 31, 2016",
+                "criticPost": "All in all, a solid enough premiere, though a lot will depend on how this plays out over the season, obviously.",
+                "postUrl": "http://www.tvequals.com/2016/05/31/scream-the-tv-series-season-2-premiere-review-who-knows-what-she-did-last-summer/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/mitchel-broussard/",
+                "criticName": "Mitchel Broussard",
+                "criticOrganization": "We Got This Covered",
+                "criticReviewDate": "May 30, 2016",
+                "criticPost": "Sporadically clever and requisitely gory - but still awkward and forced - more than ever, Scream the TV series will work wonders if you can just forget Scream the movie series ever happened.",
+                "postUrl": "http://wegotthiscovered.com/tv/scream-season-2-review/",
+                "criticScore": "7/10",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/scream/s01/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/jonathan-hatfull/",
+                "criticName": "Jonathan Hatfull",
+                "criticOrganization": "SciFiNow",
+                "criticReviewDate": "October 23, 2015",
+                "criticPost": "There are one or two gory and well-mounted horror sequences, some smart lines, intermittently sharp commentary on online bullying, but Scream: The TV Series is a mostly dull and frustrating experience.",
+                "postUrl": "http://www.scifinow.co.uk/reviews/scream-the-tv-series-season-1-review/",
+                "criticScore": "2/5",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/lenika-cruz/",
+                "criticName": "Lenika Cruz",
+                "criticOrganization": "The Atlantic",
+                "criticReviewDate": "September 2, 2015",
+                "criticPost": "An incredibly MTV-in-2015 way to unravel a mystery: ridiculous, meme-obsessed, self-mocking, and fun if you don't think about it too much. Which basically sums up the first season of the network's Scream.",
+                "postUrl": "http://www.theatlantic.com/entertainment/archive/2015/09/scream-mtv-series/403090/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/kevin-a-ranson/",
+                "criticName": "Kevin A. Ranson",
+                "criticOrganization": "MovieCrypt.com",
+                "criticReviewDate": "September 2, 2015",
+                "criticPost": "...(not) the impactful one-two punch (ending) one would have hoped for...the plot and the denouement end up better than three of the four seasons of American Horror Story...",
+                "postUrl": "http://moviecrypt.com/2015/09/02/review-scream-season-1-we-kind-of-saw-it-coming/",
+                "criticScore": "3.0/4.0",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/john-hanlon/",
+                "criticName": "John Hanlon",
+                "criticOrganization": "John Hanlon Reviews",
+                "criticReviewDate": "August 11, 2015",
+                "criticPost": "Suspenseful and fun, this new MTV show is a real scream.",
+                "postUrl": "http://www.johnhanlonreviews.com/tv-review/scream/",
+                "criticScore": "3.0/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/bri-lockhart-16153/",
+                "criticName": "Bri Lockhart",
+                "criticOrganization": "The Young Folks",
+                "criticReviewDate": "July 8, 2015",
+                "criticPost": "Most of my issue with the pilot comes from execution; ostensibly, they took what was best about Scream and tried to clumsily bend it to the confines of a television show.",
+                "postUrl": "http://theyoungfolks.com/television/tv-review-scream-1x01-pilot/59303",
+                "criticScore": "5/10",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/joyce-slaton/",
+                "criticName": "Joyce Slaton",
+                "criticOrganization": "Common Sense Media",
+                "criticReviewDate": "July 7, 2015",
+                "criticPost": "Extreme graphic violence in TV retread of slasher series.",
+                "postUrl": "https://www.commonsensemedia.org/tv-reviews/scream",
+                "criticScore": "2/5",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/vicki-hyman/",
+                "criticName": "Vicki Hyman",
+                "criticOrganization": "Newark Star-Ledger",
+                "criticReviewDate": "July 6, 2015",
+                "criticPost": "MTV's television series based on the popular franchise has the same exact archly self-aware tone, but the novelty is long gone, and what we're left with is pointless homage.",
+                "postUrl": "http://www.nj.com/entertainment/tv/index.ssf/2015/06/mtv_scream_review_tv_series.html#incart_river",
+                "criticScore": "C-",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/zach-hollwedel/",
+                "criticName": "Zach Hollwedel",
+                "criticOrganization": "Under the Radar",
+                "criticReviewDate": "July 6, 2015",
+                "criticPost": "The biggest hindrance the program faces, though, might be in the visual limitations its medium affords.",
+                "postUrl": "http://www.undertheradarmag.com/reviews/scream1/",
+                "criticScore": "6.5/10",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/molly-freeman/",
+                "criticName": "Molly Freeman",
+                "criticOrganization": "ScreenRant",
+                "criticReviewDate": "July 2, 2015",
+                "criticPost": "Scream is self-aware - not only of its genre, but of its intended audience.",
+                "postUrl": "http://screenrant.com/scream-series-premiere-review/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/eric-goldman/",
+                "criticName": "Eric Goldman",
+                "criticOrganization": "IGN Movies",
+                "criticReviewDate": "July 2, 2015",
+                "criticPost": "It often feels pretty, well, MTV, in a cliche sense, with a bevy of attractive, vapid characters acting in a rather stilted manner.",
+                "postUrl": "http://www.ign.com/articles/2015/06/30/scream-pilot-review",
+                "criticScore": "5.8/10",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/latoya-ferguson/",
+                "criticName": "LaToya Ferguson",
+                "criticOrganization": "AV Club",
+                "criticReviewDate": "July 2, 2015",
+                "criticPost": "If you just know the plot of the original Scream, just take that and strip it to its most basic, generic parts until you get this.",
+                "postUrl": "http://www.avclub.com/tvclub/scream-pilot-221629",
+                "criticScore": "D-",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/brian-tallerico/",
+                "criticName": "Brian Tallerico",
+                "criticOrganization": "RogerEbert.com",
+                "criticReviewDate": "June 30, 2015",
+                "criticPost": "Right from the first scene there's a unique energy to the piece. It doesn't feel like a knock-off or a cheap tie-in. It's a horror movie in weekly series form.",
+                "postUrl": "http://www.rogerebert.com/demanders/scream-and-zoo-seek-to-raise-the-summer-tv-body-count",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/deborah-day/",
+                "criticName": "Deborah Day",
+                "criticOrganization": "TheWrap",
+                "criticReviewDate": "June 30, 2015",
+                "criticPost": "Luxe environments mixed with bitchy teen entitlement and karmic vengeance drive Scream beyond its slasher-exploitation film genesis to a stylish metaphor about a new generation's excesses and mean-girl cruelty.",
+                "postUrl": "http://www.thewrap.com/scream-review-slasher-parody-movie-franchise-slays-tv/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/mark-a-perigard/",
+                "criticName": "Mark A. Perigard",
+                "criticOrganization": "Boston Herald",
+                "criticReviewDate": "June 30, 2015",
+                "criticPost": "MTV's TV adaptation of Scream updates the franchise with new characters and trendy references to Instagram, YouTube and texting, but it leaves out the snark and spirit that made the big-budget slasher film franchise so memorable.",
+                "postUrl": "http://www.bostonherald.com/entertainment/television/television_reviews/2015/06/mtv_s_scream_series_doesn_t_live_up_to_film",
+                "criticScore": "C+",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/mary-mcnamara/",
+                "criticName": "Mary McNamara",
+                "criticOrganization": "Los Angeles Times",
+                "criticReviewDate": "June 30, 2015",
+                "criticPost": "I will not be sticking around, as a matter of taste; but I will not be standing in your way.",
+                "postUrl": "http://www.latimes.com/entertainment/tv/la-et-st-mtv-scream-review-20150630-column.html",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/david-wiegand/",
+                "criticName": "David Wiegand",
+                "criticOrganization": "San Francisco Chronicle",
+                "criticReviewDate": "June 30, 2015",
+                "criticPost": "MTV is wrong when it says, \"You can't do a slasher film as a TV series.\" What they should have said is, \"We can't do it, but someone could.\"",
+                "postUrl": "http://www.sfgate.com/tv/article/TV-Not-with-a-Scream-but-a-whimper-6351707.php",
+                "criticScore": "1/4",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/rob-owen/",
+                "criticName": "Rob Owen",
+                "criticOrganization": "Pittsburgh Post-Gazette",
+                "criticReviewDate": "June 30, 2015",
+                "criticPost": "Whether Scream can overcome Noah's legitimate concerns about adapting a slasher movie for TV remains to be seen. But tonight's premiere gets the show off to a strong creative start.",
+                "postUrl": "http://communityvoices.post-gazette.com/arts-entertainment-living/tuned-in/item/39171-mtv-set-to-scream-with-tv-version-of-movie-franchise",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/brian-lowry/",
+                "criticName": "Brian Lowry",
+                "criticOrganization": "Variety",
+                "criticReviewDate": "June 29, 2015",
+                "criticPost": "Once the foul deed happens, though, Scream, perhaps out of necessity, shifts to a more conventional teen-drama mode, introducing an assortment of characters, most of whom, one suspects, should be prepared to get shish-kebabbed before it's all over.",
+                "postUrl": "http://variety.com/2015/tv/reviews/scream-series-review-mtv-1201527557/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/david-hinckley/",
+                "criticName": "David Hinckley",
+                "criticOrganization": "New York Daily News",
+                "criticReviewDate": "June 29, 2015",
+                "criticPost": "You gotta like any high school drama that starts with the mean girl getting stalked and stabbed to death beside her swimming pool.",
+                "postUrl": "http://www.nydailynews.com/entertainment/tv/scream-review-mtv-series-borrows-movie-article-1.2272874",
+                "criticScore": "4/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/verne-gay/",
+                "criticName": "Verne Gay",
+                "criticOrganization": "Newsday",
+                "criticReviewDate": "June 29, 2015",
+                "criticPost": "Scream is exactly what you'd expect. It may also be exactly what you want.",
+                "postUrl": "http://www.newsday.com/entertainment/tv/scream-review-new-mtv-show-is-exactly-what-you-d-expect-1.10583121",
+                "criticScore": "B",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/scream_queens/s02/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/yana-grebenyuk/",
+                "criticName": "Yana Grebenyuk",
+                "criticOrganization": "The Young Folks",
+                "criticReviewDate": "September 22, 2016",
+                "criticPost": "The characters feel like people you want to watch because of how out there they are. The hospital has a life of its own that I am excited to get to the bottom of.",
+                "postUrl": "http://theyoungfolks.com/review/tv-review-scream-queens-2x01-scream-again/87137",
+                "criticScore": "10/10",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/orly-greenberg/",
+                "criticName": "Orly Greenberg",
+                "criticOrganization": "New York Observer",
+                "criticReviewDate": "September 21, 2016",
+                "criticPost": "The season premiere still feels hopeful, even if it is just a little bit. The writing, truly, does seem better. And John Stamos! That's something, right?",
+                "postUrl": "http://observer.com/2016/09/scream-queens-season-2-premiere-losing-your-patients/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/mark-trammell/",
+                "criticName": "Mark Trammell",
+                "criticOrganization": "TV Equals",
+                "criticReviewDate": "September 21, 2016",
+                "criticPost": "Though Scream Again took a hot minute to get going, once it did, it was entertaining enough.",
+                "postUrl": "http://www.tvequals.com/2016/09/21/scream-queens-scream-again-review-season-2-episode-1/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/sarah-moran/",
+                "criticName": "Sarah Moran",
+                "criticOrganization": "ScreenRant",
+                "criticReviewDate": "September 21, 2016",
+                "criticPost": "Scream Queens season 2 hasn't skipped a beat, and if you enjoyed its campy ridiculousness last season, this one promises more of the same. It's wacky, it's funny, and at times thrilling in a way only the best slashers can ever be.",
+                "postUrl": "http://screenrant.com/scream-queens-season-2-premiere-review/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/andy-swift/",
+                "criticName": "Andy Swift",
+                "criticOrganization": "TV Line",
+                "criticReviewDate": "September 21, 2016",
+                "criticPost": "Kirstie Alley was easily the best addition to the Scream Queens Universe(TM), even if we learned literally nothing about her character in this first hour.",
+                "postUrl": "http://tvline.com/2016/09/20/scream-queens-recap-season-2-premiere-kirstie-alley-chanel/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/rebecca-murray/",
+                "criticName": "Rebecca Murray",
+                "criticOrganization": "Showbiz Junkies",
+                "criticReviewDate": "September 21, 2016",
+                "criticPost": "Season one had its toes dipped in reality for the most part, but season two's first episode rarely flirted with the real world.",
+                "postUrl": "http://www.showbizjunkies.com/tv/scream-queens-season-2-episode-1-recap/",
+                "criticScore": "C",
+                "criticFresh": false
+            }
+        ]
+    },
+    {
+        "url": "/tv/scream_queens/s01/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/joe-reid/",
+                "criticName": "Joe Reid",
+                "criticOrganization": "Decider",
+                "criticReviewDate": "December 19, 2017",
+                "criticPost": "We're already coming back for season two, even if we have no idea where these characters could possibly go from here. It'll probably be fun to find out, though.",
+                "postUrl": "https://decider.com/2015/12/09/scream-queens-season-1-review-why-its-replaced-american-horror-story-in-our-hearts/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/poppy-jay-palmer/",
+                "criticName": "Poppy-Jay Palmer",
+                "criticOrganization": "SciFiNow",
+                "criticReviewDate": "September 26, 2016",
+                "criticPost": "Ryan Murphy's Scream Queens is exactly what you'd expect a series from Ryan Murphy called Scream Queens to be. It's a blend of everything that's campy and bright about Glee and dark and grimy about American Horror Story.",
+                "postUrl": "https://www.scifinow.co.uk/reviews/scream-queens-season-1-dvd-review/",
+                "criticScore": "4/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/pilot-viruet/",
+                "criticName": "Pilot Viruet",
+                "criticOrganization": "Flavorwire",
+                "criticReviewDate": "June 8, 2016",
+                "criticPost": "Scream Queens still manages to be endlessly watchable.",
+                "postUrl": "http://flavorwire.com/538775/ryan-murphys-touch-is-all-over-scream-queens-for-better-and-worse",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/ed-power-16789/",
+                "criticName": "Ed Power",
+                "criticOrganization": "Daily Telegraph (UK)",
+                "criticReviewDate": "October 27, 2015",
+                "criticPost": "Shiny, gory and whip-smart, Scream Queens thus attempted to pummel the viewer into submission with sheer, rictus-grinning relentlessness. And it worked.",
+                "postUrl": "http://www.telegraph.co.uk/culture/tvandradio/tv-and-radio-reviews/11955772/scream-queens-pilot-episode-one-review.html",
+                "criticScore": "4/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/oscar-uriel/",
+                "criticName": "Oscar Uriel",
+                "criticOrganization": "Cinema Movil",
+                "criticReviewDate": "October 13, 2015",
+                "criticPost": "A fun and campy series that will work until the acid jokes run out. [Full review in Spanish]",
+                "postUrl": "http://www.cinemamovil.mx/resena-scream-queens-mas-risas-que-horror/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/jordi-linares-rivas/",
+                "criticName": "Jordi Linares Rivas",
+                "criticOrganization": "Cine Premiere",
+                "criticReviewDate": "October 2, 2015",
+                "criticPost": "A pop culture bomb directed at teens that more than one adult can enjoy. [Full review in Spanish]",
+                "postUrl": "http://www.cinepremiere.com.mx/55782-scream-queens.html",
+                "criticScore": "3/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/rob-sheffield/",
+                "criticName": "Rob Sheffield",
+                "criticOrganization": "Rolling Stone",
+                "criticReviewDate": "September 29, 2015",
+                "criticPost": "Let's call it right now: Scream Queens is already looking like the smartest move Ryan Murphy's ever made - it has all the best elements of Glee and American Horror Story, but it tops them both.",
+                "postUrl": "http://www.rollingstone.com/tv/lists/must-see-fall-tv-from-slasher-spoofs-to-evil-dead-20150929/blindspot-20150928",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/todd-vanderwerff/",
+                "criticName": "Todd VanDerWerff",
+                "criticOrganization": "Vox",
+                "criticReviewDate": "September 24, 2015",
+                "criticPost": "It's a fairly entertaining, but completely confusing, case of whiplash.",
+                "postUrl": "http://www.vox.com/2015/9/23/9378215/scream-queens-premiere-recap/in/9142318",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/melissa-maerz/",
+                "criticName": "Melissa Maerz",
+                "criticOrganization": "Entertainment Weekly",
+                "criticReviewDate": "September 24, 2015",
+                "criticPost": "The whole time I watched, I was either laughing out loud, or feeling guilty for laughing out loud.",
+                "postUrl": "http://www.ew.com/article/2015/09/15/fall-tv-preview-best-new-shows-ew-critics",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/brenna-cashen/",
+                "criticName": "Brenna Cashen",
+                "criticOrganization": "The Young Folks",
+                "criticReviewDate": "September 23, 2015",
+                "criticPost": "For a two-hour episode with plenty of blood, sexual tension and five 'dead' characters, not much else happens.",
+                "postUrl": "http://theyoungfolks.com/review/tv-review-scream-queens-1x01-pilot/64202",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/vicki-hyman/",
+                "criticName": "Vicki Hyman",
+                "criticOrganization": "Newark Star-Ledger",
+                "criticReviewDate": "September 23, 2015",
+                "criticPost": "Of course, coherence might not be what one looks for in a Ryan Murphy joint. But \"Scream Queens' is just exhausting",
+                "postUrl": "http://www.nj.com/entertainment/tv/index.ssf/2015/09/the_muppets_review_scream_queens_review_limitless.html#incart_river",
+                "criticScore": "C",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/lily-sparks/",
+                "criticName": "Lily Sparks",
+                "criticOrganization": "TV.com",
+                "criticReviewDate": "September 23, 2015",
+                "criticPost": "For this two-hour block of set up, Grace's first days at college were as hilariously on-formula as a game of Pocket Gem's Episodes...",
+                "postUrl": "http://www.tv.com/shows/scream-queens-2015/community/post/scream-queens-series-premiere-season-1-episode-1-episode-2-pilot-hell-week-review-144285390937/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/daniel-johnson/",
+                "criticName": "Daniel Johnson",
+                "criticOrganization": "ScreenRant",
+                "criticReviewDate": "September 23, 2015",
+                "criticPost": "Not only does the show play well, but it looks great doing it, too.",
+                "postUrl": "http://screenrant.com/scream-queens-series-premiere-review-emma-roberts/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/latoya-ferguson/",
+                "criticName": "LaToya Ferguson",
+                "criticOrganization": "AV Club",
+                "criticReviewDate": "September 23, 2015",
+                "criticPost": "Really, Ryan Murphy productions have bled together more and more as the years go by, and Scream Queens feels like the pinnacle of that.",
+                "postUrl": "http://www.avclub.com/tvclub/scream-queens-another-ryan-murphy-series-all-entai-225742",
+                "criticScore": "C+",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/caralynn-lippo/",
+                "criticName": "Caralynn Lippo",
+                "criticOrganization": "TV Fanatic",
+                "criticReviewDate": "September 23, 2015",
+                "criticPost": "After the two-hour roller coaster ride that was the series premiere of Scream Queens, I think it's safe to say that Ryan Murphy has done it again.",
+                "postUrl": "http://www.tvfanatic.com/2015/09/scream-queens-premiere-review-bloody-good-fun/",
+                "criticScore": "4.25/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/sarah-rodman/",
+                "criticName": "Sarah Rodman",
+                "criticOrganization": "Boston Globe",
+                "criticReviewDate": "September 22, 2015",
+                "criticPost": "he humor is lively for a while, with lots of pop cultural wit, clever insults, and showy guest stars... before it all becomes pretty tiresome.",
+                "postUrl": "https://www.bostonglobe.com/arts/television/2015/09/21/critic-corner-for-tuesday/6unn8nu8yr9IcOImLGnODP/story.html",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/roger-catlin/",
+                "criticName": "Roger Catlin",
+                "criticOrganization": "rogercatlin.com",
+                "criticReviewDate": "September 22, 2015",
+                "criticPost": "Emma Roberts is hard to watch for two hours as an uber-bitch that's way beyond anything amusing, whose racism as humor is way out of line.",
+                "postUrl": "http://rogercatlin.com/2015/09/22/the-fall-tv-season-tuesdays/#more-16378",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/daniel-daddario-17100/",
+                "criticName": "Daniel D'Addario",
+                "criticOrganization": "TIME Magazine",
+                "criticReviewDate": "September 22, 2015",
+                "criticPost": "Ryan Murphy wants his shows to do it all, including stuff that's never really worked for him.",
+                "postUrl": "http://time.com/4044311/scream-queens-is-a-missed-opportunity-for-fox-and-ryan-murphy/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/thad-ogburn/",
+                "criticName": "Thad Ogburn",
+                "criticOrganization": "News & Observer (Raleigh, NC)",
+                "criticReviewDate": "September 22, 2015",
+                "criticPost": "This mash-up of horror, comedy, satire and '90s nostalgia is ridiculous, offensive, gross and over the top. And we can't wait for the next episode!",
+                "postUrl": "http://www.newsobserver.com/entertainment/tv/warm-tv-blog/article35730147.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/ken-tucker/",
+                "criticName": "Ken Tucker",
+                "criticOrganization": "Yahoo! TV",
+                "criticReviewDate": "September 22, 2015",
+                "criticPost": "Here's a sentence I never thought I'd write: Ariana Grande does not appear frequently enough on the show.",
+                "postUrl": "https://www.yahoo.com/tv/scream-queens-review-129649674825.html",
+                "criticScore": "",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/secrets_lies/s02/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/allison-keene/",
+                "criticName": "Allison Keene",
+                "criticOrganization": "Collider",
+                "criticReviewDate": "September 20, 2016",
+                "criticPost": "Secrets & Lies' first season was an exercise in frustration with a bizarre conclusion, and Season 2's mostly clean slate has a chance to course-correct.",
+                "postUrl": "http://collider.com/new-tv-shows-fall-2016/#secrets-and-lies-season-2",
+                "criticScore": "2/5",
+                "criticFresh": false
+            }
+        ]
+    },
+    {
+        "url": "/tv/secrets_lies/s01/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/jackie-k-cooper/",
+                "criticName": "Jackie K. Cooper",
+                "criticOrganization": "jackiekcooper.com",
+                "criticReviewDate": "March 21, 2015",
+                "criticPost": "The acting and writing make this a series not to miss. You can binge watch the first few episodes and then be a regular viewer from now till the end.",
+                "postUrl": "http://www.jackiekcooper.com",
+                "criticScore": "7/10",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/brad-oswald/",
+                "criticName": "Brad Oswald",
+                "criticOrganization": "Winnipeg Free Press",
+                "criticReviewDate": "March 17, 2015",
+                "criticPost": "The storyline in this series has a single-mindedness that might leave viewers feeling like the same note is being pounded over and over again, and it's no secret that that's not a recipe for ratings success.",
+                "postUrl": "http://www.winnipegfreepress.com/arts-and-life/entertainment/TV/murder-mystery-slays-new-series-competition-294485451.html",
+                "criticScore": "2.5/5",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/rob-lowman/",
+                "criticName": "Rob Lowman",
+                "criticOrganization": "Los Angeles Daily News",
+                "criticReviewDate": "March 10, 2015",
+                "criticPost": "Not having seen the original, it's hard to compare the two series, but the American version seems bloated. Shockers are tossed out here and there, but there is little connective tissue in the story.",
+                "postUrl": "http://www.dailynews.com/arts-and-entertainment/20150227/review-ryan-phillippes-secrets-lies-lacks-compelling-characters-focus",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/kari-croop/",
+                "criticName": "Kari Croop",
+                "criticOrganization": "Common Sense Media",
+                "criticReviewDate": "March 4, 2015",
+                "criticPost": "Predictable whodunit packs few real surprises.",
+                "postUrl": "https://www.commonsensemedia.org/tv-reviews/secrets-and-lies",
+                "criticScore": "2/5",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/vicki-hyman/",
+                "criticName": "Vicki Hyman",
+                "criticOrganization": "Newark Star-Ledger",
+                "criticReviewDate": "March 3, 2015",
+                "criticPost": "It's a fairly mundane mystery populated by cardboard characters with poor decision-making skills, starting with Ben, who immediately becomes the prime suspect, and his wife Christy.",
+                "postUrl": "http://www.nj.com/entertainment/tv/index.ssf/2015/03/secrets_and_lies_review_abc_ryan_phillippe.html#incart_river",
+                "criticScore": "C",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/matt-zoller-seitz/",
+                "criticName": "Matt Zoller Seitz",
+                "criticOrganization": "New York Magazine/Vulture",
+                "criticReviewDate": "March 3, 2015",
+                "criticPost": "Juliette Lewis, once American cinema's liveliest eccentric, is drained of life, which makes her a perfect match for Phillippe's blankness.",
+                "postUrl": "http://www.vulture.com/2015/02/secrets-and-lies-review.html",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/scott-d-pierce/",
+                "criticName": "Scott D. Pierce",
+                "criticOrganization": "Salt Lake Tribune",
+                "criticReviewDate": "March 3, 2015",
+                "criticPost": "Phillipe isn't good, and Lewis is just plain awful. It's hard to imagine a less-convincing portrayal of a police detective.",
+                "postUrl": "http://www.sltrib.com/blogs/tv/2230864-155/tv-review-secrets-and-lies-is",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/roger-catlin/",
+                "criticName": "Roger Catlin",
+                "criticOrganization": "rogercatlin.com",
+                "criticReviewDate": "March 2, 2015",
+                "criticPost": "It's the kind of story that is well told on cable, but here seems stifled by the casting to start.",
+                "postUrl": "http://rogercatlin.com/2015/02/27/hints-for-future-watching/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/neal-justin/",
+                "criticName": "Neal Justin",
+                "criticOrganization": "Minneapolis Star Tribune",
+                "criticReviewDate": "March 2, 2015",
+                "criticPost": "The mystery is so-so, but Lewis, who has flown largely under the radar since Cape Fear, reminds us of her immense talent.",
+                "postUrl": "http://www.startribune.com/entertainment/tv/294389251.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/brooke-cain/",
+                "criticName": "Brooke Cain",
+                "criticOrganization": "News & Observer (Raleigh, NC)",
+                "criticReviewDate": "March 2, 2015",
+                "criticPost": "I enjoyed the first episode, but the second hour had me ready to bail.",
+                "postUrl": "http://www.newsobserver.com/2015/03/01/4586021/what-to-watch-on-sunday-battle.html",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/mary-mcnamara/",
+                "criticName": "Mary McNamara",
+                "criticOrganization": "Los Angeles Times",
+                "criticReviewDate": "March 2, 2015",
+                "criticPost": "Just as suspicion takes a little time to grow and spread, so does sophistication. But this series seems to be in a very big hurry to be over, which almost guarantees that audiences will be too.",
+                "postUrl": "http://www.latimes.com/entertainment/tv/la-et-st-abc-secrets-and-lies-review-20150228-column.html",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/kristi-turnquist/",
+                "criticName": "Kristi Turnquist",
+                "criticOrganization": "Oregonian",
+                "criticReviewDate": "March 2, 2015",
+                "criticPost": "Lewis and Philippe have enough chemistry that his underplaying and her overplaying are a match made in whodunnit heaven.",
+                "postUrl": "http://www.oregonlive.com/movies/2015/02/secrets_and_lies_review_ryan_p.html#incart_river",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/gail-pennington/",
+                "criticName": "Gail Pennington",
+                "criticOrganization": "St. Louis Post-Dispatch",
+                "criticReviewDate": "March 2, 2015",
+                "criticPost": "The writing is clunky, Phillippe is stiff and Lewis overacts like a cop in some parody of cop shows.",
+                "postUrl": "http://www.stltoday.com/entertainment/television/gail-pennington/three-sunday-tv-debuts-two-worth-your-time/article_9178a893-9dd4-5c7b-acd6-b1128800a0f8.html",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/amber-dowling/",
+                "criticName": "Amber Dowling",
+                "criticOrganization": "IGN Movies",
+                "criticReviewDate": "March 2, 2015",
+                "criticPost": "By keeping the story to one perspective the audience never feels smarter than its characters, resulting in a strong hour of revelations and breadcrumbs.",
+                "postUrl": "http://www.ign.com/articles/2015/02/28/secrets-and-lies-the-trailer-review",
+                "criticScore": "8/10",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/tirdad-derakhshani/",
+                "criticName": "Tirdad Derakhshani",
+                "criticOrganization": "Philadelphia Inquirer",
+                "criticReviewDate": "March 2, 2015",
+                "criticPost": "Despite its faults, ABC's drama is a winner.",
+                "postUrl": "http://www.philly.com/philly/entertainment/television/20150226__Secrets___Lies__and__Battle_Creek__lead_a_spring_thaw_of_new_TV_shows.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/brian-moylan/",
+                "criticName": "Brian Moylan",
+                "criticOrganization": "Guardian",
+                "criticReviewDate": "March 2, 2015",
+                "criticPost": "Secrets and Lies doesn't need to be some deep exegesis about human frailty or the way we live now. But it doesn't impress on a plot level, either. The action just languishes.",
+                "postUrl": "http://www.theguardian.com/culture/2015/feb/28/secrets-and-lies-abc-show-ryan-phillippe-juliette-lewis",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/kate-kulzick/",
+                "criticName": "Kate Kulzick",
+                "criticOrganization": "AV Club",
+                "criticReviewDate": "March 2, 2015",
+                "criticPost": "It would be easy to dismiss ABC's latest entry in the \"murder in a small town\" subgenre, but by shifting its perspective from the investigators to one of the townspeople, the series breathes some life into a tired premise.",
+                "postUrl": "http://www.avclub.com/review/secrets-and-lies-refreshingly-short-both-215680",
+                "criticScore": "B",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/mark-a-perigard/",
+                "criticName": "Mark A. Perigard",
+                "criticOrganization": "Boston Herald",
+                "criticReviewDate": "March 2, 2015",
+                "criticPost": "This story unfolds as if it were told by someone overdosing on Ambien.",
+                "postUrl": "http://www.bostonherald.com/entertainment/television/television_reviews/2015/02/characters_make_abc_s_secrets_not_worth_keeping",
+                "criticScore": "C",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/cory-barker/",
+                "criticName": "Cory Barker",
+                "criticOrganization": "TV.com",
+                "criticReviewDate": "March 2, 2015",
+                "criticPost": "Ultimately, Secrets and Lies is satisfactory. That doesn't mean it's good, or that it can sustain its story for 10 episodes, or most importantly, that it's necessary.",
+                "postUrl": "http://www.tv.com/shows/secrets-and-lies/community/post/secrets-and-lies-review-abc-season-1-episode-1-the-trail-episode-2-the-father-142523098781/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/jessica-rawden/",
+                "criticName": "Jessica Rawden",
+                "criticOrganization": "CinemaBlend",
+                "criticReviewDate": "March 1, 2015",
+                "criticPost": "Those who enjoy mysteries and melodramas will find a lot to like about Secrets & Lies, a show that's as interested in the reaction to the crime as it is to the whodunit.",
+                "postUrl": "http://www.cinemablend.com/television/Secrets-Lies-ABC-Fun-Drama-More-About-Melodrama-Than-Murder-70355.html",
+                "criticScore": "3/5",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/secrets-of-the-dead/s02/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/john-leonard/",
+                "criticName": "John Leonard",
+                "criticOrganization": "New York Magazine/Vulture",
+                "criticReviewDate": "February 5, 2018",
+                "criticPost": "... those of you in need of a regular fix of forensic pathology could do a lot worse than tune in on Tuesday nights to Secrets of the Dead...",
+                "postUrl": "http://nymag.com/nymetro/arts/tv/reviews/4923/",
+                "criticScore": "",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/wayward_pines/s02/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/david-griffin/",
+                "criticName": "David Griffin",
+                "criticOrganization": "ScreenRant",
+                "criticReviewDate": "May 26, 2016",
+                "criticPost": "Wayward Pines may not be the most unique show on television, but it can be a fun way to spend an hour when the series isn't taking itself too seriously.",
+                "postUrl": "http://screenrant.com/wayward-pines-season-2-premiere-review-spoilers/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/max-nicholson/",
+                "criticName": "Max Nicholson",
+                "criticOrganization": "IGN Movies",
+                "criticReviewDate": "May 26, 2016",
+                "criticPost": "While the new main character Theo isn't that interesting, the trajectory of the characters we know and where the story is headed certainly are.",
+                "postUrl": "http://www.ign.com/articles/2016/05/26/wayward-pines-enemy-lines-review",
+                "criticScore": "8/10",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/alex-mclevy-16692/",
+                "criticName": "Alex McLevy",
+                "criticOrganization": "AV Club",
+                "criticReviewDate": "May 26, 2016",
+                "criticPost": "The series launches right into its new direction with confidence, but it's an awfully somber tone being set.",
+                "postUrl": "http://www.avclub.com/tvclub/welcome-back-wayward-pines-where-everything-terrib-237284",
+                "criticScore": "B",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/lily-sparks/",
+                "criticName": "Lily Sparks",
+                "criticOrganization": "TV.com",
+                "criticReviewDate": "May 26, 2016",
+                "criticPost": "The world left behind is still uniquely appealing and ambitiously high concept: a small town held captive by sinister, self-righteous, fascist teens called the First Generation and encircled by a goblin-infested hellscape? Yes, sign me up please.",
+                "postUrl": "http://www.tv.com/shows/wayward-pines/community/post/wayward-pines-season-2-premiere-review-stay-woke-146422275539/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/roger-catlin/",
+                "criticName": "Roger Catlin",
+                "criticOrganization": "rogercatlin.com",
+                "criticReviewDate": "May 25, 2016",
+                "criticPost": "Instead of a weird mystery tension... it's quite dull and repetitive.",
+                "postUrl": "http://rogercatlin.com/2016/05/25/wednesday-tv-those-pines-ever-wayward/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/jon-espino/",
+                "criticName": "Jon Espino",
+                "criticOrganization": "The Young Folks",
+                "criticReviewDate": "May 25, 2016",
+                "criticPost": "This may as well be a CW show like The 100 because the show is now only about trying to survive in a post-apocalyptic world where there are things and people always trying to kill you.",
+                "postUrl": "http://theyoungfolks.com/review/wayward-pines-season-2-enemy-lines/79263",
+                "criticScore": "3/10",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/robert-rorke/",
+                "criticName": "Robert Rorke",
+                "criticOrganization": "New York Post",
+                "criticReviewDate": "May 25, 2016",
+                "criticPost": "A second-season seemed like a good idea. But, like Showtime's The Affair, Wayward - based on the novels by Blake Crouch - was meant to be one-season show.",
+                "postUrl": "http://nypost.com/2016/05/23/the-return-of-wayward-pines-is-not-a-good-thing/",
+                "criticScore": "1/5",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/ben-travers/",
+                "criticName": "Ben Travers",
+                "criticOrganization": "indieWire",
+                "criticReviewDate": "May 25, 2016",
+                "criticPost": "Season 1 was, at best, a guilty pleasure with a weak ending. Now, you almost feel bad for the series in its second season, limping along, trying to rebuild from what little was left.",
+                "postUrl": "http://www.indiewire.com/article/wayward-pines-review-season-2-m-night-shyamalan-20160524",
+                "criticScore": "C",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/brian-tallerico/",
+                "criticName": "Brian Tallerico",
+                "criticOrganization": "RogerEbert.com",
+                "criticReviewDate": "May 24, 2016",
+                "criticPost": "I was willing to give Wayward Pines a chance to justify a second season. It simply doesn't do so.",
+                "postUrl": "http://www.rogerebert.com/demanders/fox-drags-viewers-kicking-and-screaming-back-to-wayward-pines",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/dan-fienberg/",
+                "criticName": "Dan Fienberg",
+                "criticOrganization": "Hollywood Reporter",
+                "criticReviewDate": "May 24, 2016",
+                "criticPost": "There are definitely more abbies in the second season, but if what you liked about the first was the insidious unknown, that's gone with little to replace it.",
+                "postUrl": "http://www.hollywoodreporter.com/review/wayward-pines-season-2-tv-896850",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/dennis-perkins/",
+                "criticName": "Dennis Perkins",
+                "criticOrganization": "AV Club",
+                "criticReviewDate": "May 23, 2016",
+                "criticPost": "Continuing the first season's willingness to sacrifice big names for the sake of keeping viewers off balance, season two introduces and dismisses characters with ruthless glee. Surprising exits and reappearances abound.",
+                "postUrl": "http://www.avclub.com/review/its-second-season-wayward-pines-looks-beyond-big-s-236866",
+                "criticScore": "B+",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/rob-owen/",
+                "criticName": "Rob Owen",
+                "criticOrganization": "Pittsburgh Post-Gazette",
+                "criticReviewDate": "May 23, 2016",
+                "criticPost": "The exposition-heavy season premiere violates the first rule of good writing - show, don't tell - but even with all of the chatter about the past, some viewers will still find this new iteration of Wayward Pines pretty confusing.",
+                "postUrl": "http://communityvoices.post-gazette.com/arts-entertainment-living/tuned-in/item/40114-revisit-wayward-pines-it-s-not-worth-the-trip",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/mitchel-broussard/",
+                "criticName": "Mitchel Broussard",
+                "criticOrganization": "We Got This Covered",
+                "criticReviewDate": "May 17, 2016",
+                "criticPost": "Dramatically limp and uncharacteristically dull, Wayward Pines' unexpected return is what fans feared: an unnecessary redux whose own pointlessness is drilled home by one repetitive story turn after another.",
+                "postUrl": "http://wegotthiscovered.com/tv/wayward-pines-season-2-review/",
+                "criticScore": "4/10",
+                "criticFresh": false
+            }
+        ]
+    },
+    {
+        "url": "/tv/wayward_pines/s01/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/megan-basham/",
+                "criticName": "Megan Basham",
+                "criticOrganization": "WORLD",
+                "criticReviewDate": "March 15, 2018",
+                "criticPost": "Based on the early episodes of Wayward Pines, the TV trend may once again have audiences mentioning Shyamalan's name among that pack.",
+                "postUrl": "https://world.wng.org/2015/05/wayward_shines",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/steve-wright/",
+                "criticName": "Steve Wright",
+                "criticOrganization": "SciFiNow",
+                "criticReviewDate": "August 17, 2015",
+                "criticPost": "Shyamalan has built his career on pulling the proverbial chair from underneath his viewers, but this is the closest something with his name on it has come to matching the... epiphany of The Sixth Sense.",
+                "postUrl": "http://www.scifinow.co.uk/reviews/wayward-pines-blu-ray-review-shyamalan-gets-spooky/",
+                "criticScore": "3/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/julie-miller/",
+                "criticName": "Julie Miller",
+                "criticOrganization": "Vanity Fair",
+                "criticReviewDate": "July 6, 2015",
+                "criticPost": "If you're looking for a network series more substantial than the usual summer fling, consider Wayward Pines, M. Night Shyamalan's episodic mystery thriller.",
+                "postUrl": "http://www.vanityfair.com/hollywood/2015/07/best-summer-tv-shows",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/euan-ferguson/",
+                "criticName": "Euan Ferguson",
+                "criticOrganization": "Observer (UK)",
+                "criticReviewDate": "May 29, 2015",
+                "criticPost": "It is a cult looking for a following, and it's already got me on board as a beady-eyed acolyte.",
+                "postUrl": "http://www.theguardian.com/tv-and-radio/2015/may/17/week-tv-the-affair-wayard-pines-episodes-benefits-street-euan-ferguson",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/david-wiegand/",
+                "criticName": "David Wiegand",
+                "criticOrganization": "San Francisco Chronicle",
+                "criticReviewDate": "May 22, 2015",
+                "criticPost": "The elements are here to make Wayward Pines worth a visit as other broadcast shows end their seasons and head off to hiatus for the summer.",
+                "postUrl": "http://www.sfgate.com/tv/article/TV-Pines-finds-its-creepy-way-after-a-while-6251958.php",
+                "criticScore": "2.5/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/kari-croop/",
+                "criticName": "Kari Croop",
+                "criticOrganization": "Common Sense Media",
+                "criticReviewDate": "May 19, 2015",
+                "criticPost": "Moody mystery has bloody moments and a sinister undertone.",
+                "postUrl": "https://www.commonsensemedia.org/tv-reviews/wayward-pines",
+                "criticScore": "3/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/robert-bianco/",
+                "criticName": "Robert Bianco",
+                "criticOrganization": "USA Today",
+                "criticReviewDate": "May 19, 2015",
+                "criticPost": "The tone is ominous throughout in a show that provides its share of good jolts.",
+                "postUrl": "http://www.usatoday.com/story/life/tv/2015/05/13/wayward-pines-review/27173679/",
+                "criticScore": "2.5/4",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/alex-mclevy-16692/",
+                "criticName": "Alex McLevy",
+                "criticOrganization": "AV Club",
+                "criticReviewDate": "May 18, 2015",
+                "criticPost": "Welcome to Wayward Pines, where nothing is certain, no one can be trusted, and imitation is not only the highest form of flattery, it's a way of life.",
+                "postUrl": "http://www.avclub.com/tvclub/wayward-pines-where-paradise-home-219413",
+                "criticScore": "B+",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/lily-sparks/",
+                "criticName": "Lily Sparks",
+                "criticOrganization": "TV.com",
+                "criticReviewDate": "May 18, 2015",
+                "criticPost": "[It] deserves to be taken on its own terms for what it is: a super engaging, extremely fun puzzle.",
+                "postUrl": "http://www.tv.com/shows/wayward-pines/community/post/wayward-pines-season-1-episode-1-where-paradise-is-home-review-143154410708/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/brian-moylan/",
+                "criticName": "Brian Moylan",
+                "criticOrganization": "Guardian",
+                "criticReviewDate": "May 18, 2015",
+                "criticPost": "Wayward Pines is a thrill to watch, totally original with puzzles and clues that suck you in and reveals that illuminate a bit of the truth but only make the rest of the mystery more murky. It's like Lost on Adderall.",
+                "postUrl": "http://www.theguardian.com/culture/tvandradioblog/2015/may/14/wayward-pines-review-m-night-shyamalan-matt-dillon",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/cody-ray-shafer/",
+                "criticName": "Cody Ray Shafer",
+                "criticOrganization": "Under the Radar",
+                "criticReviewDate": "May 17, 2015",
+                "criticPost": "Matt Dillon is perfectly cast in the lead, and though some themes and visual cues are a little hokey at first, Wayward Pines soon enough turns into thrilling network television.",
+                "postUrl": "http://www.undertheradarmag.com/reviews/wayward_pines/",
+                "criticScore": "7/10",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/matt-roush/",
+                "criticName": "Matt Roush",
+                "criticOrganization": "TV Insider",
+                "criticReviewDate": "May 17, 2015",
+                "criticPost": "Like an especially blatant copycat poseur who yearns desperately to be seen as one of the cool kids, Wayward Pines borrows from the best, which only makes this 10-episode \"event\" series look worse as it goes.",
+                "postUrl": "http://www.tvinsider.com/article/1730/lost-in-wayward-pines/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/stacy-glanzman/",
+                "criticName": "Stacy Glanzman",
+                "criticOrganization": "TV Fanatic",
+                "criticReviewDate": "May 17, 2015",
+                "criticPost": "I love the cast. It's hard not to when it is full of Oscar nominees and winners. Melissa Leo's Nurse Pam is seriously scary. Listening to her describe how Ethan was going to be awake, but immobile, during surgery sent a shudder through me.",
+                "postUrl": "http://www.tvfanatic.com/2015/05/wayward-pines-season-1-episode-1-review-where-paradise-is-home/",
+                "criticScore": "4/5",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/vicki-hyman/",
+                "criticName": "Vicki Hyman",
+                "criticOrganization": "Newark Star-Ledger",
+                "criticReviewDate": "May 17, 2015",
+                "criticPost": "Let's just say there's a bait-and-switch here -- but viewers who stick it out will be getting the better part of the deal.",
+                "postUrl": "http://www.nj.com/entertainment/tv/index.ssf/2015/05/wayward_pines_review.html#incart_2box_entertainment_tv_index.ssf",
+                "criticScore": "B=",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/matt-zoller-seitz/",
+                "criticName": "Matt Zoller Seitz",
+                "criticOrganization": "New York Magazine/Vulture",
+                "criticReviewDate": "May 17, 2015",
+                "criticPost": "It takes a while - two episodes, at least - for the viewer to really tune into its odd wavelength.",
+                "postUrl": "http://www.vulture.com/2015/05/wayward-pines-has-a-vintage-shyamalan-feel.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/tom-conroy/",
+                "criticName": "Tom Conroy",
+                "criticOrganization": "Media Life",
+                "criticReviewDate": "May 15, 2015",
+                "criticPost": "The five episodes provided for review... are puzzling without really being involving.",
+                "postUrl": "http://www.medialifemagazine.com/wayward-pines-its-not-just-the-trees/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/mary-mcnamara/",
+                "criticName": "Mary McNamara",
+                "criticOrganization": "Los Angeles Times",
+                "criticReviewDate": "May 15, 2015",
+                "criticPost": "Mostly it's good, creepy fun, a round-the-fire story of a series that may turn out to be about something bigger than it seems.",
+                "postUrl": "http://www.latimes.com/entertainment/tv/la-et-st-wayward-pines-review-20150514-column.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/ellen-e-jones/",
+                "criticName": "Ellen E Jones",
+                "criticOrganization": "Independent (UK)",
+                "criticReviewDate": "May 15, 2015",
+                "criticPost": "It's nice to see Eighties heart-throb Dillon back in a starring role, and his permanently confused facial expression is ideally suited to this series.",
+                "postUrl": "http://www.independent.co.uk/arts-entertainment/tv/reviews/wayward-pines-tv-review-matt-dillon-comes-down-with-a-case-of-twin-peaks-derivativeitis-10251430.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/john-doyle/",
+                "criticName": "John Doyle",
+                "criticOrganization": "Globe and Mail",
+                "criticReviewDate": "May 15, 2015",
+                "criticPost": "Keep your eyes peeled and don't doze off. It's got an all-star cast, a big-name director and it's a mess. A very interesting mess, mind you. You need patience, a sense of humour and a keen eye for the ridiculous.",
+                "postUrl": "http://www.theglobeandmail.com/arts/television/john-doyle-wayward-pines-a-directors-frustrating-excursion-into-tv/article24422189/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/gail-pennington/",
+                "criticName": "Gail Pennington",
+                "criticOrganization": "St. Louis Post-Dispatch",
+                "criticReviewDate": "May 15, 2015",
+                "criticPost": "TV trends converge in Wayward Pines, a familiar-feeling yet addictive thriller arriving Thursday on Fox.",
+                "postUrl": "http://www.stltoday.com/entertainment/television/gail-pennington/peaks-of-weirdness-in-fox-s-wayward-pines/article_dac00a9a-0882-52a6-9e95-87dca9b49b98.html",
+                "criticScore": "3/4",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/pioneers_of_television/s04/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/brian-lowry/",
+                "criticName": "Brian Lowry",
+                "criticOrganization": "Variety",
+                "criticReviewDate": "January 10, 2018",
+                "criticPost": "Any display of respect for the medium's elders worthy of its spurs would by rights include more depth than this.",
+                "postUrl": "http://variety.com/2014/tv/reviews/tv-review-pioneers-of-television-1201154009/",
+                "criticScore": "",
+                "criticFresh": false
+            }
+        ]
+    },
+    {
+        "url": "/tv/life_in_pieces/s02/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/rob-owen/",
+                "criticName": "Rob Owen",
+                "criticOrganization": "Pittsburgh Post-Gazette",
+                "criticReviewDate": "October 13, 2016",
+                "criticPost": "Compared to this year's awful new CBS comedies, Life in Pieces is a gem as its second-season premiere proves.",
+                "postUrl": "http://communityvoices.post-gazette.com/arts-entertainment-living/tuned-in/item/40483-life-in-pieces-lives-on-cbs",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/michael-starr/",
+                "criticName": "Michael Starr",
+                "criticOrganization": "New York Post",
+                "criticReviewDate": "October 11, 2016",
+                "criticPost": "Perky, well-written, charming alternative to ABC's long-in-the-tooth Modern Family. Life is back for its second season and doesn't miss a beat, with its likable ensemble cast in fine form.",
+                "postUrl": "http://nypost.com/2016/10/11/lame-new-cbs-sitcom-fails-next-to-networks-stronger-shows/",
+                "criticScore": "",
+                "criticFresh": true
+            }
+        ]
+    },
+    {
+        "url": "/tv/life_in_pieces/s01/reviews/",
+        "criticReviews": [
+            {
+                "criticUrl": "/critic/pilot-viruet/",
+                "criticName": "Pilot Viruet",
+                "criticOrganization": "Flavorwire",
+                "criticReviewDate": "June 8, 2016",
+                "criticPost": "It is so reminiscent of Modern Family that it already feels stale.",
+                "postUrl": "http://flavorwire.com/537773/life-in-pieces-is-a-hyperactive-clone-of-modern-family",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/ken-tucker/",
+                "criticName": "Ken Tucker",
+                "criticOrganization": "Yahoo! TV",
+                "criticReviewDate": "September 29, 2015",
+                "criticPost": "This is one of the few broadcast-network sitcoms this season I can imagine checking in on regularly.",
+                "postUrl": "https://www.yahoo.com/tv/life-in-pieces-review-a-tight-sitcom-about-a-140601216.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/vinnie-mancuso/",
+                "criticName": "Vinnie Mancuso",
+                "criticOrganization": "New York Observer",
+                "criticReviewDate": "September 22, 2015",
+                "criticPost": "The thing is, despite the structure, Life in Pieces doesn't cover any ground that, say, Modern Family already covered better.",
+                "postUrl": "http://observer.com/2015/09/a-guide-to-navigating-fall-tv-part-one-cbs-fox-and-abc/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/kristi-turnquist/",
+                "criticName": "Kristi Turnquist",
+                "criticOrganization": "Oregonian",
+                "criticReviewDate": "September 22, 2015",
+                "criticPost": "Unfortunately, the pilot is pleasant, bland, and doesn't give that great cast material equal to their talents.",
+                "postUrl": "http://www.oregonlive.com/tv/2015/09/tv_tonight_oregons_alek_skarla.html#incart_river",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/dennis-perkins/",
+                "criticName": "Dennis Perkins",
+                "criticOrganization": "AV Club",
+                "criticReviewDate": "September 22, 2015",
+                "criticPost": "While hardly as ambitious an undertaking, there's a hint of Louie in there, where the main story is added to in isolated, well-realized touches rather than conforming to one standard narrative.",
+                "postUrl": "http://www.avclub.com/tvclub/energetic-life-pieces-pilot-scatters-lot-promising-225651",
+                "criticScore": "B",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/kaitlin-thomas/",
+                "criticName": "Kaitlin Thomas",
+                "criticOrganization": "TV.com",
+                "criticReviewDate": "September 22, 2015",
+                "criticPost": "The shifts in tone aside, Life in Pieces was a pretty solid comedy built around a deep roster of talent that wasn't afraid to go for the joke, but still managed to come off more mature than most of the network's other comedy options.",
+                "postUrl": "http://www.tv.com/news/life-in-pieces-series-premiere-season-1-episode-1-pilot-review-144226670617/",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/rick-bentley/",
+                "criticName": "Rick Bentley",
+                "criticOrganization": "Fresno Bee",
+                "criticReviewDate": "September 21, 2015",
+                "criticPost": "Family comedy that never comes together.",
+                "postUrl": "http://www.fresnobee.com/entertainment/article35172189.html",
+                "criticScore": "0.5/4",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/brooke-cain/",
+                "criticName": "Brooke Cain",
+                "criticOrganization": "News & Observer (Raleigh, NC)",
+                "criticReviewDate": "September 21, 2015",
+                "criticPost": "This is one of my favorites so far.",
+                "postUrl": "http://www.newsobserver.com/entertainment/tv/warm-tv-blog/article35714634.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/roger-catlin/",
+                "criticName": "Roger Catlin",
+                "criticOrganization": "rogercatlin.com",
+                "criticReviewDate": "September 21, 2015",
+                "criticPost": "There are some welcome faces in the family... and some amusing moments. But they can't get the tone right, moving for the vulgar almost reflexively.",
+                "postUrl": "http://rogercatlin.com/2015/09/21/the-new-fall-tv-season-mondays-2/#more-16370",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/vicki-hyman/",
+                "criticName": "Vicki Hyman",
+                "criticOrganization": "Newark Star-Ledger",
+                "criticReviewDate": "September 21, 2015",
+                "criticPost": "Life in Pieces, a wacky single-camera intergenerational family comedy, is the staid network's attempt to mimic critical darling and ratings bonanza Modern Family, with edgy (for CBS, mind you) laughs and a squishy heartwarming beat at the end.",
+                "postUrl": "http://www.nj.com/entertainment/tv/index.ssf/2015/09/minority_report_blindspot_life_in_pieces_review_ne.html#incart_2box_entertainment_tv_index.ssf",
+                "criticScore": "B",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/ellen-gray/",
+                "criticName": "Ellen Gray",
+                "criticOrganization": "Philadelphia Daily News",
+                "criticReviewDate": "September 21, 2015",
+                "criticPost": "It's a finish more sitcommy than the show seems to call for, but one not weak enough to upset the balance of funny and heartfelt that made me want to see a bit more, even if it was just for the pleasure of this company.",
+                "postUrl": "http://www.philly.com/philly/entertainment/television/20150921_New_tonight___Blindspot____Minority_Report____Life_in_Pieces_.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/bill-brioux/",
+                "criticName": "Bill Brioux",
+                "criticOrganization": "Brioux.tv",
+                "criticReviewDate": "September 21, 2015",
+                "criticPost": "Surprisingly unrelatable as a family sitcom.",
+                "postUrl": "http://brioux.tv/2015/09/fall-preview-2015-step-into-the-way-back-machine/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/robert-lloyd/",
+                "criticName": "Robert Lloyd",
+                "criticOrganization": "Los Angeles Times",
+                "criticReviewDate": "September 21, 2015",
+                "criticPost": "Even at its most outrageous, Life in Pieces feels padded with foam.",
+                "postUrl": "http://www.latimes.com/entertainment/tv/la-et-st-life-pieces-review-20150918-column.html",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/mark-peikert/",
+                "criticName": "Mark Peikert",
+                "criticOrganization": "TheWrap",
+                "criticReviewDate": "September 21, 2015",
+                "criticPost": "The obvious irony of the series is that Life in Pieces purports to be about the small, seemingly innocuous moments that linger longest in one's memory, while offering audiences absolutely none of those moments itself.",
+                "postUrl": "https://www.thewrap.com/life-in-pieces-review-modern-family-imitator-is-less-than-the-sum-of-its-parts/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/robert-bianco/",
+                "criticName": "Robert Bianco",
+                "criticOrganization": "USA Today",
+                "criticReviewDate": "September 21, 2015",
+                "criticPost": "Nor is [Life in Pieces] different enough to shake that nagging feeling that you're simply watching CBS's attempt to clone ABC's hit.",
+                "postUrl": "http://www.usatoday.com/story/life/tv/columnist/2015/09/20/life-in-pieces-review/32549345/",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/dan-fienberg/",
+                "criticName": "Dan Fienberg",
+                "criticOrganization": "Hollywood Reporter",
+                "criticReviewDate": "September 21, 2015",
+                "criticPost": "Life in Pieces just needs to hone the show around its ensemble until it becomes worthy of its stars.",
+                "postUrl": "http://www.hollywoodreporter.com/review/life-pieces-tv-review-824809",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/scott-d-pierce/",
+                "criticName": "Scott D. Pierce",
+                "criticOrganization": "Salt Lake Tribune",
+                "criticReviewDate": "September 21, 2015",
+                "criticPost": "I'm still rather iffy on Life In Pieces, but I'm willing to give it a chance and see where the next few episodes take us.",
+                "postUrl": "http://www.sltrib.com/blogs/tv/2975251-155/tv-review-life-in-pieces-wants",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/hal-boedeker/",
+                "criticName": "Hal Boedeker",
+                "criticOrganization": "Orlando Sentinel",
+                "criticReviewDate": "September 21, 2015",
+                "criticPost": "CBS' \"Life in Pieces\" puts a strong cast through an obvious variation on \"Modern Family.\" Yet the cast is a draw, and James Brolin stands out as the loopy patriarch.",
+                "postUrl": "http://www.orlandosentinel.com/entertainment/tv/tv-guy/os-muppets-scream-queens-blindspot-heroes-reborn-20150919-post.html",
+                "criticScore": "",
+                "criticFresh": true
+            },
+            {
+                "criticUrl": "/critic/neil-genzlinger/",
+                "criticName": "Neil Genzlinger",
+                "criticOrganization": "New York Times",
+                "criticReviewDate": "September 21, 2015",
+                "criticPost": "The shortcoming, at least from the evidence of the premiere, is likely to be in the story selection.",
+                "postUrl": "http://www.nytimes.com/2015/09/21/arts/television/review-life-in-pieces-a-cbs-comedy-told-in-vignettes.html?ref=television",
+                "criticScore": "",
+                "criticFresh": false
+            },
+            {
+                "criticUrl": "/critic/erik-adams/",
+                "criticName": "Erik Adams",
+                "criticOrganization": "AV Club",
+                "criticReviewDate": "September 21, 2015",
+                "criticPost": "The show has novelty on its side, but it also has a talented ensemble that's under (by a guesstimate) half of the time crunch of the average sitcom cast.",
+                "postUrl": "http://www.avclub.com/tvclub/life-pieces-tries-jump-start-family-sitcom-four-sh-225521",
+                "criticScore": "B+",
+                "criticFresh": true
+            }
+        ]
+    }
+]

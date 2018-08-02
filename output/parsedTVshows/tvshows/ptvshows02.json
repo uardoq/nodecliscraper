@@ -1,0 +1,670 @@
+[
+    {
+        "url": "/tv/the_mysteries_of_laura",
+        "title": "The Mysteries of Laura",
+        "description": "A New York City detective juggles her busy job with her hectic home life as the mom of twin boys. Based on the Spanish series \"Los misterios de Laura.\"",
+        "genres": "Drama",
+        "network": "NBC",
+        "premiere": "Sep 17, 2014",
+        "execProducers": [],
+        "seasons": [
+            "/tv/the_mysteries_of_laura/s02",
+            "/tv/the_mysteries_of_laura/s01"
+        ],
+        "cast": [
+            {
+                "celebrityURL": "/celebrity/debra_messing",
+                "celebrityName": "Debra Messing",
+                "character": "Laura Diamond"
+            },
+            {
+                "celebrityURL": "/celebrity/josh_lucas",
+                "celebrityName": "Josh Lucas",
+                "character": "Jake Broderick"
+            },
+            {
+                "celebrityURL": "/celebrity/laz_alonso",
+                "celebrityName": "Laz Alonso",
+                "character": "Billy Soto"
+            },
+            {
+                "celebrityURL": "/celebrity/janina_gavankar",
+                "celebrityName": "Janina Gavankar",
+                "character": "Meredith Bose"
+            },
+            {
+                "celebrityURL": "/celebrity/max_jenkins",
+                "celebrityName": "Max Jenkins",
+                "character": "Max Carnegie"
+            },
+            {
+                "celebrityURL": "/celebrity/meg_steedle",
+                "celebrityName": "Meg Steedle",
+                "character": "Frankie Pulaski"
+            },
+            {
+                "celebrityURL": "/celebrity/callie_thorne",
+                "celebrityName": "Callie Thorne",
+                "character": "Capt. Nancy Santiani"
+            },
+            {
+                "celebrityURL": "/celebrity/charles_reina",
+                "celebrityName": "Charles Reina",
+                "character": "Nicholas Broderick"
+            },
+            {
+                "celebrityURL": "/celebrity/vincent_reina",
+                "celebrityName": "Vincent Reina",
+                "character": "Harrison Broderick"
+            },
+            {
+                "celebrityURL": "/celebrity/neal-bledsoe",
+                "celebrityName": "Neal Bledsoe",
+                "character": "Laura's Father, Leo Diamond"
+            },
+            {
+                "celebrityURL": "/celebrity/robert_klein",
+                "celebrityName": "Robert Klein",
+                "character": "Leo Diamond"
+            },
+            {
+                "celebrityURL": "/celebrity/enrico_colantoni",
+                "celebrityName": "Enrico Colantoni",
+                "character": "Jennifer Lambert"
+            },
+            {
+                "celebrityURL": "/celebrity/robert_klein_2",
+                "celebrityName": "Robert Klein",
+                "character": "Jon Dunham"
+            },
+            {
+                "celebrityURL": "/celebrity/jenna_fischer",
+                "celebrityName": "Jenna Fischer",
+                "character": "Sammi"
+            },
+            {
+                "celebrityURL": "/celebrity/jerry_oconnell",
+                "celebrityName": "Jerry O'Connell",
+                "character": "Brenda Phillips"
+            },
+            {
+                "celebrityURL": "/celebrity/kahyun_kim",
+                "celebrityName": "Kahyun Kim",
+                "character": "Charlie Carazzo"
+            },
+            {
+                "celebrityURL": "/celebrity/debby_ryan",
+                "celebrityName": "Debby Ryan",
+                "character": "Himself"
+            },
+            {
+                "celebrityURL": "/celebrity/stockard_channing",
+                "celebrityName": "Stockard Channing",
+                "character": "Dr. Carlin"
+            },
+            {
+                "celebrityURL": "/celebrity/bronson_picket",
+                "celebrityName": "Bronson Picket",
+                "character": "Angela"
+            },
+            {
+                "celebrityURL": "/celebrity/ricky-paull-goldin",
+                "celebrityName": "Ricky Paull Goldin",
+                "character": "KC Moss"
+            },
+            {
+                "celebrityURL": "/celebrity/gilles_marini",
+                "celebrityName": "Gilles Marini",
+                "character": "Himself"
+            },
+            {
+                "celebrityURL": "/celebrity/louis_ozawa_changchien",
+                "celebrityName": "Louis Ozawa Changchien",
+                "character": "Nancy"
+            },
+            {
+                "celebrityURL": "/celebrity/patrick_breen",
+                "celebrityName": "Patrick Breen",
+                "character": "Georges Tilieu"
+            },
+            {
+                "celebrityURL": "/celebrity/polly_draper",
+                "celebrityName": "Polly Draper",
+                "character": "Himself"
+            },
+            {
+                "celebrityURL": "/celebrity/courtney_henggeler",
+                "celebrityName": "Courtney Henggeler"
+            },
+            {
+                "celebrityURL": "/celebrity/wallace_shawn",
+                "celebrityName": "Wallace Shawn"
+            },
+            {
+                "celebrityURL": "/celebrity/kerry_butler",
+                "celebrityName": "Kerry Butler"
+            },
+            {
+                "celebrityURL": "/celebrity/kelly_rutherford",
+                "celebrityName": "Kelly Rutherford"
+            },
+            {
+                "celebrityURL": "/celebrity/brenda_strong",
+                "celebrityName": "Brenda Strong"
+            },
+            {
+                "celebrityURL": "/celebrity/peter_jacobson",
+                "celebrityName": "Peter Jacobson"
+            },
+            {
+                "celebrityURL": "/celebrity/ned_eisenberg",
+                "celebrityName": "Ned Eisenberg"
+            },
+            {
+                "celebrityURL": "/celebrity/kira_sternbach",
+                "celebrityName": "Kira Sternbach"
+            },
+            {
+                "celebrityURL": "/celebrity/bronson_pinchot",
+                "celebrityName": "Bronson Pinchot"
+            },
+            {
+                "celebrityURL": "/celebrity/anna_baryshnikov",
+                "celebrityName": "Anna Baryshnikov"
+            },
+            {
+                "celebrityURL": "/celebrity/gabriel_mann",
+                "celebrityName": "Gabriel Mann"
+            },
+            {
+                "celebrityURL": "/celebrity/dan_butler",
+                "celebrityName": "Dan Butler"
+            },
+            {
+                "celebrityURL": "/celebrity/kenny_smith",
+                "celebrityName": "Kenny Smith"
+            },
+            {
+                "celebrityURL": "/celebrity/cara_buono",
+                "celebrityName": "Cara Buono"
+            },
+            {
+                "celebrityURL": "/celebrity/krysta_rodriguez",
+                "celebrityName": "Krysta Rodriguez"
+            },
+            {
+                "celebrityURL": "/celebrity/sherri_saum",
+                "celebrityName": "Sherri Saum"
+            },
+            {
+                "celebrityURL": "/celebrity/miriam_shor",
+                "celebrityName": "Miriam Shor"
+            },
+            {
+                "celebrityURL": "/celebrity/desmin_borges",
+                "celebrityName": "Desmin Borges"
+            },
+            {
+                "celebrityURL": "/celebrity/nicole_ansari",
+                "celebrityName": "Nicole Ansari"
+            },
+            {
+                "celebrityURL": "/celebrity/brenda_pressley",
+                "celebrityName": "Brenda Pressley"
+            },
+            {
+                "celebrityURL": "/celebrity/kathie_lee_gifford",
+                "celebrityName": "Kathie Lee Gifford"
+            },
+            {
+                "celebrityURL": "/celebrity/jeffrey_pierce",
+                "celebrityName": "Jeffrey Pierce"
+            },
+            {
+                "celebrityURL": "/celebrity/eric_sheffer_stevens",
+                "celebrityName": "Eric Sheffer Stevens"
+            },
+            {
+                "celebrityURL": "/celebrity/brynn_omalley",
+                "celebrityName": "Brynn O'Malley"
+            },
+            {
+                "celebrityURL": "/celebrity/adam_shapiro",
+                "celebrityName": "Adam Shapiro"
+            },
+            {
+                "celebrityURL": "/celebrity/colin_donnell",
+                "celebrityName": "Colin Donnell"
+            },
+            {
+                "celebrityURL": "/celebrity/anastasia_griffith",
+                "celebrityName": "Anastasia Griffith"
+            },
+            {
+                "celebrityURL": "/celebrity/eric_mccormack",
+                "celebrityName": "Eric McCormack"
+            },
+            {
+                "celebrityURL": "/celebrity/melissa_joan_hart",
+                "celebrityName": "Melissa Joan Hart"
+            },
+            {
+                "celebrityURL": "/celebrity/regina_taylor",
+                "celebrityName": "Regina Taylor"
+            },
+            {
+                "celebrityURL": "/celebrity/james_martinez",
+                "celebrityName": "James Martinez"
+            },
+            {
+                "celebrityURL": "/celebrity/tate_donovan",
+                "celebrityName": "Tate Donovan"
+            },
+            {
+                "celebrityURL": "/celebrity/scott_decker",
+                "celebrityName": "Scott Decker"
+            },
+            {
+                "celebrityURL": "/celebrity/matt_walton",
+                "celebrityName": "Matt Walton"
+            },
+            {
+                "celebrityURL": "/celebrity/rona_figueroa",
+                "celebrityName": "Rona Figueroa"
+            },
+            {
+                "celebrityURL": "/celebrity/dana_eskelson",
+                "celebrityName": "Dana Eskelson"
+            },
+            {
+                "celebrityURL": "/celebrity/aimee_mullins",
+                "celebrityName": "Aimee Mullins"
+            },
+            {
+                "celebrityURL": "/celebrity/franky-g",
+                "celebrityName": "Franky G"
+            },
+            {
+                "celebrityURL": "/celebrity/sean_cullen",
+                "celebrityName": "Sean Cullen (II)"
+            },
+            {
+                "celebrityURL": "/celebrity/jenny_powers",
+                "celebrityName": "Jenny Powers"
+            },
+            {
+                "celebrityURL": "/celebrity/bhavesh_patel",
+                "celebrityName": "Bhavesh Patel"
+            },
+            {
+                "celebrityURL": "/celebrity/sondra_james",
+                "celebrityName": "Sondra James"
+            },
+            {
+                "celebrityURL": "/celebrity/geneva_carr",
+                "celebrityName": "Geneva Carr"
+            },
+            {
+                "celebrityURL": "/celebrity/pej_vahdat",
+                "celebrityName": "Pej Vahdat"
+            },
+            {
+                "celebrityURL": "/celebrity/florencia_lozano",
+                "celebrityName": "Florencia Lozano"
+            },
+            {
+                "celebrityURL": "/celebrity/tina_benko",
+                "celebrityName": "Tina Benko"
+            },
+            {
+                "celebrityURL": "/celebrity/rey_lucas",
+                "celebrityName": "Rey Lucas"
+            },
+            {
+                "celebrityURL": "/celebrity/meta_golding",
+                "celebrityName": "Meta Golding"
+            },
+            {
+                "celebrityURL": "/celebrity/janel-parrish",
+                "celebrityName": "Janel Parrish"
+            },
+            {
+                "celebrityURL": "/celebrity/andrew_rothenberg",
+                "celebrityName": "Andrew Rothenberg"
+            },
+            {
+                "celebrityURL": "/celebrity/juan_carlos_hernandez",
+                "celebrityName": "Juan Carlos Hernández"
+            },
+            {
+                "celebrityURL": "/celebrity/steve_guttenberg",
+                "celebrityName": "Steve Guttenberg"
+            },
+            {
+                "celebrityURL": "/celebrity/isaac_caldiero",
+                "celebrityName": "Isaac Caldiero"
+            },
+            {
+                "celebrityURL": "/celebrity/elliot_villar",
+                "celebrityName": "Elliot Villar"
+            },
+            {
+                "celebrityURL": "/celebrity/peter-francis-james",
+                "celebrityName": "Peter Francis James"
+            },
+            {
+                "celebrityURL": "/celebrity/michelle-hurd",
+                "celebrityName": "Michelle Hurd"
+            },
+            {
+                "celebrityURL": "/celebrity/joy_osmanski",
+                "celebrityName": "Joy Osmanski"
+            },
+            {
+                "celebrityURL": "/celebrity/amy-hargreaves",
+                "celebrityName": "Amy Hargreaves"
+            },
+            {
+                "celebrityURL": "/celebrity/linda_powell",
+                "celebrityName": "Linda Powell"
+            },
+            {
+                "celebrityURL": "/celebrity/jamie_jackson",
+                "celebrityName": "Jamie Jackson"
+            },
+            {
+                "celebrityURL": "/celebrity/betty-gilpin",
+                "celebrityName": "Betty Gilpin"
+            },
+            {
+                "celebrityURL": "/celebrity/willie_garson",
+                "celebrityName": "Willie Garson"
+            },
+            {
+                "celebrityURL": "/celebrity/steve_routman",
+                "celebrityName": "Steve Routman"
+            },
+            {
+                "celebrityURL": "/celebrity/luke_robertson",
+                "celebrityName": "Luke Robertson"
+            },
+            {
+                "celebrityURL": "/celebrity/erin_dilly",
+                "celebrityName": "Erin Dilly"
+            },
+            {
+                "celebrityURL": "/celebrity/mara_davi",
+                "celebrityName": "Mara Davi"
+            },
+            {
+                "celebrityURL": "/celebrity/emily_rutherfurd",
+                "celebrityName": "Emily Rutherfurd"
+            },
+            {
+                "celebrityURL": "/celebrity/aaron-yoo",
+                "celebrityName": "Aaron Yoo"
+            },
+            {
+                "celebrityURL": "/celebrity/adriane-lenox",
+                "celebrityName": "Adriane Lenox"
+            },
+            {
+                "celebrityURL": "/celebrity/rebekah_brockman",
+                "celebrityName": "Rebekah Brockman"
+            },
+            {
+                "celebrityURL": "/celebrity/marisa_ryan",
+                "celebrityName": "Marisa Ryan"
+            },
+            {
+                "celebrityURL": "/celebrity/marta_milans",
+                "celebrityName": "Marta Milans"
+            },
+            {
+                "celebrityURL": "/celebrity/david_starzyk",
+                "celebrityName": "David Starzyk"
+            },
+            {
+                "celebrityURL": "/celebrity/hari_dhillon",
+                "celebrityName": "Hari Dhillon"
+            },
+            {
+                "celebrityURL": "/celebrity/christian_campbell",
+                "celebrityName": "Christian Campbell"
+            },
+            {
+                "celebrityURL": "/celebrity/orlagh_cassidy",
+                "celebrityName": "Orlagh Cassidy"
+            },
+            {
+                "celebrityURL": "/celebrity/madison_arnold",
+                "celebrityName": "Madison Arnold"
+            },
+            {
+                "celebrityURL": "/celebrity/jennifer_laura_thompson",
+                "celebrityName": "Jennifer Laura Thompson"
+            },
+            {
+                "celebrityURL": "/celebrity/nick_wyman",
+                "celebrityName": "Nick Wyman"
+            },
+            {
+                "celebrityURL": "/celebrity/johnny_hopkins",
+                "celebrityName": "Johnny Hopkins"
+            },
+            {
+                "celebrityURL": "/celebrity/john-rothman",
+                "celebrityName": "John Rothman"
+            },
+            {
+                "celebrityURL": "/celebrity/bryan_terrell_clark",
+                "celebrityName": "Bryan Terrell Clark"
+            },
+            {
+                "celebrityURL": "/celebrity/eva_kaminsky",
+                "celebrityName": "Eva Kaminsky"
+            },
+            {
+                "celebrityURL": "/celebrity/alysia_reiner",
+                "celebrityName": "Alysia Reiner"
+            },
+            {
+                "celebrityURL": "/celebrity/mercedes_ruehl",
+                "celebrityName": "Mercedes Ruehl"
+            },
+            {
+                "celebrityURL": "/celebrity/lorenzo_pisoni",
+                "celebrityName": "Lorenzo Pisoni"
+            },
+            {
+                "celebrityURL": "/celebrity/wakeema_hollis",
+                "celebrityName": "Wakeema Hollis"
+            },
+            {
+                "celebrityURL": "/celebrity/steffanie_leigh",
+                "celebrityName": "Steffanie Leigh"
+            },
+            {
+                "celebrityURL": "/celebrity/harold_perrineau_jr",
+                "celebrityName": "Harold Perrineau"
+            },
+            {
+                "celebrityURL": "/celebrity/burke_moses",
+                "celebrityName": "Burke Moses"
+            },
+            {
+                "celebrityURL": "/celebrity/michael_genet",
+                "celebrityName": "Michael Genet"
+            },
+            {
+                "celebrityURL": "/celebrity/remy_auberjonois",
+                "celebrityName": "Remy Auberjonois"
+            },
+            {
+                "celebrityURL": "/celebrity/james_padric",
+                "celebrityName": "James Padric"
+            },
+            {
+                "celebrityURL": "/celebrity/greg_grunberg",
+                "celebrityName": "Greg Grunberg"
+            },
+            {
+                "celebrityURL": "/celebrity/mickey_solis",
+                "celebrityName": "Mickey Solis"
+            },
+            {
+                "celebrityURL": "/celebrity/jimmy_palumbo",
+                "celebrityName": "Jimmy Palumbo"
+            },
+            {
+                "celebrityURL": "/celebrity/brittany_furlan",
+                "celebrityName": "Brittany Furlan"
+            },
+            {
+                "celebrityURL": "/celebrity/jacqueline_antaramian",
+                "celebrityName": "Jacqueline Antaramian"
+            },
+            {
+                "celebrityURL": "/celebrity/paulina-porizkova",
+                "celebrityName": "Paulina Porizkova"
+            },
+            {
+                "celebrityURL": "/celebrity/jordan_dean",
+                "celebrityName": "Jordan Dean"
+            },
+            {
+                "celebrityURL": "/celebrity/karina_arroyave",
+                "celebrityName": "Karina Arroyave"
+            },
+            {
+                "celebrityURL": "/celebrity/leslie_hendrix",
+                "celebrityName": "Leslie Hendrix"
+            },
+            {
+                "celebrityURL": "/celebrity/rocco_dispirito",
+                "celebrityName": "Rocco DiSpirito"
+            },
+            {
+                "celebrityURL": "/celebrity/vanessa_kai",
+                "celebrityName": "Vanessa Kai"
+            },
+            {
+                "celebrityURL": "/celebrity/ty-jones",
+                "celebrityName": "Ty Jones"
+            },
+            {
+                "celebrityURL": "/celebrity/frankie_muniz",
+                "celebrityName": "Frankie Muniz"
+            },
+            {
+                "celebrityURL": "/celebrity/herbert_pj_marshall",
+                "celebrityName": "Herbert P.J. Marshall"
+            },
+            {
+                "celebrityURL": "/celebrity/scott_cohen",
+                "celebrityName": "Scott Cohen"
+            },
+            {
+                "celebrityURL": "/celebrity/marylouise_burke",
+                "celebrityName": "Marylouise Burke"
+            },
+            {
+                "celebrityURL": "/celebrity/kaili_vernoff",
+                "celebrityName": "Kaili Vernoff"
+            },
+            {
+                "celebrityURL": "/celebrity/monique_barbee",
+                "celebrityName": "Monique Barbee"
+            },
+            {
+                "celebrityURL": "/celebrity/danny_johnson",
+                "celebrityName": "Danny Johnson"
+            },
+            {
+                "celebrityURL": "/celebrity/john_palladino",
+                "celebrityName": "John Palladino"
+            },
+            {
+                "celebrityURL": "/celebrity/frank_harts",
+                "celebrityName": "Frank Harts"
+            },
+            {
+                "celebrityURL": "/celebrity/michael_masini",
+                "celebrityName": "Michael Masini"
+            },
+            {
+                "celebrityURL": "/celebrity/ryan_serhant",
+                "celebrityName": "Ryan Serhant"
+            },
+            {
+                "celebrityURL": "/celebrity/mia_katigbak",
+                "celebrityName": "Mia Katigbak"
+            },
+            {
+                "celebrityURL": "/celebrity/kathleen_garrett",
+                "celebrityName": "Kathleen Garrett"
+            },
+            {
+                "celebrityURL": "/celebrity/lewis_grosso",
+                "celebrityName": "Lewis Grosso"
+            },
+            {
+                "celebrityURL": "/celebrity/mia_vallet",
+                "celebrityName": "Mia Vallet"
+            },
+            {
+                "celebrityURL": "/celebrity/victor_fischbarg",
+                "celebrityName": "Victor Fischbarg"
+            },
+            {
+                "celebrityURL": "/celebrity/john_clarence_stuart",
+                "celebrityName": "John Clarence Stuart"
+            },
+            {
+                "celebrityURL": "/celebrity/alx_james",
+                "celebrityName": "Alx James"
+            }
+        ]
+    },
+    {
+        "url": "/tv/the_detour",
+        "title": "The Detour",
+        "description": "Misadventures plague a family when they embark on a vacation in this comedy.",
+        "genres": "Comedy",
+        "network": "TBS",
+        "premiere": "Apr 11, 2016",
+        "execProducers": [],
+        "seasons": [
+            "/tv/the_detour/s03",
+            "/tv/the_detour/s02",
+            "/tv/the_detour/s01"
+        ],
+        "cast": [
+            {
+                "celebrityURL": "/celebrity/jason_jones",
+                "celebrityName": "Jason Jones",
+                "character": "Nate"
+            },
+            {
+                "celebrityURL": "/celebrity/natalie_zea",
+                "celebrityName": "Natalie Zea",
+                "character": "Robin"
+            },
+            {
+                "celebrityURL": "/celebrity/ashley_gerasimovich",
+                "celebrityName": "Ashley Gerasimovich",
+                "character": "Delilah"
+            },
+            {
+                "celebrityURL": "/celebrity/liam_carroll",
+                "celebrityName": "Liam Carroll",
+                "character": "Jared"
+            },
+            {
+                "celebrityURL": "/celebrity/daniella_pineda",
+                "celebrityName": "Daniella Pineda",
+                "character": "Vanessa"
+            }
+        ]
+    }
+]

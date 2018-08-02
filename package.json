@@ -1,0 +1,23 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Quispe",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "event-stream": "^3.3.4",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "clone": "^2.1.1",
+    "eslint-config-google": "^0.9.1"
+  }
+}

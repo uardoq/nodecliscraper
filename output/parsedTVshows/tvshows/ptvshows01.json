@@ -1,0 +1,341 @@
+[
+    {
+        "url": "/tv/freakshow",
+        "title": "Freakshow",
+        "description": "Chronicling life at California's Venice Beach Freakshow, a repository for unique performers, humans extraordinaire, bizarre creatures and unusual artifacts.",
+        "genres": "Todd Ray, Greg Johnson",
+        "network": "AMC",
+        "premiere": "Feb 14, 2013",
+        "execProducers": [],
+        "seasons": [
+            "/tv/freakshow/s02",
+            "/tv/freakshow/s01"
+        ],
+        "cast": [
+            {
+                "celebrityURL": "/celebrity/todd_ray",
+                "celebrityName": "Todd Ray"
+            },
+            {
+                "celebrityURL": "/celebrity/danielle_ray",
+                "celebrityName": "Danielle Ray"
+            },
+            {
+                "celebrityURL": "/celebrity/morgue",
+                "celebrityName": "Morgue"
+            },
+            {
+                "celebrityURL": "/celebrity/creature",
+                "celebrityName": "Creature"
+            },
+            {
+                "celebrityURL": "/celebrity/brianna_belladonna",
+                "celebrityName": "Brianna Belladonna"
+            },
+            {
+                "celebrityURL": "/celebrity/brianna",
+                "celebrityName": "Brianna"
+            },
+            {
+                "celebrityURL": "/celebrity/phoenix",
+                "celebrityName": "Phoenix"
+            },
+            {
+                "celebrityURL": "/celebrity/phoenix_ray",
+                "celebrityName": "Phoenix Ray"
+            },
+            {
+                "celebrityURL": "/celebrity/murrugun",
+                "celebrityName": "Murrugun"
+            },
+            {
+                "celebrityURL": "/celebrity/george",
+                "celebrityName": "George"
+            },
+            {
+                "celebrityURL": "/celebrity/george_bell",
+                "celebrityName": "George Bell"
+            },
+            {
+                "celebrityURL": "/celebrity/ali_chapman",
+                "celebrityName": "Ali Chapman"
+            },
+            {
+                "celebrityURL": "/celebrity/asia",
+                "celebrityName": "Asia"
+            },
+            {
+                "celebrityURL": "/celebrity/asia_ray",
+                "celebrityName": "Asia Ray"
+            },
+            {
+                "celebrityURL": "/celebrity/garry_turner",
+                "celebrityName": "Garry Turner"
+            },
+            {
+                "celebrityURL": "/celebrity/the_amazing_boobzilla",
+                "celebrityName": "The Amazing Boobzilla"
+            },
+            {
+                "celebrityURL": "/celebrity/jesse_the_half_man",
+                "celebrityName": "Jesse the Half Man"
+            },
+            {
+                "celebrityURL": "/celebrity/zamora_the_torture_king",
+                "celebrityName": "Zamora the Torture King"
+            },
+            {
+                "celebrityURL": "/celebrity/short_e_dangerously",
+                "celebrityName": "Short E. Dangerously"
+            },
+            {
+                "celebrityURL": "/celebrity/jim_the_armless_wonder",
+                "celebrityName": "Jim the Armless Wonder"
+            },
+            {
+                "celebrityURL": "/celebrity/space_cowboy",
+                "celebrityName": "Space Cowboy"
+            }
+        ]
+    },
+    {
+        "url": "/tv/little_women_la_terra_s_little_family",
+        "title": "Little Women: Terra's Little Family",
+        "description": "The life of Terra Jolé of \"Little Women: LA\" and her family is documented.",
+        "genres": "Chris Coelen, Karrie Wolfe, Katie Griffin, Eric Detwiler, Kathleen Burns, Terra Jole, Eli Lehrer, Mary Donahue, Mary Donahue, Mariana Flynn",
+        "network": "Lifetime",
+        "premiere": "Apr 8, 2015",
+        "execProducers": [],
+        "seasons": [
+            "/tv/little_women_la_terra_s_little_family/s02",
+            "/tv/little_women_la_terra_s_little_family/s01"
+        ],
+        "cast": [
+            {
+                "celebrityURL": "/celebrity/terra_jole",
+                "celebrityName": "Terra Jole"
+            },
+            {
+                "celebrityURL": "/celebrity/joe_gnoffo",
+                "celebrityName": "Joe Gnoffo"
+            }
+        ]
+    },
+    {
+        "url": "/tv/little_women_la",
+        "title": "Little Women: LA",
+        "description": "The lives of a group of girlfriends who happen to be little people are chronicled.",
+        "genres": "",
+        "network": "Lifetime",
+        "premiere": "Terra Jole, Chris Coelen, Karrie Wolfe, Katie Griffin, Sara Mast, Kathleen Burns, Eli Lehrer, Mary Donahue, Mary Donahue, Mariana Flynn",
+        "execProducers": [],
+        "seasons": [
+            "/tv/little_women_la/s06",
+            "/tv/little_women_la/s05",
+            "/tv/little_women_la/s04",
+            "/tv/little_women_la/s03",
+            "/tv/little_women_la/s02",
+            "/tv/little_women_la/s01"
+        ],
+        "cast": [
+            {
+                "celebrityURL": "/celebrity/terra_jole",
+                "celebrityName": "Terra Jole"
+            },
+            {
+                "celebrityURL": "/celebrity/tonya_banks",
+                "celebrityName": "Tonya Banks"
+            },
+            {
+                "celebrityURL": "/celebrity/elena_gant",
+                "celebrityName": "Elena Gant"
+            },
+            {
+                "celebrityURL": "/celebrity/christy_mcginity",
+                "celebrityName": "Christy McGinity"
+            },
+            {
+                "celebrityURL": "/celebrity/briana_manson",
+                "celebrityName": "Briana Manson"
+            },
+            {
+                "celebrityURL": "/celebrity/jasmine_arteaga_sorge",
+                "celebrityName": "Jasmine Arteaga Sorge"
+            },
+            {
+                "celebrityURL": "/celebrity/traci_harrison",
+                "celebrityName": "Traci Harrison"
+            },
+            {
+                "celebrityURL": "/celebrity/kevin_frazier",
+                "celebrityName": "Kevin Frazier"
+            },
+            {
+                "celebrityURL": "/celebrity/kerry_gordy",
+                "celebrityName": "Kerry Gordy"
+            }
+        ]
+    },
+    {
+        "url": "/tv/little_women_ny",
+        "title": "Little Women: NY",
+        "description": "The lives of a group of girlfriends living in New York City who happen to be little people are chronicled.",
+        "genres": "Chris Coelen, Karrie Wolfe, Katie Griffin, Elizabeth Grizzle Voorhees, Kathleen Burns, Terra Jole, Eli Lehrer, Mary Donahue, Mariana Flynn, Mary Donahue",
+        "network": "Lifetime",
+        "premiere": "Mar 25, 2015",
+        "execProducers": [],
+        "seasons": [
+            "/tv/little_women_ny/s02",
+            "/tv/little_women_ny/s01"
+        ],
+        "cast": [
+            {
+                "celebrityURL": "/celebrity/lila_call",
+                "celebrityName": "Lila Call"
+            },
+            {
+                "celebrityURL": "/celebrity/jordanna_james",
+                "celebrityName": "Jordanna James"
+            },
+            {
+                "celebrityURL": "/celebrity/misty_irwin",
+                "celebrityName": "Misty Irwin"
+            },
+            {
+                "celebrityURL": "/celebrity/dawn_lang",
+                "celebrityName": "Dawn Lang"
+            },
+            {
+                "celebrityURL": "/celebrity/jessica_capri",
+                "celebrityName": "Jessica Capri"
+            },
+            {
+                "celebrityURL": "/celebrity/jazmin_lang",
+                "celebrityName": "Jazmin Lang"
+            },
+            {
+                "celebrityURL": "/celebrity/kristin_zettlemoyer",
+                "celebrityName": "Kristin Zettlemoyer"
+            },
+            {
+                "celebrityURL": "/celebrity/katie_snyder",
+                "celebrityName": "Katie Snyder"
+            },
+            {
+                "celebrityURL": "/celebrity/jason_perez",
+                "celebrityName": "Jason Perez"
+            }
+        ]
+    },
+    {
+        "url": "/tv/years_of_living_dangerously",
+        "title": "Years of Living Dangerously",
+        "description": "Celebrity correspondents around the world travel to different parts of the world to assess and witness the impacts of climate change happening right now.",
+        "genres": "Documentary",
+        "network": "Showtime",
+        "premiere": "Apr 13, 2014",
+        "execProducers": [],
+        "seasons": [
+            "/tv/years_of_living_dangerously/s02",
+            "/tv/years_of_living_dangerously/s01"
+        ],
+        "cast": [
+            {
+                "celebrityURL": "/celebrity/jessica_alba",
+                "celebrityName": "Jessica Alba"
+            },
+            {
+                "celebrityURL": "/celebrity/mark_bittman",
+                "celebrityName": "Mark Bittman"
+            },
+            {
+                "celebrityURL": "/celebrity/don_cheadle",
+                "celebrityName": "Don Cheadle"
+            },
+            {
+                "celebrityURL": "/celebrity/matt_damon",
+                "celebrityName": "Matt Damon"
+            },
+            {
+                "celebrityURL": "/celebrity/america_ferrera",
+                "celebrityName": "America Ferrera"
+            },
+            {
+                "celebrityURL": "/celebrity/harrison_ford",
+                "celebrityName": "Harrison Ford"
+            },
+            {
+                "celebrityURL": "/celebrity/1068917-thomas_friedman",
+                "celebrityName": "Thomas Friedman"
+            },
+            {
+                "celebrityURL": "/celebrity/michael_c_hall",
+                "celebrityName": "Michael C. Hall"
+            },
+            {
+                "celebrityURL": "/celebrity/christopher_hayes",
+                "celebrityName": "Christopher Hayes"
+            },
+            {
+                "celebrityURL": "/celebrity/olivia_munn",
+                "celebrityName": "Olivia Munn"
+            },
+            {
+                "celebrityURL": "/celebrity/m_sanjayan",
+                "celebrityName": "M. Sanjayan"
+            },
+            {
+                "celebrityURL": "/celebrity/arnold_schwarzenegger",
+                "celebrityName": "Arnold Schwarzenegger"
+            },
+            {
+                "celebrityURL": "/celebrity/ian_somerhalder",
+                "celebrityName": "Ian Somerhalder"
+            },
+            {
+                "celebrityURL": "/celebrity/lesley_stahl",
+                "celebrityName": "Lesley Stahl"
+            },
+            {
+                "celebrityURL": "/celebrity/bradley_whitford",
+                "celebrityName": "Bradley Whitford"
+            },
+            {
+                "celebrityURL": "/celebrity/michael_grimm",
+                "celebrityName": "Michael Grimm"
+            },
+            {
+                "celebrityURL": "/celebrity/joshua_jackson",
+                "celebrityName": "Joshua Jackson"
+            },
+            {
+                "celebrityURL": "/celebrity/nikki_reed",
+                "celebrityName": "Nikki Reed"
+            },
+            {
+                "celebrityURL": "/celebrity/jay_inslee",
+                "celebrityName": "Jay Inslee"
+            },
+            {
+                "celebrityURL": "/celebrity/david_letterman",
+                "celebrityName": "David Letterman"
+            },
+            {
+                "celebrityURL": "/celebrity/chris_christie",
+                "celebrityName": "Chris Christie"
+            },
+            {
+                "celebrityURL": "/celebrity/cecily_strong",
+                "celebrityName": "Cecily Strong"
+            },
+            {
+                "celebrityURL": "/celebrity/aasif_mandvi",
+                "celebrityName": "Aasif Mandvi"
+            },
+            {
+                "celebrityURL": "/celebrity/james_m_taylor",
+                "celebrityName": "James M. Taylor"
+            }
+        ]
+    }
+]
